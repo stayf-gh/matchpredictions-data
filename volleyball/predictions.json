@@ -1,11 +1,3960 @@
 {
-  "generated_at": "2025-10-27T23:13:48.609694",
-  "total_predictions": 0,
+  "generated_at": "2025-10-27T23:25:06.699458",
+  "total_predictions": 42,
   "api_calls_used": 7,
-  "predictions": [],
+  "predictions": [
+    {
+      "match_id": 189760,
+      "date": "2025-10-28T00:00:00+00:00",
+      "league": {
+        "id": 25,
+        "name": "SuperLiga",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/25.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 172,
+          "name": "Sada Cruzeiro",
+          "logo": "https://media.api-sports.io/volley/teams/172.png"
+        },
+        "away": {
+          "id": 173,
+          "name": "Sesi",
+          "logo": "https://media.api-sports.io/volley/teams/173.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 173,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.698458"
+    },
+    {
+      "match_id": 187854,
+      "date": "2025-10-28T10:00:00+00:00",
+      "league": {
+        "id": 152,
+        "name": "Volleyball League Women",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/152.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 1182,
+          "name": "IBK W",
+          "logo": "https://media.api-sports.io/volley/teams/1182.png"
+        },
+        "away": {
+          "id": 1178,
+          "name": "Expressway Co W",
+          "logo": "https://media.api-sports.io/volley/teams/1178.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 1178,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.698458"
+    },
+    {
+      "match_id": 187980,
+      "date": "2025-10-28T10:00:00+00:00",
+      "league": {
+        "id": 151,
+        "name": "Volleyball League",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/151.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 1176,
+          "name": "Woori",
+          "logo": "https://media.api-sports.io/volley/teams/1176.png"
+        },
+        "away": {
+          "id": 1175,
+          "name": "Samsung Blue Fangs",
+          "logo": "https://media.api-sports.io/volley/teams/1175.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 1175,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.698458"
+    },
+    {
+      "match_id": 191056,
+      "date": "2025-10-28T11:00:00+00:00",
+      "league": {
+        "id": 172,
+        "name": "Efeler Ligi",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/172.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 3504,
+          "name": "Gaziantep Genclik",
+          "logo": "https://media.api-sports.io/volley/teams/3504.png"
+        },
+        "away": {
+          "id": 1305,
+          "name": "Alanya Bld",
+          "logo": "https://media.api-sports.io/volley/teams/1305.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 1305,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.698458"
+    },
+    {
+      "match_id": 191057,
+      "date": "2025-10-28T11:00:00+00:00",
+      "league": {
+        "id": 172,
+        "name": "Efeler Ligi",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/172.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 3795,
+          "name": "Gebze",
+          "logo": "https://media.api-sports.io/volley/teams/3795.png"
+        },
+        "away": {
+          "id": 1287,
+          "name": "Ziraat Bankasi",
+          "logo": "https://media.api-sports.io/volley/teams/1287.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 1287,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.698458"
+    },
+    {
+      "match_id": 186419,
+      "date": "2025-10-28T12:00:00+00:00",
+      "league": {
+        "id": 43,
+        "name": "1. liga Women",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/43.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 3039,
+          "name": "Prostejov B W",
+          "logo": "https://media.api-sports.io/volley/teams/3039.png"
+        },
+        "away": {
+          "id": 300,
+          "name": "KP Brno B W",
+          "logo": "https://media.api-sports.io/volley/teams/300.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 300,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.698458"
+    },
+    {
+      "match_id": 183681,
+      "date": "2025-10-28T13:00:00+00:00",
+      "league": {
+        "id": 39,
+        "name": "Extraliga Women",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/39.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 292,
+          "name": "Olymp Prague W",
+          "logo": "https://media.api-sports.io/volley/teams/292.png"
+        },
+        "away": {
+          "id": 3722,
+          "name": "Lvi Prague W",
+          "logo": "https://media.api-sports.io/volley/teams/3722.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 3722,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.698458"
+    },
+    {
+      "match_id": 191059,
+      "date": "2025-10-28T13:30:00+00:00",
+      "league": {
+        "id": 172,
+        "name": "Efeler Ligi",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/172.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 1283,
+          "name": "Istanbul BB",
+          "logo": "https://media.api-sports.io/volley/teams/1283.png"
+        },
+        "away": {
+          "id": 3978,
+          "name": "Istanbul GSK",
+          "logo": "https://media.api-sports.io/volley/teams/3978.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 3978,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.698458"
+    },
+    {
+      "match_id": 191058,
+      "date": "2025-10-28T14:00:00+00:00",
+      "league": {
+        "id": 172,
+        "name": "Efeler Ligi",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/172.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 1304,
+          "name": "Akkus Bld",
+          "logo": "https://media.api-sports.io/volley/teams/1304.png"
+        },
+        "away": {
+          "id": 1302,
+          "name": "Cizre Bld",
+          "logo": "https://media.api-sports.io/volley/teams/1302.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 1302,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.698458"
+    },
+    {
+      "match_id": 191060,
+      "date": "2025-10-28T14:00:00+00:00",
+      "league": {
+        "id": 172,
+        "name": "Efeler Ligi",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/172.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 1275,
+          "name": "Altekma",
+          "logo": "https://media.api-sports.io/volley/teams/1275.png"
+        },
+        "away": {
+          "id": 1278,
+          "name": "Bursa",
+          "logo": "https://media.api-sports.io/volley/teams/1278.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 1278,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.698458"
+    },
+    {
+      "match_id": 191061,
+      "date": "2025-10-28T14:30:00+00:00",
+      "league": {
+        "id": 172,
+        "name": "Efeler Ligi",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/172.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 1281,
+          "name": "Halkbank",
+          "logo": "https://media.api-sports.io/volley/teams/1281.png"
+        },
+        "away": {
+          "id": 1279,
+          "name": "Galatasaray",
+          "logo": "https://media.api-sports.io/volley/teams/1279.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 1279,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.698458"
+    },
+    {
+      "match_id": 186114,
+      "date": "2025-10-28T15:00:00+00:00",
+      "league": {
+        "id": 133,
+        "name": "Superleague Women",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/133.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 1057,
+          "name": "Saratov W",
+          "logo": "https://media.api-sports.io/volley/teams/1057.png"
+        },
+        "away": {
+          "id": 111,
+          "name": "Minchanka W",
+          "logo": "https://media.api-sports.io/volley/teams/111.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 111,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.698458"
+    },
+    {
+      "match_id": 182008,
+      "date": "2025-10-28T16:30:00+00:00",
+      "league": {
+        "id": 113,
+        "name": "PlusLiga",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/113.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 1349,
+          "name": "Barkom",
+          "logo": "https://media.api-sports.io/volley/teams/1349.png"
+        },
+        "away": {
+          "id": 945,
+          "name": "Norwid Czestochowa",
+          "logo": "https://media.api-sports.io/volley/teams/945.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 945,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.698458"
+    },
+    {
+      "match_id": 184640,
+      "date": "2025-10-28T16:30:00+00:00",
+      "league": {
+        "id": 58,
+        "name": "Mestaruusliiga Women",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/58.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 459,
+          "name": "Kangasala W",
+          "logo": "https://media.api-sports.io/volley/teams/459.png"
+        },
+        "away": {
+          "id": 462,
+          "name": "LiigaPloki W",
+          "logo": "https://media.api-sports.io/volley/teams/462.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 462,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.698458"
+    },
+    {
+      "match_id": 186115,
+      "date": "2025-10-28T16:30:00+00:00",
+      "league": {
+        "id": 133,
+        "name": "Superleague Women",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/133.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 1058,
+          "name": "Tulitsa W",
+          "logo": "https://media.api-sports.io/volley/teams/1058.png"
+        },
+        "away": {
+          "id": 1054,
+          "name": "Metar Chelyabinsk W",
+          "logo": "https://media.api-sports.io/volley/teams/1054.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 1054,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.698458"
+    },
+    {
+      "match_id": 181839,
+      "date": "2025-10-28T17:00:00+00:00",
+      "league": {
+        "id": 248,
+        "name": "Champions League",
+        "type": "Cup",
+        "logo": "https://media.api-sports.io/volley/leagues/248.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 1014,
+          "name": "Dinamo Bucuresti",
+          "logo": "https://media.api-sports.io/volley/teams/1014.png"
+        },
+        "away": {
+          "id": 3935,
+          "name": "VC Strumica",
+          "logo": "https://media.api-sports.io/volley/teams/3935.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 3935,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.698458"
+    },
+    {
+      "match_id": 189888,
+      "date": "2025-10-28T17:00:00+00:00",
+      "league": {
+        "id": 87,
+        "name": "Premier League",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/87.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 2132,
+          "name": "Maccabi Ashdod",
+          "logo": "https://media.api-sports.io/volley/teams/2132.png"
+        },
+        "away": {
+          "id": 685,
+          "name": "M. Hadera Hefer",
+          "logo": "https://media.api-sports.io/volley/teams/685.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 685,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.698458"
+    },
+    {
+      "match_id": 189889,
+      "date": "2025-10-28T17:00:00+00:00",
+      "league": {
+        "id": 87,
+        "name": "Premier League",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/87.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 686,
+          "name": "M. Hod Hasharon",
+          "logo": "https://media.api-sports.io/volley/teams/686.png"
+        },
+        "away": {
+          "id": 682,
+          "name": "H. Mate Asher",
+          "logo": "https://media.api-sports.io/volley/teams/682.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 682,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.698458"
+    },
+    {
+      "match_id": 190375,
+      "date": "2025-10-28T17:00:00+00:00",
+      "league": {
+        "id": 23,
+        "name": "Premijer liga",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/23.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 3551,
+          "name": "Ilidza",
+          "logo": "https://media.api-sports.io/volley/teams/3551.png"
+        },
+        "away": {
+          "id": 4135,
+          "name": "Tempo",
+          "logo": "https://media.api-sports.io/volley/teams/4135.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 4135,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.698458"
+    },
+    {
+      "match_id": 191622,
+      "date": "2025-10-28T17:00:00+00:00",
+      "league": {
+        "id": 150,
+        "name": "Slovenia Cup Women",
+        "type": "Cup",
+        "logo": "https://media.api-sports.io/volley/leagues/150.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 1974,
+          "name": "Novo Mesto W",
+          "logo": "https://media.api-sports.io/volley/teams/1974.png"
+        },
+        "away": {
+          "id": 1152,
+          "name": "GEN-I Volley NG W",
+          "logo": "https://media.api-sports.io/volley/teams/1152.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 1152,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.698458"
+    },
+    {
+      "match_id": 185425,
+      "date": "2025-10-28T17:30:00+00:00",
+      "league": {
+        "id": 51,
+        "name": "Volleyligaen Women",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/51.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 355,
+          "name": "Koge W",
+          "logo": "https://media.api-sports.io/volley/teams/355.png"
+        },
+        "away": {
+          "id": 348,
+          "name": "Brondby W",
+          "logo": "https://media.api-sports.io/volley/teams/348.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 348,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.698458"
+    },
+    {
+      "match_id": 186454,
+      "date": "2025-10-28T17:30:00+00:00",
+      "league": {
+        "id": 46,
+        "name": "1. Division East Women",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/46.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 379,
+          "name": "Lyngby W",
+          "logo": "https://media.api-sports.io/volley/teams/379.png"
+        },
+        "away": {
+          "id": 347,
+          "name": "Amager W",
+          "logo": "https://media.api-sports.io/volley/teams/347.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 347,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.698458"
+    },
+    {
+      "match_id": 189890,
+      "date": "2025-10-28T17:30:00+00:00",
+      "league": {
+        "id": 87,
+        "name": "Premier League",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/87.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 1765,
+          "name": "Hapoel Jerusalem",
+          "logo": "https://media.api-sports.io/volley/teams/1765.png"
+        },
+        "away": {
+          "id": 683,
+          "name": "Hapoel Kiryat Ata",
+          "logo": "https://media.api-sports.io/volley/teams/683.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 683,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.698458"
+    },
+    {
+      "match_id": 190869,
+      "date": "2025-10-28T17:30:00+00:00",
+      "league": {
+        "id": 41,
+        "name": "Czech Cup",
+        "type": "Cup",
+        "logo": "https://media.api-sports.io/volley/leagues/41.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 3721,
+          "name": "Kolin",
+          "logo": "https://media.api-sports.io/volley/teams/3721.png"
+        },
+        "away": {
+          "id": 285,
+          "name": "Pribram",
+          "logo": "https://media.api-sports.io/volley/teams/285.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 285,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.698458"
+    },
+    {
+      "match_id": 191623,
+      "date": "2025-10-28T17:30:00+00:00",
+      "league": {
+        "id": 150,
+        "name": "Slovenia Cup Women",
+        "type": "Cup",
+        "logo": "https://media.api-sports.io/volley/leagues/150.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 1960,
+          "name": "Vital Ljubljana W",
+          "logo": "https://media.api-sports.io/volley/teams/1960.png"
+        },
+        "away": {
+          "id": 1149,
+          "name": "Ankaran W",
+          "logo": "https://media.api-sports.io/volley/teams/1149.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 1149,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.698458"
+    },
+    {
+      "match_id": 181519,
+      "date": "2025-10-28T18:00:00+00:00",
+      "league": {
+        "id": 160,
+        "name": "Elitserien",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/160.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 1212,
+          "name": "Hylte/Halmstad",
+          "logo": "https://media.api-sports.io/volley/teams/1212.png"
+        },
+        "away": {
+          "id": 1214,
+          "name": "Orkelljunga",
+          "logo": "https://media.api-sports.io/volley/teams/1214.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 1214,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.698458"
+    },
+    {
+      "match_id": 182871,
+      "date": "2025-10-28T18:00:00+00:00",
+      "league": {
+        "id": 66,
+        "name": "1. Bundesliga",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/66.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 519,
+          "name": "Netzhoppers",
+          "logo": "https://media.api-sports.io/volley/teams/519.png"
+        },
+        "away": {
+          "id": 516,
+          "name": "Giesen",
+          "logo": "https://media.api-sports.io/volley/teams/516.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 516,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.698458"
+    },
+    {
+      "match_id": 188112,
+      "date": "2025-10-28T18:00:00+00:00",
+      "league": {
+        "id": 63,
+        "name": "Ligue A",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/63.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 472,
+          "name": "Cannes",
+          "logo": "https://media.api-sports.io/volley/teams/472.png"
+        },
+        "away": {
+          "id": 487,
+          "name": "Poitiers",
+          "logo": "https://media.api-sports.io/volley/teams/487.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 487,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.698458"
+    },
+    {
+      "match_id": 189891,
+      "date": "2025-10-28T18:00:00+00:00",
+      "league": {
+        "id": 87,
+        "name": "Premier League",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/87.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 2133,
+          "name": "Rehovot",
+          "logo": "https://media.api-sports.io/volley/teams/2133.png"
+        },
+        "away": {
+          "id": 687,
+          "name": "M. Tel Aviv",
+          "logo": "https://media.api-sports.io/volley/teams/687.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 687,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.698458"
+    },
+    {
+      "match_id": 190870,
+      "date": "2025-10-28T18:00:00+00:00",
+      "league": {
+        "id": 41,
+        "name": "Czech Cup",
+        "type": "Cup",
+        "logo": "https://media.api-sports.io/volley/leagues/41.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 327,
+          "name": "Velke Mezirici",
+          "logo": "https://media.api-sports.io/volley/teams/327.png"
+        },
+        "away": {
+          "id": 281,
+          "name": "Kladno",
+          "logo": "https://media.api-sports.io/volley/teams/281.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 281,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.699458"
+    },
+    {
+      "match_id": 182872,
+      "date": "2025-10-28T18:30:00+00:00",
+      "league": {
+        "id": 66,
+        "name": "1. Bundesliga",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/66.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 1645,
+          "name": "Mitteldeutschland",
+          "logo": "https://media.api-sports.io/volley/teams/1645.png"
+        },
+        "away": {
+          "id": 549,
+          "name": "Freiburg",
+          "logo": "https://media.api-sports.io/volley/teams/549.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 549,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.699458"
+    },
+    {
+      "match_id": 184504,
+      "date": "2025-10-28T18:30:00+00:00",
+      "league": {
+        "id": 67,
+        "name": "1. Bundesliga Women",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/67.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 532,
+          "name": "VC Wiesbaden W",
+          "logo": "https://media.api-sports.io/volley/teams/532.png"
+        },
+        "away": {
+          "id": 524,
+          "name": "Erfurt W",
+          "logo": "https://media.api-sports.io/volley/teams/524.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 524,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.699458"
+    },
+    {
+      "match_id": 188113,
+      "date": "2025-10-28T19:00:00+00:00",
+      "league": {
+        "id": 63,
+        "name": "Ligue A",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/63.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 470,
+          "name": "Chaumont",
+          "logo": "https://media.api-sports.io/volley/teams/470.png"
+        },
+        "away": {
+          "id": 489,
+          "name": "Sete",
+          "logo": "https://media.api-sports.io/volley/teams/489.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 489,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.699458"
+    },
+    {
+      "match_id": 188114,
+      "date": "2025-10-28T19:00:00+00:00",
+      "league": {
+        "id": 63,
+        "name": "Ligue A",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/63.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 479,
+          "name": "Montpellier",
+          "logo": "https://media.api-sports.io/volley/teams/479.png"
+        },
+        "away": {
+          "id": 491,
+          "name": "Tourcoing",
+          "logo": "https://media.api-sports.io/volley/teams/491.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 491,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.699458"
+    },
+    {
+      "match_id": 188115,
+      "date": "2025-10-28T19:00:00+00:00",
+      "league": {
+        "id": 63,
+        "name": "Ligue A",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/63.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 484,
+          "name": "Nice",
+          "logo": "https://media.api-sports.io/volley/teams/484.png"
+        },
+        "away": {
+          "id": 486,
+          "name": "Plessis Robinson",
+          "logo": "https://media.api-sports.io/volley/teams/486.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 486,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.699458"
+    },
+    {
+      "match_id": 188116,
+      "date": "2025-10-28T19:00:00+00:00",
+      "league": {
+        "id": 63,
+        "name": "Ligue A",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/63.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 485,
+          "name": "Paris",
+          "logo": "https://media.api-sports.io/volley/teams/485.png"
+        },
+        "away": {
+          "id": 490,
+          "name": "Toulouse",
+          "logo": "https://media.api-sports.io/volley/teams/490.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 490,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.699458"
+    },
+    {
+      "match_id": 188117,
+      "date": "2025-10-28T19:00:00+00:00",
+      "league": {
+        "id": 63,
+        "name": "Ligue A",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/63.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 3636,
+          "name": "St. Nazaire",
+          "logo": "https://media.api-sports.io/volley/teams/3636.png"
+        },
+        "away": {
+          "id": 469,
+          "name": "Ajaccio",
+          "logo": "https://media.api-sports.io/volley/teams/469.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 469,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.699458"
+    },
+    {
+      "match_id": 188118,
+      "date": "2025-10-28T19:00:00+00:00",
+      "league": {
+        "id": 63,
+        "name": "Ligue A",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/63.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 492,
+          "name": "Tours",
+          "logo": "https://media.api-sports.io/volley/teams/492.png"
+        },
+        "away": {
+          "id": 482,
+          "name": "Narbonne",
+          "logo": "https://media.api-sports.io/volley/teams/482.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 482,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.699458"
+    },
+    {
+      "match_id": 191624,
+      "date": "2025-10-28T19:00:00+00:00",
+      "league": {
+        "id": 150,
+        "name": "Slovenia Cup Women",
+        "type": "Cup",
+        "logo": "https://media.api-sports.io/volley/leagues/150.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 3572,
+          "name": "Triglav Kranj W",
+          "logo": "https://media.api-sports.io/volley/teams/3572.png"
+        },
+        "away": {
+          "id": 3905,
+          "name": "Radovljica W",
+          "logo": "https://media.api-sports.io/volley/teams/3905.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 3905,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.699458"
+    },
+    {
+      "match_id": 186545,
+      "date": "2025-10-28T19:30:00+00:00",
+      "league": {
+        "id": 48,
+        "name": "1. Division East",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/48.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 397,
+          "name": "Koge",
+          "logo": "https://media.api-sports.io/volley/teams/397.png"
+        },
+        "away": {
+          "id": 361,
+          "name": "Amager 2",
+          "logo": "https://media.api-sports.io/volley/teams/361.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 361,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.699458"
+    },
+    {
+      "match_id": 191625,
+      "date": "2025-10-28T19:30:00+00:00",
+      "league": {
+        "id": 150,
+        "name": "Slovenia Cup Women",
+        "type": "Cup",
+        "logo": "https://media.api-sports.io/volley/leagues/150.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 3858,
+          "name": "ZOK Triglav Kranj W",
+          "logo": "https://media.api-sports.io/volley/teams/3858.png"
+        },
+        "away": {
+          "id": 1151,
+          "name": "Calcit Kamnik W",
+          "logo": "https://media.api-sports.io/volley/teams/1151.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 1151,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.699458"
+    },
+    {
+      "match_id": 189761,
+      "date": "2025-10-28T21:30:00+00:00",
+      "league": {
+        "id": 25,
+        "name": "SuperLiga",
+        "type": "League",
+        "logo": "https://media.api-sports.io/volley/leagues/25.png",
+        "season": 2025
+      },
+      "teams": {
+        "home": {
+          "id": 176,
+          "name": "Volei Renata",
+          "logo": "https://media.api-sports.io/volley/teams/176.png"
+        },
+        "away": {
+          "id": 2135,
+          "name": "Goias",
+          "logo": "https://media.api-sports.io/volley/teams/2135.png"
+        }
+      },
+      "prediction": {
+        "predicted_winner": 2135,
+        "team1_probability": 50.0,
+        "team2_probability": 50.0,
+        "confidence": 50.0,
+        "confidence_level": "منخفضة",
+        "predicted_score": "1-3",
+        "analysis": {
+          "team1_strength": 0.0,
+          "team2_strength": 0.0,
+          "key_factors": [
+            "مباراة متوازنة"
+          ]
+        }
+      },
+      "team_stats": {
+        "home": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        },
+        "away": {
+          "matches_played": 0,
+          "wins": 0,
+          "losses": 0,
+          "sets_won": 0,
+          "sets_lost": 0,
+          "points_for": 0,
+          "points_against": 0,
+          "win_percentage": 0.0,
+          "set_ratio": 0,
+          "point_ratio": 0,
+          "form": [],
+          "home_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "away_record": {
+            "wins": 0,
+            "losses": 0
+          },
+          "recent_performance": 0.0
+        }
+      },
+      "head_to_head": {
+        "total_matches": 0,
+        "team1_wins": 0,
+        "team2_wins": 0,
+        "last_5_results": [],
+        "avg_sets_team1": 0.0,
+        "avg_sets_team2": 0.0,
+        "last_meeting": null
+      },
+      "generated_at": "2025-10-27T23:25:06.699458"
+    }
+  ],
   "summary": {
     "high_confidence": 0,
     "medium_confidence": 0,
-    "low_confidence": 0
+    "low_confidence": 42
   }
 }
