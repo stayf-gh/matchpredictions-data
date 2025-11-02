@@ -1061,7 +1061,7 @@
       },
       {
         "season": 2025,
-        "current": true,
+        "current": false,
         "start": "2025-09-20",
         "end": "2025-11-02"
       },
@@ -1105,7 +1105,7 @@
       },
       {
         "season": 2025,
-        "current": true,
+        "current": false,
         "start": "2025-09-20",
         "end": "2025-11-02"
       },
@@ -1993,7 +1993,7 @@
         "season": 2025,
         "current": true,
         "start": "2025-10-24",
-        "end": "2025-11-12"
+        "end": "2025-11-05"
       }
     ]
   },
@@ -4427,9 +4427,9 @@
       },
       {
         "season": 2025,
-        "current": false,
+        "current": true,
         "start": "2025-10-30",
-        "end": "2025-11-01"
+        "end": "2025-11-02"
       },
       {
         "season": 2022,
@@ -4477,7 +4477,7 @@
       },
       {
         "season": 2025,
-        "current": false,
+        "current": true,
         "start": "2025-10-27",
         "end": "2025-11-02"
       },
@@ -6781,7 +6781,7 @@
         "season": 2025,
         "current": false,
         "start": "2025-11-08",
-        "end": "2025-11-08"
+        "end": "2025-11-09"
       },
       {
         "season": 2018,
@@ -8789,7 +8789,7 @@
       },
       {
         "season": 2025,
-        "current": true,
+        "current": false,
         "start": "2025-10-07",
         "end": "2025-10-27"
       },
@@ -12609,9 +12609,9 @@
       },
       {
         "season": 2025,
-        "current": false,
+        "current": true,
         "start": "2025-10-28",
-        "end": "2025-10-29"
+        "end": "2025-12-23"
       },
       {
         "season": 2014,
@@ -14073,7 +14073,7 @@
         "season": 2025,
         "current": true,
         "start": "2025-10-25",
-        "end": "2025-11-02"
+        "end": "2025-11-26"
       },
       {
         "season": 2024,
@@ -14103,9 +14103,9 @@
     "seasons": [
       {
         "season": 2025,
-        "current": false,
+        "current": true,
         "start": "2025-10-11",
-        "end": "2025-10-26"
+        "end": "2025-11-23"
       },
       {
         "season": 2023,
