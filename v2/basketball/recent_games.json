@@ -4636,6 +4636,44 @@
     "periods": null
   },
   {
+    "id": 466128,
+    "date": "2025-11-16T14:30:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 50,
+      "name": "Super League",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/50.png"
+    },
+    "country": {
+      "id": 21,
+      "name": "Ireland",
+      "code": "IE",
+      "flag": "https://media.api-sports.io/flags/ie.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 665,
+        "name": "Belfast",
+        "logo": "https://media.api-sports.io/basketball/teams/665.png"
+      },
+      "away": {
+        "id": 668,
+        "name": "Eanna",
+        "logo": "https://media.api-sports.io/basketball/teams/668.png"
+      }
+    },
+    "scores": {
+      "home": 85,
+      "away": 74
+    },
+    "periods": null
+  },
+  {
     "id": 473955,
     "date": "2025-11-16T14:30:00+00:00",
     "status": {
