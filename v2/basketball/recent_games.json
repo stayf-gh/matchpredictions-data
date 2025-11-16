@@ -4636,6 +4636,44 @@
     "periods": null
   },
   {
+    "id": 473955,
+    "date": "2025-11-16T14:30:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 409,
+      "name": "Division 1",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/409.png"
+    },
+    "country": {
+      "id": 77,
+      "name": "Lebanon",
+      "code": "LB",
+      "flag": "https://media.api-sports.io/flags/lb.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 4418,
+        "name": "Al-Riyadi",
+        "logo": "https://media.api-sports.io/basketball/teams/4418.png"
+      },
+      "away": {
+        "id": 6357,
+        "name": "Champville",
+        "logo": "https://media.api-sports.io/basketball/teams/6357.png"
+      }
+    },
+    "scores": {
+      "home": 84,
+      "away": 78
+    },
+    "periods": null
+  },
+  {
     "id": 467426,
     "date": "2025-11-15T00:00:00+00:00",
     "status": {
