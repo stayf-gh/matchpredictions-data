@@ -1,15 +1,25 @@
 [
   {
-    "id": 184684,
-    "homeTeam": "Piotrkowianin Piotrkow",
-    "awayTeam": "Gwardia Opole",
-    "homeScore": 16,
-    "awayScore": 14,
+    "id": 184691,
+    "homeTeam": "Gwardia Opole",
+    "awayTeam": "MMTS Kwidzyn",
+    "homeLogo": "https://media.api-sports.io/handball/teams/686.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/688.png",
+    "homeScore": 22,
+    "awayScore": 22,
     "period": null,
     "timeRemaining": null,
     "status": "2H",
     "venue": null,
     "competition": "Superliga",
-    "lastUpdated": "2025-11-17T21:32:38.135672"
+    "league": {
+      "id": 78,
+      "name": "Superliga",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/78.png",
+      "season": 2025,
+      "country": "Poland"
+    },
+    "lastUpdated": "2025-11-24T21:56:58.615965"
   }
 ]
