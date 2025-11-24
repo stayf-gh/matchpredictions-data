@@ -2,9 +2,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Africa"
+    },
     "country": "Africa",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -12,9 +20,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Africa"
+    },
     "country": "Africa",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -22,9 +38,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Africa"
+    },
     "country": "Africa",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -32,9 +56,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Africa"
+    },
     "country": "Africa",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -42,9 +74,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Asia"
+    },
     "country": "Asia",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -52,9 +92,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Asia"
+    },
     "country": "Asia",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -62,9 +110,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Asia"
+    },
     "country": "Asia",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -72,9 +128,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Asia"
+    },
     "country": "Asia",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -82,9 +146,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Austria"
+    },
     "country": "Austria",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -92,9 +164,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Austria"
+    },
     "country": "Austria",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -102,9 +182,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Austria"
+    },
     "country": "Austria",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -112,9 +200,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Austria"
+    },
     "country": "Austria",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -122,9 +218,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Austria"
+    },
     "country": "Austria",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -132,9 +236,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Belarus"
+    },
     "country": "Belarus",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -142,9 +254,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Belgium"
+    },
     "country": "Belgium",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -152,9 +272,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Bosnia-And-Herzegovina"
+    },
     "country": "Bosnia-And-Herzegovina",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -162,9 +290,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Bulgaria"
+    },
     "country": "Bulgaria",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -172,9 +308,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Croatia"
+    },
     "country": "Croatia",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -182,9 +326,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Croatia"
+    },
     "country": "Croatia",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -192,9 +344,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Czech-Republic"
+    },
     "country": "Czech-Republic",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -202,9 +362,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Czech-Republic"
+    },
     "country": "Czech-Republic",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -212,9 +380,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Czech-Republic"
+    },
     "country": "Czech-Republic",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -222,9 +398,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Denmark"
+    },
     "country": "Denmark",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -232,9 +416,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Denmark"
+    },
     "country": "Denmark",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -242,9 +434,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Denmark"
+    },
     "country": "Denmark",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -252,9 +452,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Denmark"
+    },
     "country": "Denmark",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -262,9 +470,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Denmark"
+    },
     "country": "Denmark",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -272,9 +488,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Denmark"
+    },
     "country": "Denmark",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -282,9 +506,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Denmark"
+    },
     "country": "Denmark",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -292,9 +524,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Denmark"
+    },
     "country": "Denmark",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -302,9 +542,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Denmark"
+    },
     "country": "Denmark",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -312,9 +560,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Denmark"
+    },
     "country": "Denmark",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -322,9 +578,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Estonia"
+    },
     "country": "Estonia",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -332,9 +596,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -342,9 +614,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -352,9 +632,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -362,9 +650,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -372,9 +668,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -382,9 +686,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -392,9 +704,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -402,9 +722,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -412,9 +740,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -422,9 +758,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -432,9 +776,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -442,9 +794,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -452,9 +812,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -462,9 +830,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -472,9 +848,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -482,9 +866,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -492,9 +884,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -502,9 +902,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -512,9 +920,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -522,9 +938,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -532,9 +956,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -542,9 +974,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -552,9 +992,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -562,9 +1010,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -572,9 +1028,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -582,9 +1046,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -592,9 +1064,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -602,9 +1082,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -612,9 +1100,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -622,9 +1118,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -632,9 +1136,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -642,9 +1154,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -652,9 +1172,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -662,9 +1190,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -672,9 +1208,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -682,9 +1226,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -692,9 +1244,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -702,9 +1262,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -712,9 +1280,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Europe"
+    },
     "country": "Europe",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -722,9 +1298,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Finland"
+    },
     "country": "Finland",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -732,9 +1316,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Finland"
+    },
     "country": "Finland",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -742,9 +1334,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Finland"
+    },
     "country": "Finland",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -752,9 +1352,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Finland"
+    },
     "country": "Finland",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -762,9 +1370,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "France"
+    },
     "country": "France",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -772,9 +1388,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "France"
+    },
     "country": "France",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -782,9 +1406,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "France"
+    },
     "country": "France",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -792,9 +1424,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "France"
+    },
     "country": "France",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -802,9 +1442,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "France"
+    },
     "country": "France",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -812,9 +1460,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "France"
+    },
     "country": "France",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -822,9 +1478,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "France"
+    },
     "country": "France",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -832,9 +1496,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "France"
+    },
     "country": "France",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -842,9 +1514,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Germany"
+    },
     "country": "Germany",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -852,9 +1532,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Germany"
+    },
     "country": "Germany",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -862,9 +1550,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Germany"
+    },
     "country": "Germany",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -872,9 +1568,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Germany"
+    },
     "country": "Germany",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -882,9 +1586,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Germany"
+    },
     "country": "Germany",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -892,9 +1604,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Germany"
+    },
     "country": "Germany",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -902,9 +1622,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Germany"
+    },
     "country": "Germany",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -912,9 +1640,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Germany"
+    },
     "country": "Germany",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -922,9 +1658,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Greece"
+    },
     "country": "Greece",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -932,9 +1676,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Greece"
+    },
     "country": "Greece",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -942,9 +1694,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Hungary"
+    },
     "country": "Hungary",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -952,9 +1712,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Hungary"
+    },
     "country": "Hungary",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -962,9 +1730,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Hungary"
+    },
     "country": "Hungary",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -972,9 +1748,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Hungary"
+    },
     "country": "Hungary",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -982,9 +1766,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Iceland"
+    },
     "country": "Iceland",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -992,9 +1784,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Iceland"
+    },
     "country": "Iceland",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1002,9 +1802,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Israel"
+    },
     "country": "Israel",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1012,9 +1820,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Italy"
+    },
     "country": "Italy",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1022,9 +1838,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Italy"
+    },
     "country": "Italy",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1032,9 +1856,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Italy"
+    },
     "country": "Italy",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1042,9 +1874,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Italy"
+    },
     "country": "Italy",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1052,9 +1892,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Italy"
+    },
     "country": "Italy",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1062,9 +1910,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Italy"
+    },
     "country": "Italy",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1072,9 +1928,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Japan"
+    },
     "country": "Japan",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1082,9 +1946,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Japan"
+    },
     "country": "Japan",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1092,9 +1964,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Latvia"
+    },
     "country": "Latvia",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1102,9 +1982,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Lithuania"
+    },
     "country": "Lithuania",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1112,9 +2000,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Luxembourg"
+    },
     "country": "Luxembourg",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1122,9 +2018,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Luxembourg"
+    },
     "country": "Luxembourg",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1132,9 +2036,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Malta"
+    },
     "country": "Malta",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1142,9 +2054,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Montenegro"
+    },
     "country": "Montenegro",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1152,9 +2072,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Netherlands"
+    },
     "country": "Netherlands",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1162,9 +2090,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Netherlands"
+    },
     "country": "Netherlands",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1172,9 +2108,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Netherlands"
+    },
     "country": "Netherlands",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1182,9 +2126,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "North-Macedonia"
+    },
     "country": "North-Macedonia",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1192,9 +2144,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "North-Macedonia"
+    },
     "country": "North-Macedonia",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1202,9 +2162,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Norway"
+    },
     "country": "Norway",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1212,9 +2180,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Norway"
+    },
     "country": "Norway",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1222,9 +2198,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Norway"
+    },
     "country": "Norway",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1232,9 +2216,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Norway"
+    },
     "country": "Norway",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1242,9 +2234,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Norway"
+    },
     "country": "Norway",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1252,9 +2252,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Norway"
+    },
     "country": "Norway",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1262,9 +2270,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Norway"
+    },
     "country": "Norway",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1272,9 +2288,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Norway"
+    },
     "country": "Norway",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1282,9 +2306,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Poland"
+    },
     "country": "Poland",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1292,9 +2324,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Poland"
+    },
     "country": "Poland",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1302,9 +2342,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Poland"
+    },
     "country": "Poland",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1312,9 +2360,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Poland"
+    },
     "country": "Poland",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1322,9 +2378,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Poland"
+    },
     "country": "Poland",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1332,9 +2396,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Poland"
+    },
     "country": "Poland",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1342,9 +2414,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Poland"
+    },
     "country": "Poland",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1352,9 +2432,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Poland"
+    },
     "country": "Poland",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1362,9 +2450,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Portugal"
+    },
     "country": "Portugal",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1372,9 +2468,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Portugal"
+    },
     "country": "Portugal",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1382,9 +2486,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Portugal"
+    },
     "country": "Portugal",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1392,9 +2504,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Portugal"
+    },
     "country": "Portugal",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1402,9 +2522,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Romania"
+    },
     "country": "Romania",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1412,9 +2540,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Romania"
+    },
     "country": "Romania",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1422,9 +2558,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Romania"
+    },
     "country": "Romania",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1432,9 +2576,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Romania"
+    },
     "country": "Romania",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1442,9 +2594,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Romania"
+    },
     "country": "Romania",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1452,9 +2612,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Romania"
+    },
     "country": "Romania",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1462,9 +2630,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Russia"
+    },
     "country": "Russia",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1472,9 +2648,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Russia"
+    },
     "country": "Russia",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1482,9 +2666,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Russia"
+    },
     "country": "Russia",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1492,9 +2684,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Russia"
+    },
     "country": "Russia",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1502,9 +2702,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Russia"
+    },
     "country": "Russia",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1512,9 +2720,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Russia"
+    },
     "country": "Russia",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1522,9 +2738,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Serbia"
+    },
     "country": "Serbia",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1532,9 +2756,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Serbia"
+    },
     "country": "Serbia",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1542,9 +2774,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Slovakia"
+    },
     "country": "Slovakia",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1552,9 +2792,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Slovakia"
+    },
     "country": "Slovakia",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1562,9 +2810,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Slovakia"
+    },
     "country": "Slovakia",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1572,9 +2828,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Slovenia"
+    },
     "country": "Slovenia",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1582,9 +2846,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Slovenia"
+    },
     "country": "Slovenia",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1592,9 +2864,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "South-Korea"
+    },
     "country": "South-Korea",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1602,9 +2882,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "South-Korea"
+    },
     "country": "South-Korea",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1612,9 +2900,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Spain"
+    },
     "country": "Spain",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1622,9 +2918,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Spain"
+    },
     "country": "Spain",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1632,9 +2936,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Spain"
+    },
     "country": "Spain",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1642,9 +2954,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Spain"
+    },
     "country": "Spain",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1652,9 +2972,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Spain"
+    },
     "country": "Spain",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1662,9 +2990,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Spain"
+    },
     "country": "Spain",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1672,9 +3008,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Spain"
+    },
     "country": "Spain",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1682,9 +3026,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Spain"
+    },
     "country": "Spain",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1692,9 +3044,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Sweden"
+    },
     "country": "Sweden",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1702,9 +3062,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Sweden"
+    },
     "country": "Sweden",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1712,9 +3080,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Sweden"
+    },
     "country": "Sweden",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1722,9 +3098,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Sweden"
+    },
     "country": "Sweden",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1732,9 +3116,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Sweden"
+    },
     "country": "Sweden",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1742,9 +3134,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Sweden"
+    },
     "country": "Sweden",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1752,9 +3152,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Switzerland"
+    },
     "country": "Switzerland",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1762,9 +3170,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Switzerland"
+    },
     "country": "Switzerland",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1772,9 +3188,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Switzerland"
+    },
     "country": "Switzerland",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1782,9 +3206,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Switzerland"
+    },
     "country": "Switzerland",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1792,9 +3224,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Switzerland"
+    },
     "country": "Switzerland",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1802,9 +3242,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Switzerland"
+    },
     "country": "Switzerland",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1812,9 +3260,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Turkey"
+    },
     "country": "Turkey",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1822,9 +3278,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Turkey"
+    },
     "country": "Turkey",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1832,9 +3296,17 @@
   {
     "id": null,
     "name": null,
+    "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "Ukraine"
+    },
     "country": "Ukraine",
-    "season": null,
-    "type": null,
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1842,9 +3314,17 @@
   {
     "id": null,
     "name": null,
-    "country": "World",
-    "season": null,
     "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "World"
+    },
+    "country": "World",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1852,9 +3332,17 @@
   {
     "id": null,
     "name": null,
-    "country": "World",
-    "season": null,
     "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "World"
+    },
+    "country": "World",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1862,9 +3350,17 @@
   {
     "id": null,
     "name": null,
-    "country": "World",
-    "season": null,
     "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "World"
+    },
+    "country": "World",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1872,9 +3368,17 @@
   {
     "id": null,
     "name": null,
-    "country": "World",
-    "season": null,
     "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "World"
+    },
+    "country": "World",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1882,9 +3386,17 @@
   {
     "id": null,
     "name": null,
-    "country": "World",
-    "season": null,
     "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "World"
+    },
+    "country": "World",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1892,9 +3404,17 @@
   {
     "id": null,
     "name": null,
-    "country": "World",
-    "season": null,
     "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "World"
+    },
+    "country": "World",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1902,9 +3422,17 @@
   {
     "id": null,
     "name": null,
-    "country": "World",
-    "season": null,
     "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "World"
+    },
+    "country": "World",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1912,9 +3440,17 @@
   {
     "id": null,
     "name": null,
-    "country": "World",
-    "season": null,
     "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "World"
+    },
+    "country": "World",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1922,9 +3458,17 @@
   {
     "id": null,
     "name": null,
-    "country": "World",
-    "season": null,
     "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "World"
+    },
+    "country": "World",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1932,9 +3476,17 @@
   {
     "id": null,
     "name": null,
-    "country": "World",
-    "season": null,
     "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "World"
+    },
+    "country": "World",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1942,9 +3494,17 @@
   {
     "id": null,
     "name": null,
-    "country": "World",
-    "season": null,
     "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "World"
+    },
+    "country": "World",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1952,9 +3512,17 @@
   {
     "id": null,
     "name": null,
-    "country": "World",
-    "season": null,
     "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "World"
+    },
+    "country": "World",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1962,9 +3530,17 @@
   {
     "id": null,
     "name": null,
-    "country": "World",
-    "season": null,
     "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "World"
+    },
+    "country": "World",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1972,9 +3548,17 @@
   {
     "id": null,
     "name": null,
-    "country": "World",
-    "season": null,
     "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "World"
+    },
+    "country": "World",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1982,9 +3566,17 @@
   {
     "id": null,
     "name": null,
-    "country": "World",
-    "season": null,
     "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "World"
+    },
+    "country": "World",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -1992,9 +3584,17 @@
   {
     "id": null,
     "name": null,
-    "country": "World",
-    "season": null,
     "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "World"
+    },
+    "country": "World",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -2002,9 +3602,17 @@
   {
     "id": null,
     "name": null,
-    "country": "World",
-    "season": null,
     "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "World"
+    },
+    "country": "World",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -2012,9 +3620,17 @@
   {
     "id": null,
     "name": null,
-    "country": "World",
-    "season": null,
     "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "World"
+    },
+    "country": "World",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -2022,9 +3638,17 @@
   {
     "id": null,
     "name": null,
-    "country": "World",
-    "season": null,
     "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "World"
+    },
+    "country": "World",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -2032,9 +3656,17 @@
   {
     "id": null,
     "name": null,
-    "country": "World",
-    "season": null,
     "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "World"
+    },
+    "country": "World",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -2042,9 +3674,17 @@
   {
     "id": null,
     "name": null,
-    "country": "World",
-    "season": null,
     "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "World"
+    },
+    "country": "World",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -2052,9 +3692,17 @@
   {
     "id": null,
     "name": null,
-    "country": "World",
-    "season": null,
     "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "World"
+    },
+    "country": "World",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -2062,9 +3710,17 @@
   {
     "id": null,
     "name": null,
-    "country": "World",
-    "season": null,
     "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "World"
+    },
+    "country": "World",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -2072,9 +3728,17 @@
   {
     "id": null,
     "name": null,
-    "country": "World",
-    "season": null,
     "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "World"
+    },
+    "country": "World",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -2082,9 +3746,17 @@
   {
     "id": null,
     "name": null,
-    "country": "World",
-    "season": null,
     "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "World"
+    },
+    "country": "World",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -2092,9 +3764,17 @@
   {
     "id": null,
     "name": null,
-    "country": "World",
-    "season": null,
     "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "World"
+    },
+    "country": "World",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -2102,9 +3782,17 @@
   {
     "id": null,
     "name": null,
-    "country": "World",
-    "season": null,
     "type": null,
+    "season": null,
+    "league": {
+      "id": null,
+      "name": null,
+      "type": null,
+      "logo": null,
+      "season": null,
+      "country": "World"
+    },
+    "country": "World",
     "startDate": null,
     "endDate": null,
     "isActive": true
