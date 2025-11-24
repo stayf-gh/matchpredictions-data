@@ -5,8 +5,8 @@
     "awayTeam": "MMTS Kwidzyn",
     "homeLogo": "https://media.api-sports.io/handball/teams/686.png",
     "awayLogo": "https://media.api-sports.io/handball/teams/688.png",
-    "homeScore": 22,
-    "awayScore": 22,
+    "homeScore": 30,
+    "awayScore": 32,
     "period": null,
     "timeRemaining": null,
     "status": "2H",
@@ -20,6 +20,6 @@
       "season": 2025,
       "country": "Poland"
     },
-    "lastUpdated": "2025-11-24T21:56:58.615965"
+    "lastUpdated": "2025-11-24T22:11:42.476434"
   }
 ]
