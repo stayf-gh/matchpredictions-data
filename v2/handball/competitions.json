@@ -18,37 +18,19 @@
     "isActive": true
   },
   {
-    "id": 47,
-    "name": "A1",
+    "id": 70,
+    "name": "1. Division Women",
     "type": "League",
     "season": 2025,
     "league": {
-      "id": 47,
-      "name": "A1",
+      "id": 70,
+      "name": "1. Division Women",
       "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/47.png",
+      "logo": "https://media.api-sports.io/handball/leagues/70.png",
       "season": 2025,
-      "country": "Greece"
+      "country": "Norway"
     },
-    "country": "Greece",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 55,
-    "name": "Division 1",
-    "type": "League",
-    "season": 2025,
-    "league": {
-      "id": 55,
-      "name": "Division 1",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/55.png",
-      "season": 2025,
-      "country": "Israel"
-    },
-    "country": "Israel",
+    "country": "Norway",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -72,451 +54,55 @@
     "isActive": true
   },
   {
-    "id": 43,
-    "name": "2. Bundesliga",
+    "id": 61,
+    "name": "Lietuvos Lyga",
     "type": "League",
     "season": 2025,
     "league": {
-      "id": 43,
-      "name": "2. Bundesliga",
+      "id": 61,
+      "name": "Lietuvos Lyga",
       "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/43.png",
+      "logo": "https://media.api-sports.io/handball/leagues/61.png",
       "season": 2025,
-      "country": "Germany"
+      "country": "Lithuania"
     },
-    "country": "Germany",
+    "country": "Lithuania",
     "startDate": null,
     "endDate": null,
     "isActive": true
   },
   {
-    "id": 23,
-    "name": "Herre Handbold Ligaen",
+    "id": 47,
+    "name": "A1",
     "type": "League",
     "season": 2025,
     "league": {
-      "id": 23,
-      "name": "Herre Handbold Ligaen",
+      "id": 47,
+      "name": "A1",
       "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/23.png",
+      "logo": "https://media.api-sports.io/handball/leagues/47.png",
       "season": 2025,
-      "country": "Denmark"
+      "country": "Greece"
     },
-    "country": "Denmark",
+    "country": "Greece",
     "startDate": null,
     "endDate": null,
     "isActive": true
   },
   {
-    "id": 78,
-    "name": "Superliga",
-    "type": "League",
-    "season": 2025,
-    "league": {
-      "id": 78,
-      "name": "Superliga",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/78.png",
-      "season": 2025,
-      "country": "Poland"
-    },
-    "country": "Poland",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 104,
-    "name": "Division de Honor Plata",
-    "type": "League",
-    "season": 2025,
-    "league": {
-      "id": 104,
-      "name": "Division de Honor Plata",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/104.png",
-      "season": 2025,
-      "country": "Spain"
-    },
-    "country": "Spain",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 147,
-    "name": "European Cup",
+    "id": 154,
+    "name": "World Championship Women",
     "type": "Cup",
-    "season": 2025,
+    "season": 2024,
     "league": {
-      "id": 147,
-      "name": "European Cup",
+      "id": 154,
+      "name": "World Championship Women",
       "type": "Cup",
-      "logo": "https://media.api-sports.io/handball/leagues/147.png",
-      "season": 2025,
-      "country": "Europe"
-    },
-    "country": "Europe",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 213,
-    "name": "Posten Cup Women",
-    "type": "Cup",
-    "season": 2025,
-    "league": {
-      "id": 213,
-      "name": "Posten Cup Women",
-      "type": "Cup",
-      "logo": "https://media.api-sports.io/handball/leagues/213.png",
-      "season": 2025,
+      "logo": "https://media.api-sports.io/handball/leagues/154.png",
+      "season": 2024,
       "country": "World"
     },
     "country": "World",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 111,
-    "name": "Allsvenskan",
-    "type": "League",
-    "season": 2025,
-    "league": {
-      "id": 111,
-      "name": "Allsvenskan",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/111.png",
-      "season": 2025,
-      "country": "Sweden"
-    },
-    "country": "Sweden",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 82,
-    "name": "I Liga Women",
-    "type": "League",
-    "season": 2025,
-    "league": {
-      "id": 82,
-      "name": "I Liga Women",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/82.png",
-      "season": 2025,
-      "country": "Poland"
-    },
-    "country": "Poland",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 91,
-    "name": "Superleague",
-    "type": "League",
-    "season": 2025,
-    "league": {
-      "id": 91,
-      "name": "Superleague",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/91.png",
-      "season": 2025,
-      "country": "Russia"
-    },
-    "country": "Russia",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 15,
-    "name": "1. Division",
-    "type": "League",
-    "season": 2025,
-    "league": {
-      "id": 15,
-      "name": "1. Division",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/15.png",
-      "season": 2025,
-      "country": "Denmark"
-    },
-    "country": "Denmark",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 39,
-    "name": "Bundesliga",
-    "type": "League",
-    "season": 2025,
-    "league": {
-      "id": 39,
-      "name": "Bundesliga",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/39.png",
-      "season": 2025,
-      "country": "Germany"
-    },
-    "country": "Germany",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 81,
-    "name": "I Liga",
-    "type": "League",
-    "season": 2025,
-    "league": {
-      "id": 81,
-      "name": "I Liga",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/81.png",
-      "season": 2025,
-      "country": "Poland"
-    },
-    "country": "Poland",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 197,
-    "name": "Friendly International Women",
-    "type": "League",
-    "season": 2025,
-    "league": {
-      "id": 197,
-      "name": "Friendly International Women",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/197.png",
-      "season": 2025,
-      "country": "World"
-    },
-    "country": "World",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 127,
-    "name": "Central League",
-    "type": "League",
-    "season": 2025,
-    "league": {
-      "id": 127,
-      "name": "Central League",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/127.png",
-      "season": 2025,
-      "country": "Poland"
-    },
-    "country": "Poland",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 69,
-    "name": "1. Division",
-    "type": "League",
-    "season": 2025,
-    "league": {
-      "id": 69,
-      "name": "1. Division",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/69.png",
-      "season": 2025,
-      "country": "Norway"
-    },
-    "country": "Norway",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 84,
-    "name": "Andebol 1",
-    "type": "League",
-    "season": 2025,
-    "league": {
-      "id": 84,
-      "name": "Andebol 1",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/84.png",
-      "season": 2025,
-      "country": "Portugal"
-    },
-    "country": "Portugal",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 56,
-    "name": "Serie A",
-    "type": "League",
-    "season": 2025,
-    "league": {
-      "id": 56,
-      "name": "Serie A",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/56.png",
-      "season": 2025,
-      "country": "Italy"
-    },
-    "country": "Italy",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 12,
-    "name": "Extraliga",
-    "type": "League",
-    "season": 2025,
-    "league": {
-      "id": 12,
-      "name": "Extraliga",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/12.png",
-      "season": 2025,
-      "country": "Czech-Republic"
-    },
-    "country": "Czech-Republic",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 34,
-    "name": "Starligue",
-    "type": "League",
-    "season": 2025,
-    "league": {
-      "id": 34,
-      "name": "Starligue",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/34.png",
-      "season": 2025,
-      "country": "France"
-    },
-    "country": "France",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 112,
-    "name": "Allsvenskan Women",
-    "type": "League",
-    "season": 2025,
-    "league": {
-      "id": 112,
-      "name": "Allsvenskan Women",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/112.png",
-      "season": 2025,
-      "country": "Sweden"
-    },
-    "country": "Sweden",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 115,
-    "name": "NLA",
-    "type": "League",
-    "season": 2025,
-    "league": {
-      "id": 115,
-      "name": "NLA",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/115.png",
-      "season": 2025,
-      "country": "Switzerland"
-    },
-    "country": "Switzerland",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 87,
-    "name": "Liga Nationala",
-    "type": "League",
-    "season": 2025,
-    "league": {
-      "id": 87,
-      "name": "Liga Nationala",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/87.png",
-      "season": 2025,
-      "country": "Romania"
-    },
-    "country": "Romania",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 1,
-    "name": "WHA Women",
-    "type": "League",
-    "season": 2025,
-    "league": {
-      "id": 1,
-      "name": "WHA Women",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/1.png",
-      "season": 2025,
-      "country": "Austria"
-    },
-    "country": "Austria",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 8,
-    "name": "Premijer Liga",
-    "type": "League",
-    "season": 2025,
-    "league": {
-      "id": 8,
-      "name": "Premijer Liga",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/8.png",
-      "season": 2025,
-      "country": "Bosnia-And-Herzegovina"
-    },
-    "country": "Bosnia-And-Herzegovina",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 103,
-    "name": "Liga ASOBAL",
-    "type": "League",
-    "season": 2025,
-    "league": {
-      "id": 103,
-      "name": "Liga ASOBAL",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/103.png",
-      "season": 2025,
-      "country": "Spain"
-    },
-    "country": "Spain",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -540,19 +126,145 @@
     "isActive": true
   },
   {
-    "id": 10,
-    "name": "Premijer liga",
+    "id": 34,
+    "name": "Starligue",
     "type": "League",
     "season": 2025,
     "league": {
-      "id": 10,
-      "name": "Premijer liga",
+      "id": 34,
+      "name": "Starligue",
       "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/10.png",
+      "logo": "https://media.api-sports.io/handball/leagues/34.png",
       "season": 2025,
-      "country": "Croatia"
+      "country": "France"
     },
-    "country": "Croatia",
+    "country": "France",
+    "startDate": null,
+    "endDate": null,
+    "isActive": true
+  },
+  {
+    "id": 26,
+    "name": "Meistriliiga",
+    "type": "League",
+    "season": 2025,
+    "league": {
+      "id": 26,
+      "name": "Meistriliiga",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/26.png",
+      "season": 2025,
+      "country": "Estonia"
+    },
+    "country": "Estonia",
+    "startDate": null,
+    "endDate": null,
+    "isActive": true
+  },
+  {
+    "id": 8,
+    "name": "Premijer Liga",
+    "type": "League",
+    "season": 2025,
+    "league": {
+      "id": 8,
+      "name": "Premijer Liga",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/8.png",
+      "season": 2025,
+      "country": "Bosnia-And-Herzegovina"
+    },
+    "country": "Bosnia-And-Herzegovina",
+    "startDate": null,
+    "endDate": null,
+    "isActive": true
+  },
+  {
+    "id": 13,
+    "name": "Czech Cup",
+    "type": "Cup",
+    "season": 2025,
+    "league": {
+      "id": 13,
+      "name": "Czech Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/handball/leagues/13.png",
+      "season": 2025,
+      "country": "Czech-Republic"
+    },
+    "country": "Czech-Republic",
+    "startDate": null,
+    "endDate": null,
+    "isActive": true
+  },
+  {
+    "id": 100,
+    "name": "1. NLB Liga",
+    "type": "League",
+    "season": 2025,
+    "league": {
+      "id": 100,
+      "name": "1. NLB Liga",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/100.png",
+      "season": 2025,
+      "country": "Slovenia"
+    },
+    "country": "Slovenia",
+    "startDate": null,
+    "endDate": null,
+    "isActive": true
+  },
+  {
+    "id": 82,
+    "name": "I Liga Women",
+    "type": "League",
+    "season": 2025,
+    "league": {
+      "id": 82,
+      "name": "I Liga Women",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/82.png",
+      "season": 2025,
+      "country": "Poland"
+    },
+    "country": "Poland",
+    "startDate": null,
+    "endDate": null,
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "name": "HLA",
+    "type": "League",
+    "season": 2025,
+    "league": {
+      "id": 2,
+      "name": "HLA",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/2.png",
+      "season": 2025,
+      "country": "Austria"
+    },
+    "country": "Austria",
+    "startDate": null,
+    "endDate": null,
+    "isActive": true
+  },
+  {
+    "id": 81,
+    "name": "I Liga",
+    "type": "League",
+    "season": 2025,
+    "league": {
+      "id": 81,
+      "name": "I Liga",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/81.png",
+      "season": 2025,
+      "country": "Poland"
+    },
+    "country": "Poland",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -576,6 +288,78 @@
     "isActive": true
   },
   {
+    "id": 131,
+    "name": "Champions League",
+    "type": "Cup",
+    "season": 2025,
+    "league": {
+      "id": 131,
+      "name": "Champions League",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/handball/leagues/131.png",
+      "season": 2025,
+      "country": "Europe"
+    },
+    "country": "Europe",
+    "startDate": null,
+    "endDate": null,
+    "isActive": true
+  },
+  {
+    "id": 111,
+    "name": "Allsvenskan",
+    "type": "League",
+    "season": 2025,
+    "league": {
+      "id": 111,
+      "name": "Allsvenskan",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/111.png",
+      "season": 2025,
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "startDate": null,
+    "endDate": null,
+    "isActive": true
+  },
+  {
+    "id": 113,
+    "name": "Handbollsligan",
+    "type": "League",
+    "season": 2025,
+    "league": {
+      "id": 113,
+      "name": "Handbollsligan",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/113.png",
+      "season": 2025,
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "startDate": null,
+    "endDate": null,
+    "isActive": true
+  },
+  {
+    "id": 56,
+    "name": "Serie A",
+    "type": "League",
+    "season": 2025,
+    "league": {
+      "id": 56,
+      "name": "Serie A",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/56.png",
+      "season": 2025,
+      "country": "Italy"
+    },
+    "country": "Italy",
+    "startDate": null,
+    "endDate": null,
+    "isActive": true
+  },
+  {
     "id": 65,
     "name": "Prva liga",
     "type": "League",
@@ -594,51 +378,123 @@
     "isActive": true
   },
   {
-    "id": 7,
-    "name": "Division 1",
-    "type": "League",
-    "season": 2025,
-    "league": {
-      "id": 7,
-      "name": "Division 1",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/7.png",
-      "season": 2025,
-      "country": "Belgium"
-    },
-    "country": "Belgium",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 37,
-    "name": "Superleague",
-    "type": "League",
-    "season": 2025,
-    "league": {
-      "id": 37,
-      "name": "Superleague",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/37.png",
-      "season": 2025,
-      "country": "North-Macedonia"
-    },
-    "country": "North-Macedonia",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 189,
-    "name": "Golden League - France Women",
+    "id": 117,
+    "name": "Schweizer Cup",
     "type": "Cup",
     "season": 2025,
     "league": {
-      "id": 189,
-      "name": "Golden League - France Women",
+      "id": 117,
+      "name": "Schweizer Cup",
       "type": "Cup",
-      "logo": "https://media.api-sports.io/handball/leagues/189.png",
+      "logo": "https://media.api-sports.io/handball/leagues/117.png",
+      "season": 2025,
+      "country": "Switzerland"
+    },
+    "country": "Switzerland",
+    "startDate": null,
+    "endDate": null,
+    "isActive": true
+  },
+  {
+    "id": 92,
+    "name": "Superleague Women",
+    "type": "League",
+    "season": 2025,
+    "league": {
+      "id": 92,
+      "name": "Superleague Women",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/92.png",
+      "season": 2025,
+      "country": "Russia"
+    },
+    "country": "Russia",
+    "startDate": null,
+    "endDate": null,
+    "isActive": true
+  },
+  {
+    "id": 87,
+    "name": "Liga Nationala",
+    "type": "League",
+    "season": 2025,
+    "league": {
+      "id": 87,
+      "name": "Liga Nationala",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/87.png",
+      "season": 2025,
+      "country": "Romania"
+    },
+    "country": "Romania",
+    "startDate": null,
+    "endDate": null,
+    "isActive": true
+  },
+  {
+    "id": 12,
+    "name": "Extraliga",
+    "type": "League",
+    "season": 2025,
+    "league": {
+      "id": 12,
+      "name": "Extraliga",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/12.png",
+      "season": 2025,
+      "country": "Czech-Republic"
+    },
+    "country": "Czech-Republic",
+    "startDate": null,
+    "endDate": null,
+    "isActive": true
+  },
+  {
+    "id": 79,
+    "name": "Polish Cup Women",
+    "type": "Cup",
+    "season": 2025,
+    "league": {
+      "id": 79,
+      "name": "Polish Cup Women",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/handball/leagues/79.png",
+      "season": 2025,
+      "country": "Poland"
+    },
+    "country": "Poland",
+    "startDate": null,
+    "endDate": null,
+    "isActive": true
+  },
+  {
+    "id": 60,
+    "name": "SynotTip Virsliga",
+    "type": "League",
+    "season": 2025,
+    "league": {
+      "id": 60,
+      "name": "SynotTip Virsliga",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/60.png",
+      "season": 2025,
+      "country": "Latvia"
+    },
+    "country": "Latvia",
+    "startDate": null,
+    "endDate": null,
+    "isActive": true
+  },
+  {
+    "id": 145,
+    "name": "EHF European League",
+    "type": "League",
+    "season": 2025,
+    "league": {
+      "id": 145,
+      "name": "EHF European League",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/145.png",
       "season": 2025,
       "country": "Europe"
     },
@@ -648,19 +504,73 @@
     "isActive": true
   },
   {
-    "id": 58,
-    "name": "Serie A Women",
+    "id": 15,
+    "name": "1. Division",
     "type": "League",
     "season": 2025,
     "league": {
-      "id": 58,
-      "name": "Serie A Women",
+      "id": 15,
+      "name": "1. Division",
       "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/58.png",
+      "logo": "https://media.api-sports.io/handball/leagues/15.png",
       "season": 2025,
-      "country": "Italy"
+      "country": "Denmark"
     },
-    "country": "Italy",
+    "country": "Denmark",
+    "startDate": null,
+    "endDate": null,
+    "isActive": true
+  },
+  {
+    "id": 112,
+    "name": "Allsvenskan Women",
+    "type": "League",
+    "season": 2025,
+    "league": {
+      "id": 112,
+      "name": "Allsvenskan Women",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/112.png",
+      "season": 2025,
+      "country": "Sweden"
+    },
+    "country": "Sweden",
+    "startDate": null,
+    "endDate": null,
+    "isActive": true
+  },
+  {
+    "id": 23,
+    "name": "Herre Handbold Ligaen",
+    "type": "League",
+    "season": 2025,
+    "league": {
+      "id": 23,
+      "name": "Herre Handbold Ligaen",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/23.png",
+      "season": 2025,
+      "country": "Denmark"
+    },
+    "country": "Denmark",
+    "startDate": null,
+    "endDate": null,
+    "isActive": true
+  },
+  {
+    "id": 67,
+    "name": "Eredivisie Women",
+    "type": "League",
+    "season": 2025,
+    "league": {
+      "id": 67,
+      "name": "Eredivisie Women",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/67.png",
+      "season": 2025,
+      "country": "Netherlands"
+    },
+    "country": "Netherlands",
     "startDate": null,
     "endDate": null,
     "isActive": true
