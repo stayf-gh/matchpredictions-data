@@ -5,7 +5,30 @@
     "awayTeam": "Faroe Islands W",
     "homeLogo": "https://media.api-sports.io/handball/teams/2245.png",
     "awayLogo": "https://media.api-sports.io/handball/teams/2222.png",
-    "homeScore": 3,
+    "homeScore": 11,
+    "awayScore": 7,
+    "period": null,
+    "timeRemaining": null,
+    "status": "1H",
+    "venue": null,
+    "competition": "World Championship Women",
+    "league": {
+      "id": 154,
+      "name": "World Championship Women",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/handball/leagues/154.png",
+      "season": 2024,
+      "country": "World"
+    },
+    "lastUpdated": "2025-11-26T20:50:35.528579"
+  },
+  {
+    "id": 176805,
+    "homeTeam": "Serbia W",
+    "awayTeam": "Uruguay W",
+    "homeLogo": "https://media.api-sports.io/handball/teams/2238.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/2687.png",
+    "homeScore": 8,
     "awayScore": 5,
     "period": null,
     "timeRemaining": null,
@@ -20,30 +43,7 @@
       "season": 2024,
       "country": "World"
     },
-    "lastUpdated": "2025-11-26T20:38:57.287034"
-  },
-  {
-    "id": 176805,
-    "homeTeam": "Serbia W",
-    "awayTeam": "Uruguay W",
-    "homeLogo": "https://media.api-sports.io/handball/teams/2238.png",
-    "awayLogo": "https://media.api-sports.io/handball/teams/2687.png",
-    "homeScore": 3,
-    "awayScore": 1,
-    "period": null,
-    "timeRemaining": null,
-    "status": "1H",
-    "venue": null,
-    "competition": "World Championship Women",
-    "league": {
-      "id": 154,
-      "name": "World Championship Women",
-      "type": "Cup",
-      "logo": "https://media.api-sports.io/handball/leagues/154.png",
-      "season": 2024,
-      "country": "World"
-    },
-    "lastUpdated": "2025-11-26T20:38:57.287052"
+    "lastUpdated": "2025-11-26T20:50:35.528579"
   },
   {
     "id": 190124,
@@ -51,8 +51,8 @@
     "awayTeam": "Emmen",
     "homeLogo": "https://media.api-sports.io/handball/teams/1975.png",
     "awayLogo": "https://media.api-sports.io/handball/teams/578.png",
-    "homeScore": 4,
-    "awayScore": 1,
+    "homeScore": 9,
+    "awayScore": 5,
     "period": null,
     "timeRemaining": null,
     "status": "1H",
@@ -66,6 +66,29 @@
       "season": 2025,
       "country": "Switzerland"
     },
-    "lastUpdated": "2025-11-26T20:38:57.287059"
+    "lastUpdated": "2025-11-26T20:50:35.528579"
+  },
+  {
+    "id": 178129,
+    "homeTeam": "Eurofarm Pelister",
+    "awayTeam": "SC Magdeburg",
+    "homeLogo": "https://media.api-sports.io/handball/teams/1157.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/328.png",
+    "homeScore": 1,
+    "awayScore": 2,
+    "period": null,
+    "timeRemaining": null,
+    "status": "1H",
+    "venue": null,
+    "competition": "Champions League",
+    "league": {
+      "id": 131,
+      "name": "Champions League",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/handball/leagues/131.png",
+      "season": 2025,
+      "country": "Europe"
+    },
+    "lastUpdated": "2025-11-26T20:50:35.528579"
   }
 ]
