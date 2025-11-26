@@ -1,5 +1,131 @@
 [
   {
+    "id": 82,
+    "name": "I Liga Women",
+    "type": "League",
+    "season": 2025,
+    "league": {
+      "id": 82,
+      "name": "I Liga Women",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/82.png",
+      "season": 2025,
+      "country": "Poland"
+    },
+    "country": "Poland",
+    "startDate": null,
+    "endDate": null,
+    "isActive": true
+  },
+  {
+    "id": 81,
+    "name": "I Liga",
+    "type": "League",
+    "season": 2025,
+    "league": {
+      "id": 81,
+      "name": "I Liga",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/81.png",
+      "season": 2025,
+      "country": "Poland"
+    },
+    "country": "Poland",
+    "startDate": null,
+    "endDate": null,
+    "isActive": true
+  },
+  {
+    "id": 56,
+    "name": "Serie A",
+    "type": "League",
+    "season": 2025,
+    "league": {
+      "id": 56,
+      "name": "Serie A",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/56.png",
+      "season": 2025,
+      "country": "Italy"
+    },
+    "country": "Italy",
+    "startDate": null,
+    "endDate": null,
+    "isActive": true
+  },
+  {
+    "id": 65,
+    "name": "Prva liga",
+    "type": "League",
+    "season": 2025,
+    "league": {
+      "id": 65,
+      "name": "Prva liga",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/65.png",
+      "season": 2025,
+      "country": "Montenegro"
+    },
+    "country": "Montenegro",
+    "startDate": null,
+    "endDate": null,
+    "isActive": true
+  },
+  {
+    "id": 154,
+    "name": "World Championship Women",
+    "type": "Cup",
+    "season": 2024,
+    "league": {
+      "id": 154,
+      "name": "World Championship Women",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/handball/leagues/154.png",
+      "season": 2024,
+      "country": "World"
+    },
+    "country": "World",
+    "startDate": null,
+    "endDate": null,
+    "isActive": true
+  },
+  {
+    "id": 117,
+    "name": "Schweizer Cup",
+    "type": "Cup",
+    "season": 2025,
+    "league": {
+      "id": 117,
+      "name": "Schweizer Cup",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/handball/leagues/117.png",
+      "season": 2025,
+      "country": "Switzerland"
+    },
+    "country": "Switzerland",
+    "startDate": null,
+    "endDate": null,
+    "isActive": true
+  },
+  {
+    "id": 131,
+    "name": "Champions League",
+    "type": "Cup",
+    "season": 2025,
+    "league": {
+      "id": 131,
+      "name": "Champions League",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/handball/leagues/131.png",
+      "season": 2025,
+      "country": "Europe"
+    },
+    "country": "Europe",
+    "startDate": null,
+    "endDate": null,
+    "isActive": true
+  },
+  {
     "id": 120,
     "name": "Superlig",
     "type": "League",
@@ -85,24 +211,6 @@
       "country": "Greece"
     },
     "country": "Greece",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 154,
-    "name": "World Championship Women",
-    "type": "Cup",
-    "season": 2024,
-    "league": {
-      "id": 154,
-      "name": "World Championship Women",
-      "type": "Cup",
-      "logo": "https://media.api-sports.io/handball/leagues/154.png",
-      "season": 2024,
-      "country": "World"
-    },
-    "country": "World",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -216,24 +324,6 @@
     "isActive": true
   },
   {
-    "id": 82,
-    "name": "I Liga Women",
-    "type": "League",
-    "season": 2025,
-    "league": {
-      "id": 82,
-      "name": "I Liga Women",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/82.png",
-      "season": 2025,
-      "country": "Poland"
-    },
-    "country": "Poland",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
     "id": 2,
     "name": "HLA",
     "type": "League",
@@ -252,24 +342,6 @@
     "isActive": true
   },
   {
-    "id": 81,
-    "name": "I Liga",
-    "type": "League",
-    "season": 2025,
-    "league": {
-      "id": 81,
-      "name": "I Liga",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/81.png",
-      "season": 2025,
-      "country": "Poland"
-    },
-    "country": "Poland",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
     "id": 49,
     "name": "NB I",
     "type": "League",
@@ -283,24 +355,6 @@
       "country": "Hungary"
     },
     "country": "Hungary",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 131,
-    "name": "Champions League",
-    "type": "Cup",
-    "season": 2025,
-    "league": {
-      "id": 131,
-      "name": "Champions League",
-      "type": "Cup",
-      "logo": "https://media.api-sports.io/handball/leagues/131.png",
-      "season": 2025,
-      "country": "Europe"
-    },
-    "country": "Europe",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -337,60 +391,6 @@
       "country": "Sweden"
     },
     "country": "Sweden",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 56,
-    "name": "Serie A",
-    "type": "League",
-    "season": 2025,
-    "league": {
-      "id": 56,
-      "name": "Serie A",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/56.png",
-      "season": 2025,
-      "country": "Italy"
-    },
-    "country": "Italy",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 65,
-    "name": "Prva liga",
-    "type": "League",
-    "season": 2025,
-    "league": {
-      "id": 65,
-      "name": "Prva liga",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/65.png",
-      "season": 2025,
-      "country": "Montenegro"
-    },
-    "country": "Montenegro",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 117,
-    "name": "Schweizer Cup",
-    "type": "Cup",
-    "season": 2025,
-    "league": {
-      "id": 117,
-      "name": "Schweizer Cup",
-      "type": "Cup",
-      "logo": "https://media.api-sports.io/handball/leagues/117.png",
-      "season": 2025,
-      "country": "Switzerland"
-    },
-    "country": "Switzerland",
     "startDate": null,
     "endDate": null,
     "isActive": true
