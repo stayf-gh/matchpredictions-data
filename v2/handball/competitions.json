@@ -54,42 +54,6 @@
     "isActive": true
   },
   {
-    "id": 15,
-    "name": "1. Division",
-    "type": "League",
-    "season": 2025,
-    "league": {
-      "id": 15,
-      "name": "1. Division",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/15.png",
-      "season": 2025,
-      "country": "Denmark"
-    },
-    "country": "Denmark",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
-    "id": 43,
-    "name": "2. Bundesliga",
-    "type": "League",
-    "season": 2025,
-    "league": {
-      "id": 43,
-      "name": "2. Bundesliga",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/43.png",
-      "season": 2025,
-      "country": "Germany"
-    },
-    "country": "Germany",
-    "startDate": null,
-    "endDate": null,
-    "isActive": true
-  },
-  {
     "id": 34,
     "name": "Starligue",
     "type": "League",
@@ -157,6 +121,24 @@
       "country": "Iceland"
     },
     "country": "Iceland",
+    "startDate": null,
+    "endDate": null,
+    "isActive": true
+  },
+  {
+    "id": 43,
+    "name": "2. Bundesliga",
+    "type": "League",
+    "season": 2025,
+    "league": {
+      "id": 43,
+      "name": "2. Bundesliga",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/43.png",
+      "season": 2025,
+      "country": "Germany"
+    },
+    "country": "Germany",
     "startDate": null,
     "endDate": null,
     "isActive": true
@@ -373,6 +355,24 @@
       "country": "Slovenia"
     },
     "country": "Slovenia",
+    "startDate": null,
+    "endDate": null,
+    "isActive": true
+  },
+  {
+    "id": 15,
+    "name": "1. Division",
+    "type": "League",
+    "season": 2025,
+    "league": {
+      "id": 15,
+      "name": "1. Division",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/15.png",
+      "season": 2025,
+      "country": "Denmark"
+    },
+    "country": "Denmark",
     "startDate": null,
     "endDate": null,
     "isActive": true
