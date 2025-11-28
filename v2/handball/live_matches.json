@@ -1,58 +1,12 @@
 [
   {
-    "id": 176998,
-    "homeTeam": "Vendsyssel",
-    "awayTeam": "Aarhus Handbold",
-    "homeLogo": "https://media.api-sports.io/handball/teams/159.png",
-    "awayLogo": "https://media.api-sports.io/handball/teams/4663.png",
-    "homeScore": 21,
-    "awayScore": 24,
-    "period": null,
-    "timeRemaining": null,
-    "status": "2H",
-    "venue": null,
-    "competition": "1. Division",
-    "league": {
-      "id": 15,
-      "name": "1. Division",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/15.png",
-      "season": 2025,
-      "country": "Denmark"
-    },
-    "lastUpdated": "2025-11-28T21:01:26.836461"
-  },
-  {
-    "id": 183495,
-    "homeTeam": "Ferndorf",
-    "awayTeam": "Coburg 2000",
-    "homeLogo": "https://media.api-sports.io/handball/teams/337.png",
-    "awayLogo": "https://media.api-sports.io/handball/teams/366.png",
-    "homeScore": 21,
-    "awayScore": 23,
-    "period": null,
-    "timeRemaining": null,
-    "status": "2H",
-    "venue": null,
-    "competition": "2. Bundesliga",
-    "league": {
-      "id": 43,
-      "name": "2. Bundesliga",
-      "type": "League",
-      "logo": "https://media.api-sports.io/handball/leagues/43.png",
-      "season": 2025,
-      "country": "Germany"
-    },
-    "lastUpdated": "2025-11-28T21:01:26.836461"
-  },
-  {
     "id": 179941,
     "homeTeam": "Nimes",
     "awayTeam": "Dijon",
     "homeLogo": "https://media.api-sports.io/handball/teams/258.png",
     "awayLogo": "https://media.api-sports.io/handball/teams/283.png",
-    "homeScore": 16,
-    "awayScore": 14,
+    "homeScore": 20,
+    "awayScore": 19,
     "period": null,
     "timeRemaining": null,
     "status": "2H",
@@ -66,7 +20,7 @@
       "season": 2025,
       "country": "France"
     },
-    "lastUpdated": "2025-11-28T21:01:26.836461"
+    "lastUpdated": "2025-11-28T21:20:17.884085"
   },
   {
     "id": 179944,
@@ -74,8 +28,8 @@
     "awayTeam": "Toulouse",
     "homeLogo": "https://media.api-sports.io/handball/teams/256.png",
     "awayLogo": "https://media.api-sports.io/handball/teams/260.png",
-    "homeScore": 20,
-    "awayScore": 18,
+    "homeScore": 25,
+    "awayScore": 26,
     "period": null,
     "timeRemaining": null,
     "status": "2H",
@@ -89,7 +43,7 @@
       "season": 2025,
       "country": "France"
     },
-    "lastUpdated": "2025-11-28T21:01:26.836461"
+    "lastUpdated": "2025-11-28T21:20:17.884085"
   },
   {
     "id": 179945,
@@ -97,8 +51,8 @@
     "awayTeam": "Tremblay",
     "homeLogo": "https://media.api-sports.io/handball/teams/248.png",
     "awayLogo": "https://media.api-sports.io/handball/teams/261.png",
-    "homeScore": 23,
-    "awayScore": 15,
+    "homeScore": 31,
+    "awayScore": 25,
     "period": null,
     "timeRemaining": null,
     "status": "2H",
@@ -112,7 +66,7 @@
       "season": 2025,
       "country": "France"
     },
-    "lastUpdated": "2025-11-28T21:01:26.836461"
+    "lastUpdated": "2025-11-28T21:20:17.884085"
   },
   {
     "id": 179948,
@@ -120,8 +74,8 @@
     "awayTeam": "St. Raphael",
     "homeLogo": "https://media.api-sports.io/handball/teams/252.png",
     "awayLogo": "https://media.api-sports.io/handball/teams/259.png",
-    "homeScore": 15,
-    "awayScore": 13,
+    "homeScore": 20,
+    "awayScore": 21,
     "period": null,
     "timeRemaining": null,
     "status": "2H",
@@ -135,7 +89,7 @@
       "season": 2025,
       "country": "France"
     },
-    "lastUpdated": "2025-11-28T21:01:26.836461"
+    "lastUpdated": "2025-11-28T21:20:17.884085"
   },
   {
     "id": 181663,
@@ -143,8 +97,8 @@
     "awayTeam": "Kiel",
     "homeLogo": "https://media.api-sports.io/handball/teams/335.png",
     "awayLogo": "https://media.api-sports.io/handball/teams/321.png",
-    "homeScore": 15,
-    "awayScore": 15,
+    "homeScore": 23,
+    "awayScore": 22,
     "period": null,
     "timeRemaining": null,
     "status": "2H",
@@ -158,7 +112,7 @@
       "season": 2025,
       "country": "Germany"
     },
-    "lastUpdated": "2025-11-28T21:01:26.836461"
+    "lastUpdated": "2025-11-28T21:20:17.884085"
   },
   {
     "id": 182779,
@@ -166,8 +120,8 @@
     "awayTeam": "Zamet",
     "homeLogo": "https://media.api-sports.io/handball/teams/81.png",
     "awayLogo": "https://media.api-sports.io/handball/teams/90.png",
-    "homeScore": 27,
-    "awayScore": 15,
+    "homeScore": 35,
+    "awayScore": 22,
     "period": null,
     "timeRemaining": null,
     "status": "2H",
@@ -181,7 +135,7 @@
       "season": 2025,
       "country": "Croatia"
     },
-    "lastUpdated": "2025-11-28T21:01:26.836461"
+    "lastUpdated": "2025-11-28T21:20:17.884085"
   },
   {
     "id": 183223,
@@ -189,8 +143,8 @@
     "awayTeam": "FH Hafnarfjordur",
     "homeLogo": "https://media.api-sports.io/handball/teams/469.png",
     "awayLogo": "https://media.api-sports.io/handball/teams/468.png",
-    "homeScore": 18,
-    "awayScore": 22,
+    "homeScore": 24,
+    "awayScore": 29,
     "period": null,
     "timeRemaining": null,
     "status": "2H",
@@ -204,7 +158,7 @@
       "season": 2025,
       "country": "Iceland"
     },
-    "lastUpdated": "2025-11-28T21:01:26.836461"
+    "lastUpdated": "2025-11-28T21:20:17.884085"
   },
   {
     "id": 183496,
@@ -212,8 +166,8 @@
     "awayTeam": "Lubeck-Schwartau",
     "homeLogo": "https://media.api-sports.io/handball/teams/369.png",
     "awayLogo": "https://media.api-sports.io/handball/teams/343.png",
-    "homeScore": 15,
-    "awayScore": 15,
+    "homeScore": 19,
+    "awayScore": 21,
     "period": null,
     "timeRemaining": null,
     "status": "2H",
@@ -227,7 +181,7 @@
       "season": 2025,
       "country": "Germany"
     },
-    "lastUpdated": "2025-11-28T21:01:26.836461"
+    "lastUpdated": "2025-11-28T21:20:17.884085"
   },
   {
     "id": 176816,
@@ -235,11 +189,11 @@
     "awayTeam": "Faroe Islands W",
     "homeLogo": "https://media.api-sports.io/handball/teams/2240.png",
     "awayLogo": "https://media.api-sports.io/handball/teams/2222.png",
-    "homeScore": 10,
-    "awayScore": 8,
+    "homeScore": 14,
+    "awayScore": 11,
     "period": null,
     "timeRemaining": null,
-    "status": "1H",
+    "status": "HT",
     "venue": null,
     "competition": "World Championship Women",
     "league": {
@@ -250,7 +204,7 @@
       "season": 2024,
       "country": "World"
     },
-    "lastUpdated": "2025-11-28T21:01:26.836461"
+    "lastUpdated": "2025-11-28T21:20:17.884085"
   },
   {
     "id": 176817,
@@ -258,11 +212,11 @@
     "awayTeam": "Iceland W",
     "homeLogo": "https://media.api-sports.io/handball/teams/2238.png",
     "awayLogo": "https://media.api-sports.io/handball/teams/2227.png",
-    "homeScore": 17,
-    "awayScore": 12,
+    "homeScore": 19,
+    "awayScore": 13,
     "period": null,
     "timeRemaining": null,
-    "status": "1H",
+    "status": "HT",
     "venue": null,
     "competition": "World Championship Women",
     "league": {
@@ -273,7 +227,7 @@
       "season": 2024,
       "country": "World"
     },
-    "lastUpdated": "2025-11-28T21:01:26.836461"
+    "lastUpdated": "2025-11-28T21:20:17.884085"
   },
   {
     "id": 176820,
@@ -281,11 +235,11 @@
     "awayTeam": "Argentina W",
     "homeLogo": "https://media.api-sports.io/handball/teams/2234.png",
     "awayLogo": "https://media.api-sports.io/handball/teams/2638.png",
-    "homeScore": 14,
-    "awayScore": 10,
+    "homeScore": 16,
+    "awayScore": 11,
     "period": null,
     "timeRemaining": null,
-    "status": "1H",
+    "status": "HT",
     "venue": null,
     "competition": "World Championship Women",
     "league": {
@@ -296,7 +250,7 @@
       "season": 2024,
       "country": "World"
     },
-    "lastUpdated": "2025-11-28T21:01:26.836461"
+    "lastUpdated": "2025-11-28T21:20:17.884085"
   },
   {
     "id": 184153,
@@ -304,11 +258,11 @@
     "awayTeam": "Saran",
     "homeLogo": "https://media.api-sports.io/handball/teams/286.png",
     "awayLogo": "https://media.api-sports.io/handball/teams/245.png",
-    "homeScore": 14,
-    "awayScore": 13,
+    "homeScore": 21,
+    "awayScore": 16,
     "period": null,
     "timeRemaining": null,
-    "status": "1H",
+    "status": "HT",
     "venue": null,
     "competition": "Proligue",
     "league": {
@@ -319,7 +273,7 @@
       "season": 2025,
       "country": "France"
     },
-    "lastUpdated": "2025-11-28T21:01:26.836461"
+    "lastUpdated": "2025-11-28T21:20:17.884085"
   },
   {
     "id": 184154,
@@ -327,11 +281,11 @@
     "awayTeam": "Frontignan",
     "homeLogo": "https://media.api-sports.io/handball/teams/290.png",
     "awayLogo": "https://media.api-sports.io/handball/teams/1327.png",
-    "homeScore": 10,
-    "awayScore": 11,
+    "homeScore": 11,
+    "awayScore": 12,
     "period": null,
     "timeRemaining": null,
-    "status": "1H",
+    "status": "HT",
     "venue": null,
     "competition": "Proligue",
     "league": {
@@ -342,7 +296,7 @@
       "season": 2025,
       "country": "France"
     },
-    "lastUpdated": "2025-11-28T21:01:26.836461"
+    "lastUpdated": "2025-11-28T21:20:17.884085"
   },
   {
     "id": 184155,
@@ -350,11 +304,11 @@
     "awayTeam": "Ivry",
     "homeLogo": "https://media.api-sports.io/handball/teams/1402.png",
     "awayLogo": "https://media.api-sports.io/handball/teams/255.png",
-    "homeScore": 18,
-    "awayScore": 13,
+    "homeScore": 20,
+    "awayScore": 15,
     "period": null,
     "timeRemaining": null,
-    "status": "1H",
+    "status": "HT",
     "venue": null,
     "competition": "Proligue",
     "league": {
@@ -365,7 +319,7 @@
       "season": 2025,
       "country": "France"
     },
-    "lastUpdated": "2025-11-28T21:01:26.836461"
+    "lastUpdated": "2025-11-28T21:20:17.884085"
   },
   {
     "id": 184156,
@@ -373,11 +327,11 @@
     "awayTeam": "Sarrebourg",
     "homeLogo": "https://media.api-sports.io/handball/teams/279.png",
     "awayLogo": "https://media.api-sports.io/handball/teams/287.png",
-    "homeScore": 17,
-    "awayScore": 8,
+    "homeScore": 18,
+    "awayScore": 11,
     "period": null,
     "timeRemaining": null,
-    "status": "1H",
+    "status": "HT",
     "venue": null,
     "competition": "Proligue",
     "league": {
@@ -388,7 +342,7 @@
       "season": 2025,
       "country": "France"
     },
-    "lastUpdated": "2025-11-28T21:01:26.836461"
+    "lastUpdated": "2025-11-28T21:20:17.884085"
   },
   {
     "id": 184157,
@@ -396,11 +350,11 @@
     "awayTeam": "Angers",
     "homeLogo": "https://media.api-sports.io/handball/teams/253.png",
     "awayLogo": "https://media.api-sports.io/handball/teams/278.png",
-    "homeScore": 13,
-    "awayScore": 9,
+    "homeScore": 17,
+    "awayScore": 11,
     "period": null,
     "timeRemaining": null,
-    "status": "1H",
+    "status": "HT",
     "venue": null,
     "competition": "Proligue",
     "league": {
@@ -411,7 +365,7 @@
       "season": 2025,
       "country": "France"
     },
-    "lastUpdated": "2025-11-28T21:01:26.836461"
+    "lastUpdated": "2025-11-28T21:20:17.884085"
   },
   {
     "id": 184158,
@@ -419,11 +373,11 @@
     "awayTeam": "Massy Essonne",
     "homeLogo": "https://media.api-sports.io/handball/teams/282.png",
     "awayLogo": "https://media.api-sports.io/handball/teams/284.png",
-    "homeScore": 11,
-    "awayScore": 7,
+    "homeScore": 17,
+    "awayScore": 11,
     "period": null,
     "timeRemaining": null,
-    "status": "1H",
+    "status": "HT",
     "venue": null,
     "competition": "Proligue",
     "league": {
@@ -434,7 +388,7 @@
       "season": 2025,
       "country": "France"
     },
-    "lastUpdated": "2025-11-28T21:01:26.836461"
+    "lastUpdated": "2025-11-28T21:20:17.884085"
   },
   {
     "id": 184159,
@@ -442,11 +396,11 @@
     "awayTeam": "Pau Billere",
     "homeLogo": "https://media.api-sports.io/handball/teams/1316.png",
     "awayLogo": "https://media.api-sports.io/handball/teams/4615.png",
-    "homeScore": 15,
-    "awayScore": 15,
+    "homeScore": 19,
+    "awayScore": 18,
     "period": null,
     "timeRemaining": null,
-    "status": "1H",
+    "status": "HT",
     "venue": null,
     "competition": "Proligue",
     "league": {
@@ -457,7 +411,7 @@
       "season": 2025,
       "country": "France"
     },
-    "lastUpdated": "2025-11-28T21:01:26.836461"
+    "lastUpdated": "2025-11-28T21:20:17.884085"
   },
   {
     "id": 187884,
@@ -465,11 +419,11 @@
     "awayTeam": "Quabit Guadalajara",
     "homeLogo": "https://media.api-sports.io/handball/teams/970.png",
     "awayLogo": "https://media.api-sports.io/handball/teams/987.png",
-    "homeScore": 11,
-    "awayScore": 12,
+    "homeScore": 14,
+    "awayScore": 13,
     "period": null,
     "timeRemaining": null,
-    "status": "1H",
+    "status": "HT",
     "venue": null,
     "competition": "Liga ASOBAL",
     "league": {
@@ -480,7 +434,7 @@
       "season": 2025,
       "country": "Spain"
     },
-    "lastUpdated": "2025-11-28T21:01:26.836461"
+    "lastUpdated": "2025-11-28T21:20:17.884085"
   },
   {
     "id": 176821,
@@ -488,8 +442,8 @@
     "awayTeam": "Tunisia W",
     "homeLogo": "https://media.api-sports.io/handball/teams/225.png",
     "awayLogo": "https://media.api-sports.io/handball/teams/2652.png",
-    "homeScore": 0,
-    "awayScore": 0,
+    "homeScore": 11,
+    "awayScore": 7,
     "period": null,
     "timeRemaining": null,
     "status": "1H",
@@ -503,6 +457,6 @@
       "season": 2024,
       "country": "World"
     },
-    "lastUpdated": "2025-11-28T21:01:26.836461"
+    "lastUpdated": "2025-11-28T21:20:17.884085"
   }
 ]
