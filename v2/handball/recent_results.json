@@ -420,6 +420,69 @@
     }
   },
   {
+    "id": 181041,
+    "date": "2025-11-28",
+    "homeTeam": "Gwardia Koszalin",
+    "awayTeam": "ZPRP Kielce",
+    "homeLogo": "https://media.api-sports.io/handball/teams/727.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/717.png",
+    "homeScore": 23,
+    "awayScore": 27,
+    "winner": "ZPRP Kielce",
+    "venue": null,
+    "competition": "Central League",
+    "league": {
+      "id": 127,
+      "name": "Central League",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/127.png",
+      "season": 2025,
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 181043,
+    "date": "2025-11-28",
+    "homeTeam": "Lodz",
+    "awayTeam": "UW Warszawa",
+    "homeLogo": "https://media.api-sports.io/handball/teams/734.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/3512.png",
+    "homeScore": 27,
+    "awayScore": 25,
+    "winner": "Lodz",
+    "venue": null,
+    "competition": "Central League",
+    "league": {
+      "id": 127,
+      "name": "Central League",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/127.png",
+      "season": 2025,
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 181202,
+    "date": "2025-11-28",
+    "homeTeam": "Jelenia Gora W",
+    "awayTeam": "Zaglebie Lubin W",
+    "homeLogo": "https://media.api-sports.io/handball/teams/759.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/4576.png",
+    "homeScore": 36,
+    "awayScore": 21,
+    "winner": "Jelenia Gora W",
+    "venue": null,
+    "competition": "I Liga Women",
+    "league": {
+      "id": 82,
+      "name": "I Liga Women",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/82.png",
+      "season": 2025,
+      "country": "Poland"
+    }
+  },
+  {
     "id": 181662,
     "date": "2025-11-28",
     "homeTeam": "Erlangen",
@@ -525,6 +588,27 @@
     }
   },
   {
+    "id": 189537,
+    "date": "2025-11-28",
+    "homeTeam": "Zabjelo",
+    "awayTeam": "Lovcen",
+    "homeLogo": "https://media.api-sports.io/handball/teams/4634.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/569.png",
+    "homeScore": 33,
+    "awayScore": 47,
+    "winner": "Lovcen",
+    "venue": null,
+    "competition": "Prva liga",
+    "league": {
+      "id": 65,
+      "name": "Prva liga",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/65.png",
+      "season": 2025,
+      "country": "Montenegro"
+    }
+  },
+  {
     "id": 176998,
     "date": "2025-11-28",
     "homeTeam": "Vendsyssel",
@@ -585,6 +669,426 @@
       "logo": "https://media.api-sports.io/handball/leagues/43.png",
       "season": 2025,
       "country": "Germany"
+    }
+  },
+  {
+    "id": 179941,
+    "date": "2025-11-28",
+    "homeTeam": "Nimes",
+    "awayTeam": "Dijon",
+    "homeLogo": "https://media.api-sports.io/handball/teams/258.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/283.png",
+    "homeScore": 24,
+    "awayScore": 21,
+    "winner": "Nimes",
+    "venue": null,
+    "competition": "Starligue",
+    "league": {
+      "id": 34,
+      "name": "Starligue",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/34.png",
+      "season": 2025,
+      "country": "France"
+    }
+  },
+  {
+    "id": 179944,
+    "date": "2025-11-28",
+    "homeTeam": "Limoges",
+    "awayTeam": "Toulouse",
+    "homeLogo": "https://media.api-sports.io/handball/teams/256.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/260.png",
+    "homeScore": 30,
+    "awayScore": 35,
+    "winner": "Toulouse",
+    "venue": null,
+    "competition": "Starligue",
+    "league": {
+      "id": 34,
+      "name": "Starligue",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/34.png",
+      "season": 2025,
+      "country": "France"
+    }
+  },
+  {
+    "id": 179945,
+    "date": "2025-11-28",
+    "homeTeam": "Montpellier",
+    "awayTeam": "Tremblay",
+    "homeLogo": "https://media.api-sports.io/handball/teams/248.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/261.png",
+    "homeScore": 36,
+    "awayScore": 31,
+    "winner": "Montpellier",
+    "venue": null,
+    "competition": "Starligue",
+    "league": {
+      "id": 34,
+      "name": "Starligue",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/34.png",
+      "season": 2025,
+      "country": "France"
+    }
+  },
+  {
+    "id": 179948,
+    "date": "2025-11-28",
+    "homeTeam": "Chartres",
+    "awayTeam": "St. Raphael",
+    "homeLogo": "https://media.api-sports.io/handball/teams/252.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/259.png",
+    "homeScore": 24,
+    "awayScore": 24,
+    "winner": "St. Raphael",
+    "venue": null,
+    "competition": "Starligue",
+    "league": {
+      "id": 34,
+      "name": "Starligue",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/34.png",
+      "season": 2025,
+      "country": "France"
+    }
+  },
+  {
+    "id": 181663,
+    "date": "2025-11-28",
+    "homeTeam": "Eisenach",
+    "awayTeam": "Kiel",
+    "homeLogo": "https://media.api-sports.io/handball/teams/335.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/321.png",
+    "homeScore": 27,
+    "awayScore": 27,
+    "winner": "Kiel",
+    "venue": null,
+    "competition": "Bundesliga",
+    "league": {
+      "id": 39,
+      "name": "Bundesliga",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/39.png",
+      "season": 2025,
+      "country": "Germany"
+    }
+  },
+  {
+    "id": 182779,
+    "date": "2025-11-28",
+    "homeTeam": "Nexe",
+    "awayTeam": "Zamet",
+    "homeLogo": "https://media.api-sports.io/handball/teams/81.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/90.png",
+    "homeScore": 35,
+    "awayScore": 23,
+    "winner": "Nexe",
+    "venue": null,
+    "competition": "Premijer liga",
+    "league": {
+      "id": 10,
+      "name": "Premijer liga",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/10.png",
+      "season": 2025,
+      "country": "Croatia"
+    }
+  },
+  {
+    "id": 183223,
+    "date": "2025-11-28",
+    "homeTeam": "Fram",
+    "awayTeam": "FH Hafnarfjordur",
+    "homeLogo": "https://media.api-sports.io/handball/teams/469.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/468.png",
+    "homeScore": 28,
+    "awayScore": 30,
+    "winner": "FH Hafnarfjordur",
+    "venue": null,
+    "competition": "Olis Deildin",
+    "league": {
+      "id": 53,
+      "name": "Olis Deildin",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/53.png",
+      "season": 2025,
+      "country": "Iceland"
+    }
+  },
+  {
+    "id": 183496,
+    "date": "2025-11-28",
+    "homeTeam": "Essen",
+    "awayTeam": "Lubeck-Schwartau",
+    "homeLogo": "https://media.api-sports.io/handball/teams/369.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/343.png",
+    "homeScore": 28,
+    "awayScore": 30,
+    "winner": "Lubeck-Schwartau",
+    "venue": null,
+    "competition": "2. Bundesliga",
+    "league": {
+      "id": 43,
+      "name": "2. Bundesliga",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/43.png",
+      "season": 2025,
+      "country": "Germany"
+    }
+  },
+  {
+    "id": 176816,
+    "date": "2025-11-28",
+    "homeTeam": "Spain W",
+    "awayTeam": "Faroe Islands W",
+    "homeLogo": "https://media.api-sports.io/handball/teams/2240.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/2222.png",
+    "homeScore": 25,
+    "awayScore": 27,
+    "winner": "Faroe Islands W",
+    "venue": null,
+    "competition": "World Championship Women",
+    "league": {
+      "id": 154,
+      "name": "World Championship Women",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/handball/leagues/154.png",
+      "season": 2024,
+      "country": "World"
+    }
+  },
+  {
+    "id": 176817,
+    "date": "2025-11-28",
+    "homeTeam": "Serbia W",
+    "awayTeam": "Iceland W",
+    "homeLogo": "https://media.api-sports.io/handball/teams/2238.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/2227.png",
+    "homeScore": 27,
+    "awayScore": 26,
+    "winner": "Serbia W",
+    "venue": null,
+    "competition": "World Championship Women",
+    "league": {
+      "id": 154,
+      "name": "World Championship Women",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/handball/leagues/154.png",
+      "season": 2024,
+      "country": "World"
+    }
+  },
+  {
+    "id": 176820,
+    "date": "2025-11-28",
+    "homeTeam": "Netherlands W",
+    "awayTeam": "Argentina W",
+    "homeLogo": "https://media.api-sports.io/handball/teams/2234.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/2638.png",
+    "homeScore": 32,
+    "awayScore": 25,
+    "winner": "Netherlands W",
+    "venue": null,
+    "competition": "World Championship Women",
+    "league": {
+      "id": 154,
+      "name": "World Championship Women",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/handball/leagues/154.png",
+      "season": 2024,
+      "country": "World"
+    }
+  },
+  {
+    "id": 184153,
+    "date": "2025-11-28",
+    "homeTeam": "Pontault",
+    "awayTeam": "Saran",
+    "homeLogo": "https://media.api-sports.io/handball/teams/286.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/245.png",
+    "homeScore": 36,
+    "awayScore": 36,
+    "winner": "Saran",
+    "venue": null,
+    "competition": "Proligue",
+    "league": {
+      "id": 36,
+      "name": "Proligue",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/36.png",
+      "season": 2025,
+      "country": "France"
+    }
+  },
+  {
+    "id": 184154,
+    "date": "2025-11-28",
+    "homeTeam": "Valence",
+    "awayTeam": "Frontignan",
+    "homeLogo": "https://media.api-sports.io/handball/teams/290.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/1327.png",
+    "homeScore": 26,
+    "awayScore": 24,
+    "winner": "Valence",
+    "venue": null,
+    "competition": "Proligue",
+    "league": {
+      "id": 36,
+      "name": "Proligue",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/36.png",
+      "season": 2025,
+      "country": "France"
+    }
+  },
+  {
+    "id": 184155,
+    "date": "2025-11-28",
+    "homeTeam": "Saintes",
+    "awayTeam": "Ivry",
+    "homeLogo": "https://media.api-sports.io/handball/teams/1402.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/255.png",
+    "homeScore": 34,
+    "awayScore": 36,
+    "winner": "Ivry",
+    "venue": null,
+    "competition": "Proligue",
+    "league": {
+      "id": 36,
+      "name": "Proligue",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/36.png",
+      "season": 2025,
+      "country": "France"
+    }
+  },
+  {
+    "id": 184156,
+    "date": "2025-11-28",
+    "homeTeam": "Besancon",
+    "awayTeam": "Sarrebourg",
+    "homeLogo": "https://media.api-sports.io/handball/teams/279.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/287.png",
+    "homeScore": 31,
+    "awayScore": 29,
+    "winner": "Besancon",
+    "venue": null,
+    "competition": "Proligue",
+    "league": {
+      "id": 36,
+      "name": "Proligue",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/36.png",
+      "season": 2025,
+      "country": "France"
+    }
+  },
+  {
+    "id": 184157,
+    "date": "2025-11-28",
+    "homeTeam": "Creteil",
+    "awayTeam": "Angers",
+    "homeLogo": "https://media.api-sports.io/handball/teams/253.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/278.png",
+    "homeScore": 36,
+    "awayScore": 20,
+    "winner": "Creteil",
+    "venue": null,
+    "competition": "Proligue",
+    "league": {
+      "id": 36,
+      "name": "Proligue",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/36.png",
+      "season": 2025,
+      "country": "France"
+    }
+  },
+  {
+    "id": 184158,
+    "date": "2025-11-28",
+    "homeTeam": "Cherbourg",
+    "awayTeam": "Massy Essonne",
+    "homeLogo": "https://media.api-sports.io/handball/teams/282.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/284.png",
+    "homeScore": 30,
+    "awayScore": 24,
+    "winner": "Cherbourg",
+    "venue": null,
+    "competition": "Proligue",
+    "league": {
+      "id": 36,
+      "name": "Proligue",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/36.png",
+      "season": 2025,
+      "country": "France"
+    }
+  },
+  {
+    "id": 184159,
+    "date": "2025-11-28",
+    "homeTeam": "Cournon d&apos;Auvergne",
+    "awayTeam": "Pau Billere",
+    "homeLogo": "https://media.api-sports.io/handball/teams/1316.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/4615.png",
+    "homeScore": 36,
+    "awayScore": 37,
+    "winner": "Pau Billere",
+    "venue": null,
+    "competition": "Proligue",
+    "league": {
+      "id": 36,
+      "name": "Proligue",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/36.png",
+      "season": 2025,
+      "country": "France"
+    }
+  },
+  {
+    "id": 187884,
+    "date": "2025-11-28",
+    "homeTeam": "Nava",
+    "awayTeam": "Quabit Guadalajara",
+    "homeLogo": "https://media.api-sports.io/handball/teams/970.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/987.png",
+    "homeScore": 29,
+    "awayScore": 30,
+    "winner": "Quabit Guadalajara",
+    "venue": null,
+    "competition": "Liga ASOBAL",
+    "league": {
+      "id": 103,
+      "name": "Liga ASOBAL",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/103.png",
+      "season": 2025,
+      "country": "Spain"
+    }
+  },
+  {
+    "id": 176821,
+    "date": "2025-11-28",
+    "homeTeam": "France W",
+    "awayTeam": "Tunisia W",
+    "homeLogo": "https://media.api-sports.io/handball/teams/225.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/2652.png",
+    "homeScore": 43,
+    "awayScore": 18,
+    "winner": "France W",
+    "venue": null,
+    "competition": "World Championship Women",
+    "league": {
+      "id": 154,
+      "name": "World Championship Women",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/handball/leagues/154.png",
+      "season": 2024,
+      "country": "World"
     }
   },
   {
