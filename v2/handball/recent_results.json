@@ -210,6 +210,48 @@
     }
   },
   {
+    "id": 181497,
+    "date": "2025-11-28",
+    "homeTeam": "Pogon Szczecin W",
+    "awayTeam": "SMS ZPRP Plock W",
+    "homeLogo": "https://media.api-sports.io/handball/teams/1810.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/768.png",
+    "homeScore": 26,
+    "awayScore": 22,
+    "winner": "Pogon Szczecin W",
+    "venue": null,
+    "competition": "Central League Women",
+    "league": {
+      "id": 207,
+      "name": "Central League Women",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/207.png",
+      "season": 2025,
+      "country": "Poland"
+    }
+  },
+  {
+    "id": 182286,
+    "date": "2025-11-28",
+    "homeTeam": "Przeworsk",
+    "awayTeam": "ZPRP Kielce II",
+    "homeLogo": "https://media.api-sports.io/handball/teams/3509.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/2088.png",
+    "homeScore": 39,
+    "awayScore": 30,
+    "winner": "Przeworsk",
+    "venue": null,
+    "competition": "I Liga",
+    "league": {
+      "id": 81,
+      "name": "I Liga",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/81.png",
+      "season": 2025,
+      "country": "Poland"
+    }
+  },
+  {
     "id": 184693,
     "date": "2025-11-28",
     "homeTeam": "Azoty-Pulawy",
@@ -312,6 +354,195 @@
       "logo": "https://media.api-sports.io/handball/leagues/100.png",
       "season": 2025,
       "country": "Slovenia"
+    }
+  },
+  {
+    "id": 176993,
+    "date": "2025-11-28",
+    "homeTeam": "HC Kobenhavn",
+    "awayTeam": "Skive",
+    "homeLogo": "https://media.api-sports.io/handball/teams/4693.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/202.png",
+    "homeScore": 30,
+    "awayScore": 30,
+    "winner": "Skive",
+    "venue": null,
+    "competition": "1. Division",
+    "league": {
+      "id": 15,
+      "name": "1. Division",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/15.png",
+      "season": 2025,
+      "country": "Denmark"
+    }
+  },
+  {
+    "id": 176995,
+    "date": "2025-11-28",
+    "homeTeam": "Raekker Molle",
+    "awayTeam": "Lemvig",
+    "homeLogo": "https://media.api-sports.io/handball/teams/1242.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/197.png",
+    "homeScore": 32,
+    "awayScore": 26,
+    "winner": "Raekker Molle",
+    "venue": null,
+    "competition": "1. Division",
+    "league": {
+      "id": 15,
+      "name": "1. Division",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/15.png",
+      "season": 2025,
+      "country": "Denmark"
+    }
+  },
+  {
+    "id": 178371,
+    "date": "2025-11-28",
+    "homeTeam": "Dukla Prague",
+    "awayTeam": "Koprivnice",
+    "homeLogo": "https://media.api-sports.io/handball/teams/106.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/111.png",
+    "homeScore": 36,
+    "awayScore": 29,
+    "winner": "Dukla Prague",
+    "venue": null,
+    "competition": "Extraliga",
+    "league": {
+      "id": 12,
+      "name": "Extraliga",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/12.png",
+      "season": 2025,
+      "country": "Czech-Republic"
+    }
+  },
+  {
+    "id": 181662,
+    "date": "2025-11-28",
+    "homeTeam": "Erlangen",
+    "awayTeam": "Stuttgart",
+    "homeLogo": "https://media.api-sports.io/handball/teams/313.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/329.png",
+    "homeScore": 24,
+    "awayScore": 24,
+    "winner": "Stuttgart",
+    "venue": null,
+    "competition": "Bundesliga",
+    "league": {
+      "id": 39,
+      "name": "Bundesliga",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/39.png",
+      "season": 2025,
+      "country": "Germany"
+    }
+  },
+  {
+    "id": 183494,
+    "date": "2025-11-28",
+    "homeTeam": "Krefeld",
+    "awayTeam": "Elbflorenz",
+    "homeLogo": "https://media.api-sports.io/handball/teams/1555.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/336.png",
+    "homeScore": 27,
+    "awayScore": 43,
+    "winner": "Elbflorenz",
+    "venue": null,
+    "competition": "2. Bundesliga",
+    "league": {
+      "id": 43,
+      "name": "2. Bundesliga",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/43.png",
+      "season": 2025,
+      "country": "Germany"
+    }
+  },
+  {
+    "id": 186379,
+    "date": "2025-11-28",
+    "homeTeam": "Hlohovec",
+    "awayTeam": "Presov",
+    "homeLogo": "https://media.api-sports.io/handball/teams/903.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/908.png",
+    "homeScore": 22,
+    "awayScore": 48,
+    "winner": "Presov",
+    "venue": null,
+    "competition": "Extraliga",
+    "league": {
+      "id": 98,
+      "name": "Extraliga",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/98.png",
+      "season": 2025,
+      "country": "Slovakia"
+    }
+  },
+  {
+    "id": 188194,
+    "date": "2025-11-28",
+    "homeTeam": "Karlskrona",
+    "awayTeam": "Savehof",
+    "homeLogo": "https://media.api-sports.io/handball/teams/1012.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/1046.png",
+    "homeScore": 30,
+    "awayScore": 33,
+    "winner": "Savehof",
+    "venue": null,
+    "competition": "Handbollsligan",
+    "league": {
+      "id": 113,
+      "name": "Handbollsligan",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/113.png",
+      "season": 2025,
+      "country": "Sweden"
+    }
+  },
+  {
+    "id": 188195,
+    "date": "2025-11-28",
+    "homeTeam": "Onnereds",
+    "awayTeam": "Ystads IF",
+    "homeLogo": "https://media.api-sports.io/handball/teams/1044.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/1048.png",
+    "homeScore": 28,
+    "awayScore": 29,
+    "winner": "Ystads IF",
+    "venue": null,
+    "competition": "Handbollsligan",
+    "league": {
+      "id": 113,
+      "name": "Handbollsligan",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/113.png",
+      "season": 2025,
+      "country": "Sweden"
+    }
+  },
+  {
+    "id": 183222,
+    "date": "2025-11-28",
+    "homeTeam": "Kopavogur",
+    "awayTeam": "IBV Vestmannaeyjar",
+    "homeLogo": "https://media.api-sports.io/handball/teams/474.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/472.png",
+    "homeScore": 28,
+    "awayScore": 34,
+    "winner": "IBV Vestmannaeyjar",
+    "venue": null,
+    "competition": "Olis Deildin",
+    "league": {
+      "id": 53,
+      "name": "Olis Deildin",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/53.png",
+      "season": 2025,
+      "country": "Iceland"
     }
   },
   {
