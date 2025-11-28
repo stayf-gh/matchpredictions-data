@@ -525,6 +525,27 @@
     }
   },
   {
+    "id": 176998,
+    "date": "2025-11-28",
+    "homeTeam": "Vendsyssel",
+    "awayTeam": "Aarhus Handbold",
+    "homeLogo": "https://media.api-sports.io/handball/teams/159.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/4663.png",
+    "homeScore": 21,
+    "awayScore": 25,
+    "winner": "Aarhus Handbold",
+    "venue": null,
+    "competition": "1. Division",
+    "league": {
+      "id": 15,
+      "name": "1. Division",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/15.png",
+      "season": 2025,
+      "country": "Denmark"
+    }
+  },
+  {
     "id": 183222,
     "date": "2025-11-28",
     "homeTeam": "Kopavogur",
@@ -543,6 +564,27 @@
       "logo": "https://media.api-sports.io/handball/leagues/53.png",
       "season": 2025,
       "country": "Iceland"
+    }
+  },
+  {
+    "id": 183495,
+    "date": "2025-11-28",
+    "homeTeam": "Ferndorf",
+    "awayTeam": "Coburg 2000",
+    "homeLogo": "https://media.api-sports.io/handball/teams/337.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/366.png",
+    "homeScore": 22,
+    "awayScore": 25,
+    "winner": "Coburg 2000",
+    "venue": null,
+    "competition": "2. Bundesliga",
+    "league": {
+      "id": 43,
+      "name": "2. Bundesliga",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/43.png",
+      "season": 2025,
+      "country": "Germany"
     }
   },
   {
