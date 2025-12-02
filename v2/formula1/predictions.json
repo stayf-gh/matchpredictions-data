@@ -1,3 +1,56 @@
 {
-  "predictions": []
+  "predictions": [
+    {
+      "match_id": "f1-None",
+      "date": null,
+      "league": {
+        "id": 1,
+        "name": "Formula 1",
+        "country": "Global",
+        "season": null
+      },
+      "teams": {
+        "home": {
+          "id": 1,
+          "name": "Max Verstappen",
+          "logo": null
+        },
+        "away": {
+          "id": 2,
+          "name": "Sergio Perez",
+          "logo": null
+        }
+      },
+      "prediction": {
+        "winner": "Max Verstappen",
+        "probabilities": {
+          "home_win": 0.67,
+          "away_win": 0.33,
+          "draw": 0.0
+        },
+        "confidence": 0.77,
+        "score": {
+          "home": 1,
+          "away": 0
+        },
+        "key_factors": [
+          "Based on current standings and recent form",
+          "Upcoming GP"
+        ]
+      },
+      "team_stats": {
+        "home": {
+          "win_percentage": 0.67,
+          "form": "A"
+        },
+        "away": {
+          "win_percentage": 0.33,
+          "form": "B"
+        }
+      },
+      "head_to_head": {
+        "recent_meetings": []
+      }
+    }
+  ]
 }
