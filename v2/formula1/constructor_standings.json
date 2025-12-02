@@ -1,0 +1,122 @@
+[
+  {
+    "position": 1,
+    "points": 860,
+    "wins": null,
+    "name": "Red Bull Racing",
+    "logo": "https://media.api-sports.io/formula-1/teams/1.png",
+    "constructor": {
+      "name": "Red Bull Racing",
+      "logo": "https://media.api-sports.io/formula-1/teams/1.png",
+      "nationality": null
+    }
+  },
+  {
+    "position": 2,
+    "points": 409,
+    "wins": null,
+    "name": "Mercedes-AMG Petronas",
+    "logo": "https://media.api-sports.io/formula-1/teams/5.png",
+    "constructor": {
+      "name": "Mercedes-AMG Petronas",
+      "logo": "https://media.api-sports.io/formula-1/teams/5.png",
+      "nationality": null
+    }
+  },
+  {
+    "position": 3,
+    "points": 406,
+    "wins": null,
+    "name": "Scuderia Ferrari",
+    "logo": "https://media.api-sports.io/formula-1/teams/3.png",
+    "constructor": {
+      "name": "Scuderia Ferrari",
+      "logo": "https://media.api-sports.io/formula-1/teams/3.png",
+      "nationality": null
+    }
+  },
+  {
+    "position": 4,
+    "points": 302,
+    "wins": null,
+    "name": "McLaren Racing",
+    "logo": "https://media.api-sports.io/formula-1/teams/2.png",
+    "constructor": {
+      "name": "McLaren Racing",
+      "logo": "https://media.api-sports.io/formula-1/teams/2.png",
+      "nationality": null
+    }
+  },
+  {
+    "position": 5,
+    "points": 280,
+    "wins": null,
+    "name": "Aston Martin F1 Team",
+    "logo": "https://media.api-sports.io/formula-1/teams/17.png",
+    "constructor": {
+      "name": "Aston Martin F1 Team",
+      "logo": "https://media.api-sports.io/formula-1/teams/17.png",
+      "nationality": null
+    }
+  },
+  {
+    "position": 6,
+    "points": 120,
+    "wins": null,
+    "name": "Alpine F1 Team",
+    "logo": "https://media.api-sports.io/formula-1/teams/13.png",
+    "constructor": {
+      "name": "Alpine F1 Team",
+      "logo": "https://media.api-sports.io/formula-1/teams/13.png",
+      "nationality": null
+    }
+  },
+  {
+    "position": 7,
+    "points": 28,
+    "wins": null,
+    "name": "Williams F1 Team",
+    "logo": "https://media.api-sports.io/formula-1/teams/12.png",
+    "constructor": {
+      "name": "Williams F1 Team",
+      "logo": "https://media.api-sports.io/formula-1/teams/12.png",
+      "nationality": null
+    }
+  },
+  {
+    "position": 8,
+    "points": 25,
+    "wins": null,
+    "name": "Racing Bulls",
+    "logo": "https://media.api-sports.io/formula-1/teams/7.png",
+    "constructor": {
+      "name": "Racing Bulls",
+      "logo": "https://media.api-sports.io/formula-1/teams/7.png",
+      "nationality": null
+    }
+  },
+  {
+    "position": 9,
+    "points": 16,
+    "wins": null,
+    "name": "Stake F1 Team Kick Sauber",
+    "logo": "https://media.api-sports.io/formula-1/teams/18.png",
+    "constructor": {
+      "name": "Stake F1 Team Kick Sauber",
+      "logo": "https://media.api-sports.io/formula-1/teams/18.png",
+      "nationality": null
+    }
+  },
+  {
+    "position": 10,
+    "points": 12,
+    "wins": null,
+    "name": "Haas F1 Team",
+    "logo": "https://media.api-sports.io/formula-1/teams/14.png",
+    "constructor": {
+      "name": "Haas F1 Team",
+      "logo": "https://media.api-sports.io/formula-1/teams/14.png",
+      "nationality": null
+    }
+  }
+]
