@@ -1,1 +1,117 @@
-[]
+[
+  {
+    "id": 186439,
+    "homeTeam": "Vardar 1961",
+    "awayTeam": "Toulouse",
+    "homeLogo": "https://media.api-sports.io/handball/teams/1162.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/260.png",
+    "homeScore": 36,
+    "awayScore": 33,
+    "period": null,
+    "timeRemaining": null,
+    "status": "2H",
+    "venue": null,
+    "competition": "EHF European League",
+    "league": {
+      "id": 145,
+      "name": "EHF European League",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/145.png",
+      "season": 2025,
+      "country": "Europe"
+    },
+    "lastUpdated": "2025-12-02T20:16:23.369589"
+  },
+  {
+    "id": 189742,
+    "homeTeam": "Presov",
+    "awayTeam": "Hannover-Burgdorf",
+    "homeLogo": "https://media.api-sports.io/handball/teams/908.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/320.png",
+    "homeScore": 28,
+    "awayScore": 36,
+    "period": null,
+    "timeRemaining": null,
+    "status": "2H",
+    "venue": null,
+    "competition": "EHF European League",
+    "league": {
+      "id": 145,
+      "name": "EHF European League",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/145.png",
+      "season": 2025,
+      "country": "Europe"
+    },
+    "lastUpdated": "2025-12-02T20:16:23.369610"
+  },
+  {
+    "id": 189744,
+    "homeTeam": "Kristianstad",
+    "awayTeam": "Sesvete",
+    "homeLogo": "https://media.api-sports.io/handball/teams/1041.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/85.png",
+    "homeScore": 28,
+    "awayScore": 27,
+    "period": null,
+    "timeRemaining": null,
+    "status": "2H",
+    "venue": null,
+    "competition": "EHF European League",
+    "league": {
+      "id": 145,
+      "name": "EHF European League",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/145.png",
+      "season": 2025,
+      "country": "Europe"
+    },
+    "lastUpdated": "2025-12-02T20:16:23.369619"
+  },
+  {
+    "id": 189746,
+    "homeTeam": "Flensburg-H.",
+    "awayTeam": "CD Bidasoa Irun",
+    "homeLogo": "https://media.api-sports.io/handball/teams/314.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/964.png",
+    "homeScore": 37,
+    "awayScore": 34,
+    "period": null,
+    "timeRemaining": null,
+    "status": "2H",
+    "venue": null,
+    "competition": "EHF European League",
+    "league": {
+      "id": 145,
+      "name": "EHF European League",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/145.png",
+      "season": 2025,
+      "country": "Europe"
+    },
+    "lastUpdated": "2025-12-02T20:16:23.369625"
+  },
+  {
+    "id": 178357,
+    "homeTeam": "Koprivnice",
+    "awayTeam": "Brno",
+    "homeLogo": "https://media.api-sports.io/handball/teams/111.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/105.png",
+    "homeScore": 17,
+    "awayScore": 22,
+    "period": null,
+    "timeRemaining": null,
+    "status": "2H",
+    "venue": null,
+    "competition": "Extraliga",
+    "league": {
+      "id": 12,
+      "name": "Extraliga",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/12.png",
+      "season": 2025,
+      "country": "Czech-Republic"
+    },
+    "lastUpdated": "2025-12-02T20:16:23.369631"
+  }
+]
