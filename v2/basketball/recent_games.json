@@ -5396,6 +5396,82 @@
     "periods": null
   },
   {
+    "id": 461612,
+    "date": "2025-12-07T14:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 71,
+      "name": "1 Liga",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/71.png"
+    },
+    "country": {
+      "id": 34,
+      "name": "Poland",
+      "code": "PL",
+      "flag": "https://media.api-sports.io/flags/pl.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 900,
+        "name": "Poli. Opolska",
+        "logo": "https://media.api-sports.io/basketball/teams/900.png"
+      },
+      "away": {
+        "id": 7476,
+        "name": "Miners Katowice",
+        "logo": "https://media.api-sports.io/basketball/teams/7476.png"
+      }
+    },
+    "scores": {
+      "home": 90,
+      "away": 78
+    },
+    "periods": null
+  },
+  {
+    "id": 462815,
+    "date": "2025-12-07T14:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 227,
+      "name": "Prva Liga",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/227.png"
+    },
+    "country": {
+      "id": 10,
+      "name": "Croatia",
+      "code": "HR",
+      "flag": "https://media.api-sports.io/flags/hr.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 6093,
+        "name": "Marsonia",
+        "logo": "https://media.api-sports.io/basketball/teams/6093.png"
+      },
+      "away": {
+        "id": 417,
+        "name": "Sonik Puntamika",
+        "logo": "https://media.api-sports.io/basketball/teams/417.png"
+      }
+    },
+    "scores": {
+      "home": 83,
+      "away": 70
+    },
+    "periods": null
+  },
+  {
     "id": 465439,
     "date": "2025-12-07T14:00:00+00:00",
     "status": {
@@ -5468,6 +5544,44 @@
     "scores": {
       "home": 110,
       "away": 66
+    },
+    "periods": null
+  },
+  {
+    "id": 471627,
+    "date": "2025-12-07T14:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 39,
+      "name": "Superleague",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/39.png"
+    },
+    "country": {
+      "id": 16,
+      "name": "Georgia",
+      "code": "GE",
+      "flag": "https://media.api-sports.io/flags/ge.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 5237,
+        "name": "Batumi",
+        "logo": "https://media.api-sports.io/basketball/teams/5237.png"
+      },
+      "away": {
+        "id": 514,
+        "name": "Rustavi",
+        "logo": "https://media.api-sports.io/basketball/teams/514.png"
+      }
+    },
+    "scores": {
+      "home": 102,
+      "away": 93
     },
     "periods": null
   },
