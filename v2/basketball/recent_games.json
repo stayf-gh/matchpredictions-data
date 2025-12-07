@@ -5130,6 +5130,82 @@
     "periods": null
   },
   {
+    "id": 450992,
+    "date": "2025-12-07T14:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 98,
+      "name": "Basketettan W",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/98.png"
+    },
+    "country": {
+      "id": 46,
+      "name": "Sweden",
+      "code": "SE",
+      "flag": "https://media.api-sports.io/flags/se.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 7439,
+        "name": "Brahe 2 W",
+        "logo": "https://media.api-sports.io/basketball/teams/7439.png"
+      },
+      "away": {
+        "id": 5983,
+        "name": "Kvarnby Lions W",
+        "logo": "https://media.api-sports.io/basketball/teams/5983.png"
+      }
+    },
+    "scores": {
+      "home": 56,
+      "away": 65
+    },
+    "periods": null
+  },
+  {
+    "id": 452084,
+    "date": "2025-12-07T14:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 42,
+      "name": "Pro A",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/42.png"
+    },
+    "country": {
+      "id": 17,
+      "name": "Germany",
+      "code": "DE",
+      "flag": "https://media.api-sports.io/flags/de.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 523,
+        "name": "Bayreuth",
+        "logo": "https://media.api-sports.io/basketball/teams/523.png"
+      },
+      "away": {
+        "id": 555,
+        "name": "Leverkusen",
+        "logo": "https://media.api-sports.io/basketball/teams/555.png"
+      }
+    },
+    "scores": {
+      "home": 91,
+      "away": 77
+    },
+    "periods": null
+  },
+  {
     "id": 453756,
     "date": "2025-12-07T14:00:00+00:00",
     "status": {
@@ -5164,6 +5240,44 @@
     "scores": {
       "home": 91,
       "away": 76
+    },
+    "periods": null
+  },
+  {
+    "id": 453757,
+    "date": "2025-12-07T14:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 368,
+      "name": "BNXT League",
+      "type": "cup",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/368.png"
+    },
+    "country": {
+      "id": 55,
+      "name": "Europe",
+      "code": " ",
+      "flag": "https://media.api-sports.io/flags/ .svg"
+    },
+    "teams": {
+      "home": {
+        "id": 309,
+        "name": "Spirou Charleroi",
+        "logo": "https://media.api-sports.io/basketball/teams/309.png"
+      },
+      "away": {
+        "id": 852,
+        "name": "Zwolle",
+        "logo": "https://media.api-sports.io/basketball/teams/852.png"
+      }
+    },
+    "scores": {
+      "home": 87,
+      "away": 75
     },
     "periods": null
   },
@@ -5206,6 +5320,120 @@
     "periods": null
   },
   {
+    "id": 455870,
+    "date": "2025-12-07T14:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 72,
+      "name": "Energa Basket Liga",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/72.png"
+    },
+    "country": {
+      "id": 34,
+      "name": "Poland",
+      "code": "PL",
+      "flag": "https://media.api-sports.io/flags/pl.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 911,
+        "name": "Lublin",
+        "logo": "https://media.api-sports.io/basketball/teams/911.png"
+      },
+      "away": {
+        "id": 2272,
+        "name": "Dziki Warszawa",
+        "logo": "https://media.api-sports.io/basketball/teams/2272.png"
+      }
+    },
+    "scores": {
+      "home": 76,
+      "away": 101
+    },
+    "periods": null
+  },
+  {
+    "id": 461287,
+    "date": "2025-12-07T14:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 40,
+      "name": "BBL",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/40.png"
+    },
+    "country": {
+      "id": 17,
+      "name": "Germany",
+      "code": "DE",
+      "flag": "https://media.api-sports.io/flags/de.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 522,
+        "name": "Bayern",
+        "logo": "https://media.api-sports.io/basketball/teams/522.png"
+      },
+      "away": {
+        "id": 2263,
+        "name": "Syntainics MBC",
+        "logo": "https://media.api-sports.io/basketball/teams/2263.png"
+      }
+    },
+    "scores": {
+      "home": 83,
+      "away": 62
+    },
+    "periods": null
+  },
+  {
+    "id": 465439,
+    "date": "2025-12-07T14:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 115,
+      "name": "Division A",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/115.png"
+    },
+    "country": {
+      "id": 54,
+      "name": "Cyprus",
+      "code": "CY",
+      "flag": "https://media.api-sports.io/flags/cy.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 3124,
+        "name": "Anorthosis",
+        "logo": "https://media.api-sports.io/basketball/teams/3124.png"
+      },
+      "away": {
+        "id": 1391,
+        "name": "Apoel BC",
+        "logo": "https://media.api-sports.io/basketball/teams/1391.png"
+      }
+    },
+    "scores": {
+      "home": 83,
+      "away": 82
+    },
+    "periods": null
+  },
+  {
     "id": 470673,
     "date": "2025-12-07T14:00:00+00:00",
     "status": {
@@ -5240,6 +5468,120 @@
     "scores": {
       "home": 110,
       "away": 66
+    },
+    "periods": null
+  },
+  {
+    "id": 473908,
+    "date": "2025-12-07T14:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 106,
+      "name": "FBU Superleague",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/106.png"
+    },
+    "country": {
+      "id": 49,
+      "name": "Ukraine",
+      "code": "UA",
+      "flag": "https://media.api-sports.io/flags/ua.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 2882,
+        "name": "Rivne",
+        "logo": "https://media.api-sports.io/basketball/teams/2882.png"
+      },
+      "away": {
+        "id": 5657,
+        "name": "Stariy Lutsk",
+        "logo": "https://media.api-sports.io/basketball/teams/5657.png"
+      }
+    },
+    "scores": {
+      "home": 81,
+      "away": 79
+    },
+    "periods": null
+  },
+  {
+    "id": 484467,
+    "date": "2025-12-07T14:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 129,
+      "name": "Denmark Cup",
+      "type": "cup",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/129.png"
+    },
+    "country": {
+      "id": 13,
+      "name": "Denmark",
+      "code": "DK",
+      "flag": "https://media.api-sports.io/flags/dk.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 469,
+        "name": "Randers",
+        "logo": "https://media.api-sports.io/basketball/teams/469.png"
+      },
+      "away": {
+        "id": 472,
+        "name": "Vaerlose",
+        "logo": "https://media.api-sports.io/basketball/teams/472.png"
+      }
+    },
+    "scores": {
+      "home": 84,
+      "away": 73
+    },
+    "periods": null
+  },
+  {
+    "id": 459500,
+    "date": "2025-12-07T14:15:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 10,
+      "name": "LFB W",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/10.png"
+    },
+    "country": {
+      "id": 4,
+      "name": "France",
+      "code": "FR",
+      "flag": "https://media.api-sports.io/flags/fr.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 125,
+        "name": "Landerneau Bretagne W",
+        "logo": "https://media.api-sports.io/basketball/teams/125.png"
+      },
+      "away": {
+        "id": 127,
+        "name": "Lattes Montpellier W",
+        "logo": "https://media.api-sports.io/basketball/teams/127.png"
+      }
+    },
+    "scores": {
+      "home": 72,
+      "away": 68
     },
     "periods": null
   },
