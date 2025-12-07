@@ -5130,6 +5130,120 @@
     "periods": null
   },
   {
+    "id": 453756,
+    "date": "2025-12-07T14:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 368,
+      "name": "BNXT League",
+      "type": "cup",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/368.png"
+    },
+    "country": {
+      "id": 55,
+      "name": "Europe",
+      "code": " ",
+      "flag": "https://media.api-sports.io/flags/ .svg"
+    },
+    "teams": {
+      "home": {
+        "id": 7484,
+        "name": "Brussels Basketball",
+        "logo": "https://media.api-sports.io/basketball/teams/7484.png"
+      },
+      "away": {
+        "id": 848,
+        "name": "Donar Groningen",
+        "logo": "https://media.api-sports.io/basketball/teams/848.png"
+      }
+    },
+    "scores": {
+      "home": 91,
+      "away": 76
+    },
+    "periods": null
+  },
+  {
+    "id": 455753,
+    "date": "2025-12-07T14:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 88,
+      "name": "Extraliga W",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/88.png"
+    },
+    "country": {
+      "id": 42,
+      "name": "Slovakia",
+      "code": "SK",
+      "flag": "https://media.api-sports.io/flags/sk.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 1083,
+        "name": "Young Angels Kosice W",
+        "logo": "https://media.api-sports.io/basketball/teams/1083.png"
+      },
+      "away": {
+        "id": 6157,
+        "name": "Trencin W",
+        "logo": "https://media.api-sports.io/basketball/teams/6157.png"
+      }
+    },
+    "scores": {
+      "home": 88,
+      "away": 61
+    },
+    "periods": null
+  },
+  {
+    "id": 470673,
+    "date": "2025-12-07T14:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 45,
+      "name": "Basket League",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/45.png"
+    },
+    "country": {
+      "id": 18,
+      "name": "Greece",
+      "code": "GR",
+      "flag": "https://media.api-sports.io/flags/gr.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 614,
+        "name": "Panathinaikos",
+        "logo": "https://media.api-sports.io/basketball/teams/614.png"
+      },
+      "away": {
+        "id": 615,
+        "name": "Panionios",
+        "logo": "https://media.api-sports.io/basketball/teams/615.png"
+      }
+    },
+    "scores": {
+      "home": 110,
+      "away": 66
+    },
+    "periods": null
+  },
+  {
     "id": 467536,
     "date": "2025-12-06T00:00:00+00:00",
     "status": {
