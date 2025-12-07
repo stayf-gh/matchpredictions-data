@@ -5579,7 +5579,7 @@
   {
     "id": 453756,
     "date": "2025-12-07T14:00:00+00:00",
-    "time": "6",
+    "time": "7",
     "status": {
       "short": "Q4",
       "long": "Quarter 4"
@@ -5611,14 +5611,14 @@
     },
     "scores": {
       "home": 89,
-      "away": 64
+      "away": 66
     },
     "periods": null
   },
   {
     "id": 453757,
     "date": "2025-12-07T14:00:00+00:00",
-    "time": "5",
+    "time": "6",
     "status": {
       "short": "Q4",
       "long": "Quarter 4"
@@ -5650,7 +5650,7 @@
     },
     "scores": {
       "home": 74,
-      "away": 56
+      "away": 57
     },
     "periods": null
   },
@@ -5689,7 +5689,7 @@
     },
     "scores": {
       "home": 87,
-      "away": 58
+      "away": 61
     },
     "periods": null
   },
@@ -5735,10 +5735,10 @@
   {
     "id": 461284,
     "date": "2025-12-07T14:00:00+00:00",
-    "time": "0",
+    "time": "1",
     "status": {
-      "short": "BT",
-      "long": "Break Time"
+      "short": "Q4",
+      "long": "Quarter 4"
     },
     "league": {
       "id": 40,
@@ -5813,7 +5813,7 @@
   {
     "id": 461612,
     "date": "2025-12-07T14:00:00+00:00",
-    "time": "2",
+    "time": "3",
     "status": {
       "short": "Q4",
       "long": "Quarter 4"
@@ -5852,7 +5852,7 @@
   {
     "id": 462815,
     "date": "2025-12-07T14:00:00+00:00",
-    "time": "2",
+    "time": "3",
     "status": {
       "short": "Q4",
       "long": "Quarter 4"
@@ -5884,14 +5884,14 @@
     },
     "scores": {
       "home": 66,
-      "away": 61
+      "away": 63
     },
     "periods": null
   },
   {
     "id": 463340,
     "date": "2025-12-07T14:00:00+00:00",
-    "time": "2",
+    "time": "3",
     "status": {
       "short": "Q4",
       "long": "Quarter 4"
@@ -5962,14 +5962,14 @@
     },
     "scores": {
       "home": 73,
-      "away": 68
+      "away": 69
     },
     "periods": null
   },
   {
     "id": 470673,
     "date": "2025-12-07T14:00:00+00:00",
-    "time": "7",
+    "time": "8",
     "status": {
       "short": "Q4",
       "long": "Quarter 4"
@@ -6000,8 +6000,8 @@
       }
     },
     "scores": {
-      "home": 101,
-      "away": 57
+      "home": 104,
+      "away": 60
     },
     "periods": null
   },
@@ -6040,7 +6040,7 @@
     },
     "scores": {
       "home": 74,
-      "away": 62
+      "away": 64
     },
     "periods": null
   },
@@ -6086,7 +6086,7 @@
   {
     "id": 484467,
     "date": "2025-12-07T14:00:00+00:00",
-    "time": "3",
+    "time": "4",
     "status": {
       "short": "Q4",
       "long": "Quarter 4"
@@ -6117,7 +6117,7 @@
       }
     },
     "scores": {
-      "home": 65,
+      "home": 68,
       "away": 65
     },
     "periods": null
@@ -6164,7 +6164,7 @@
   {
     "id": 457636,
     "date": "2025-12-07T14:30:00+00:00",
-    "time": "4",
+    "time": "5",
     "status": {
       "short": "Q3",
       "long": "Quarter 3"
@@ -6196,7 +6196,7 @@
     },
     "scores": {
       "home": 58,
-      "away": 43
+      "away": 46
     },
     "periods": null
   },
@@ -6390,7 +6390,7 @@
       }
     },
     "scores": {
-      "home": 25,
+      "home": 28,
       "away": 31
     },
     "periods": null
@@ -6554,7 +6554,7 @@
   {
     "id": 458206,
     "date": "2025-12-07T15:00:00+00:00",
-    "time": "4",
+    "time": "5",
     "status": {
       "short": "Q2",
       "long": "Quarter 2"
@@ -6586,14 +6586,14 @@
     },
     "scores": {
       "home": 33,
-      "away": 25
+      "away": 27
     },
     "periods": null
   },
   {
     "id": 459860,
     "date": "2025-12-07T15:00:00+00:00",
-    "time": "5",
+    "time": "6",
     "status": {
       "short": "Q2",
       "long": "Quarter 2"
@@ -6625,7 +6625,7 @@
     },
     "scores": {
       "home": 24,
-      "away": 38
+      "away": 40
     },
     "periods": null
   },
@@ -6663,7 +6663,7 @@
       }
     },
     "scores": {
-      "home": 28,
+      "home": 29,
       "away": 24
     },
     "periods": null
@@ -6741,7 +6741,7 @@
       }
     },
     "scores": {
-      "home": 38,
+      "home": 39,
       "away": 23
     },
     "periods": null
@@ -6905,7 +6905,7 @@
   {
     "id": 464844,
     "date": "2025-12-07T15:00:00+00:00",
-    "time": "4",
+    "time": "5",
     "status": {
       "short": "Q2",
       "long": "Quarter 2"
@@ -6937,7 +6937,7 @@
     },
     "scores": {
       "home": 24,
-      "away": 39
+      "away": 41
     },
     "periods": null
   },
@@ -6975,7 +6975,7 @@
       }
     },
     "scores": {
-      "home": 28,
+      "home": 29,
       "away": 39
     },
     "periods": null
@@ -6983,7 +6983,7 @@
   {
     "id": 465245,
     "date": "2025-12-07T15:00:00+00:00",
-    "time": "6",
+    "time": "7",
     "status": {
       "short": "Q2",
       "long": "Quarter 2"
@@ -7014,7 +7014,7 @@
       }
     },
     "scores": {
-      "home": 35,
+      "home": 37,
       "away": 32
     },
     "periods": null
@@ -7022,7 +7022,7 @@
   {
     "id": 465246,
     "date": "2025-12-07T15:00:00+00:00",
-    "time": "5",
+    "time": "6",
     "status": {
       "short": "Q2",
       "long": "Quarter 2"
@@ -7053,8 +7053,8 @@
       }
     },
     "scores": {
-      "home": 26,
-      "away": 28
+      "home": 28,
+      "away": 30
     },
     "periods": null
   },
@@ -7092,7 +7092,7 @@
       }
     },
     "scores": {
-      "home": 20,
+      "home": 22,
       "away": 38
     },
     "periods": null
@@ -7131,7 +7131,7 @@
       }
     },
     "scores": {
-      "home": 18,
+      "home": 19,
       "away": 14
     },
     "periods": null
@@ -7139,7 +7139,7 @@
   {
     "id": 455016,
     "date": "2025-12-07T15:30:00+00:00",
-    "time": "2",
+    "time": "3",
     "status": {
       "short": "Q1",
       "long": "Quarter 1"
@@ -7178,7 +7178,7 @@
   {
     "id": 461288,
     "date": "2025-12-07T15:30:00+00:00",
-    "time": "2",
+    "time": "3",
     "status": {
       "short": "Q1",
       "long": "Quarter 1"
@@ -7209,7 +7209,7 @@
       }
     },
     "scores": {
-      "home": 4,
+      "home": 6,
       "away": 3
     },
     "periods": null
@@ -7217,7 +7217,7 @@
   {
     "id": 466950,
     "date": "2025-12-07T15:30:00+00:00",
-    "time": "1",
+    "time": "2",
     "status": {
       "short": "Q1",
       "long": "Quarter 1"
@@ -7248,7 +7248,7 @@
       }
     },
     "scores": {
-      "home": 4,
+      "home": 6,
       "away": 0
     },
     "periods": null
@@ -7287,8 +7287,8 @@
       }
     },
     "scores": {
-      "home": null,
-      "away": null
+      "home": 2,
+      "away": 2
     },
     "periods": null
   },
