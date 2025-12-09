@@ -196,8 +196,8 @@
     "timezone": "UTC",
     "week": "7",
     "status": {
-      "long": "Not Started",
-      "short": "NS"
+      "long": "Finished",
+      "short": "FT"
     },
     "country": {
       "id": 49,
@@ -225,21 +225,21 @@
       }
     },
     "scores": {
-      "home": null,
-      "away": null
+      "home": 3,
+      "away": 0
     },
     "periods": {
       "first": {
-        "home": null,
-        "away": null
+        "home": 26,
+        "away": 24
       },
       "second": {
-        "home": null,
-        "away": null
+        "home": 25,
+        "away": 21
       },
       "third": {
-        "home": null,
-        "away": null
+        "home": 25,
+        "away": 17
       },
       "fourth": {
         "home": null,
@@ -259,8 +259,8 @@
     "timezone": "UTC",
     "week": null,
     "status": {
-      "long": "Not Started",
-      "short": "NS"
+      "long": "Finished",
+      "short": "FT"
     },
     "country": {
       "id": 52,
@@ -288,21 +288,21 @@
       }
     },
     "scores": {
-      "home": null,
-      "away": null
+      "home": 3,
+      "away": 0
     },
     "periods": {
       "first": {
-        "home": null,
-        "away": null
+        "home": 25,
+        "away": 11
       },
       "second": {
-        "home": null,
-        "away": null
+        "home": 25,
+        "away": 17
       },
       "third": {
-        "home": null,
-        "away": null
+        "home": 25,
+        "away": 15
       },
       "fourth": {
         "home": null,
@@ -322,8 +322,8 @@
     "timezone": "UTC",
     "week": null,
     "status": {
-      "long": "Not Started",
-      "short": "NS"
+      "long": "Set 4",
+      "short": "S4"
     },
     "country": {
       "id": 37,
@@ -351,25 +351,25 @@
       }
     },
     "scores": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 2
     },
     "periods": {
       "first": {
-        "home": null,
-        "away": null
+        "home": 20,
+        "away": 25
       },
       "second": {
-        "home": null,
-        "away": null
+        "home": 25,
+        "away": 23
       },
       "third": {
-        "home": null,
-        "away": null
+        "home": 26,
+        "away": 28
       },
       "fourth": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 2
       },
       "fifth": {
         "home": null,
@@ -385,8 +385,8 @@
     "timezone": "UTC",
     "week": null,
     "status": {
-      "long": "45",
-      "short": null
+      "long": "Set 3",
+      "short": "S3"
     },
     "country": {
       "id": 1,
@@ -414,21 +414,21 @@
       }
     },
     "scores": {
-      "home": 1,
+      "home": 2,
       "away": 0
     },
     "periods": {
       "first": {
         "home": 25,
-        "away": 20
+        "away": 17
       },
       "second": {
-        "home": 11,
-        "away": 8
+        "home": 25,
+        "away": 20
       },
       "third": {
-        "home": null,
-        "away": null
+        "home": 16,
+        "away": 16
       },
       "fourth": {
         "home": null,
@@ -448,8 +448,8 @@
     "timezone": "UTC",
     "week": "11",
     "status": {
-      "long": "Not Started",
-      "short": "NS"
+      "long": "Finished",
+      "short": "FT"
     },
     "country": {
       "id": 11,
@@ -477,21 +477,21 @@
       }
     },
     "scores": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 3
     },
     "periods": {
       "first": {
-        "home": null,
-        "away": null
+        "home": 18,
+        "away": 25
       },
       "second": {
-        "home": null,
-        "away": null
+        "home": 18,
+        "away": 25
       },
       "third": {
-        "home": null,
-        "away": null
+        "home": 21,
+        "away": 25
       },
       "fourth": {
         "home": null,
@@ -511,8 +511,8 @@
     "timezone": "UTC",
     "week": "13",
     "status": {
-      "long": "Not Started",
-      "short": "NS"
+      "long": "Set 1",
+      "short": "S1"
     },
     "country": {
       "id": 39,
@@ -540,13 +540,13 @@
       }
     },
     "scores": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 0
     },
     "periods": {
       "first": {
-        "home": null,
-        "away": null
+        "home": 17,
+        "away": 22
       },
       "second": {
         "home": null,
