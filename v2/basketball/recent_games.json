@@ -1,5 +1,43 @@
 [
   {
+    "id": 475770,
+    "date": "2025-12-11T00:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 116,
+      "name": "NCAA",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/116.png"
+    },
+    "country": {
+      "id": 5,
+      "name": "USA",
+      "code": "US",
+      "flag": "https://media.api-sports.io/flags/us.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 1916,
+        "name": "Fordham",
+        "logo": "https://media.api-sports.io/basketball/teams/1916.png"
+      },
+      "away": {
+        "id": 1907,
+        "name": "Fairleigh Dickinson",
+        "logo": "https://media.api-sports.io/basketball/teams/1907.png"
+      }
+    },
+    "scores": {
+      "home": null,
+      "away": null
+    },
+    "periods": null
+  },
+  {
     "id": 467555,
     "date": "2025-12-10T00:00:00+00:00",
     "status": {
@@ -4560,6 +4598,44 @@
     "periods": null
   },
   {
+    "id": 450784,
+    "date": "2025-12-10T18:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 99,
+      "name": "Superettan",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/99.png"
+    },
+    "country": {
+      "id": 46,
+      "name": "Sweden",
+      "code": "SE",
+      "flag": "https://media.api-sports.io/flags/se.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 4932,
+        "name": "Huddinge",
+        "logo": "https://media.api-sports.io/basketball/teams/4932.png"
+      },
+      "away": {
+        "id": 1219,
+        "name": "Alvik",
+        "logo": "https://media.api-sports.io/basketball/teams/1219.png"
+      }
+    },
+    "scores": {
+      "home": 93,
+      "away": 97
+    },
+    "periods": null
+  },
+  {
     "id": 453184,
     "date": "2025-12-10T18:00:00+00:00",
     "status": {
@@ -5092,6 +5168,44 @@
     "periods": null
   },
   {
+    "id": 464730,
+    "date": "2025-12-10T18:30:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 369,
+      "name": "ENBL",
+      "type": "cup",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/369.png"
+    },
+    "country": {
+      "id": 55,
+      "name": "Europe",
+      "code": " ",
+      "flag": "https://media.api-sports.io/flags/ .svg"
+    },
+    "teams": {
+      "home": {
+        "id": 848,
+        "name": "Donar Groningen",
+        "logo": "https://media.api-sports.io/basketball/teams/848.png"
+      },
+      "away": {
+        "id": 877,
+        "name": "Fyllingen",
+        "logo": "https://media.api-sports.io/basketball/teams/877.png"
+      }
+    },
+    "scores": {
+      "home": 88,
+      "away": 80
+    },
+    "periods": null
+  },
+  {
     "id": 471145,
     "date": "2025-12-10T18:30:00+00:00",
     "status": {
@@ -5126,6 +5240,1450 @@
     "scores": {
       "home": 82,
       "away": 71
+    },
+    "periods": null
+  },
+  {
+    "id": 484670,
+    "date": "2025-12-10T18:30:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 163,
+      "name": "Slovenian Cup",
+      "type": "cup",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/163.png"
+    },
+    "country": {
+      "id": 43,
+      "name": "Slovenia",
+      "code": "SI",
+      "flag": "https://media.api-sports.io/flags/si.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 1095,
+        "name": "Terme Olimia Podčetrtek",
+        "logo": "https://media.api-sports.io/basketball/teams/1095.png"
+      },
+      "away": {
+        "id": 1098,
+        "name": "Rogaska",
+        "logo": "https://media.api-sports.io/basketball/teams/1098.png"
+      }
+    },
+    "scores": {
+      "home": 86,
+      "away": 95
+    },
+    "periods": null
+  },
+  {
+    "id": 485196,
+    "date": "2025-12-10T18:30:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 359,
+      "name": "Euroleague Women",
+      "type": "cup",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/359.png"
+    },
+    "country": {
+      "id": 55,
+      "name": "Europe",
+      "code": " ",
+      "flag": "https://media.api-sports.io/flags/ .svg"
+    },
+    "teams": {
+      "home": {
+        "id": 1171,
+        "name": "Uni Girona W",
+        "logo": "https://media.api-sports.io/basketball/teams/1171.png"
+      },
+      "away": {
+        "id": 744,
+        "name": "Schio W",
+        "logo": "https://media.api-sports.io/basketball/teams/744.png"
+      }
+    },
+    "scores": {
+      "home": 81,
+      "away": 72
+    },
+    "periods": null
+  },
+  {
+    "id": 486223,
+    "date": "2025-12-10T18:30:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 254,
+      "name": "DBL Cup",
+      "type": "cup",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/254.png"
+    },
+    "country": {
+      "id": 30,
+      "name": "Netherlands",
+      "code": "NL",
+      "flag": "https://media.api-sports.io/flags/nl.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 5933,
+        "name": "Attacus",
+        "logo": "https://media.api-sports.io/basketball/teams/5933.png"
+      },
+      "away": {
+        "id": 849,
+        "name": "LWD Basket",
+        "logo": "https://media.api-sports.io/basketball/teams/849.png"
+      }
+    },
+    "scores": {
+      "home": 70,
+      "away": 104
+    },
+    "periods": null
+  },
+  {
+    "id": 486224,
+    "date": "2025-12-10T18:30:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 254,
+      "name": "DBL Cup",
+      "type": "cup",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/254.png"
+    },
+    "country": {
+      "id": 30,
+      "name": "Netherlands",
+      "code": "NL",
+      "flag": "https://media.api-sports.io/flags/nl.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 7836,
+        "name": "Biks Shots",
+        "logo": "https://media.api-sports.io/basketball/teams/7836.png"
+      },
+      "away": {
+        "id": 845,
+        "name": "BAL Weert",
+        "logo": "https://media.api-sports.io/basketball/teams/845.png"
+      }
+    },
+    "scores": {
+      "home": 96,
+      "away": 89
+    },
+    "periods": null
+  },
+  {
+    "id": 486225,
+    "date": "2025-12-10T18:30:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 254,
+      "name": "DBL Cup",
+      "type": "cup",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/254.png"
+    },
+    "country": {
+      "id": 30,
+      "name": "Netherlands",
+      "code": "NL",
+      "flag": "https://media.api-sports.io/flags/nl.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 2761,
+        "name": "BV Amsterdam",
+        "logo": "https://media.api-sports.io/basketball/teams/2761.png"
+      },
+      "away": {
+        "id": 852,
+        "name": "Zwolle",
+        "logo": "https://media.api-sports.io/basketball/teams/852.png"
+      }
+    },
+    "scores": {
+      "home": 70,
+      "away": 100
+    },
+    "periods": null
+  },
+  {
+    "id": 483427,
+    "date": "2025-12-10T18:40:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 409,
+      "name": "Division 1",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/409.png"
+    },
+    "country": {
+      "id": 77,
+      "name": "Lebanon",
+      "code": "LB",
+      "flag": "https://media.api-sports.io/flags/lb.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 6357,
+        "name": "Champville",
+        "logo": "https://media.api-sports.io/basketball/teams/6357.png"
+      },
+      "away": {
+        "id": 6358,
+        "name": "Homenetmen Beirut",
+        "logo": "https://media.api-sports.io/basketball/teams/6358.png"
+      }
+    },
+    "scores": {
+      "home": 116,
+      "away": 89
+    },
+    "periods": null
+  },
+  {
+    "id": 460409,
+    "date": "2025-12-10T19:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 96,
+      "name": "Segunda FEB",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/96.png"
+    },
+    "country": {
+      "id": 45,
+      "name": "Spain",
+      "code": "ES",
+      "flag": "https://media.api-sports.io/flags/es.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 204,
+        "name": "Toledo",
+        "logo": "https://media.api-sports.io/basketball/teams/204.png"
+      },
+      "away": {
+        "id": 1143,
+        "name": "Gijon",
+        "logo": "https://media.api-sports.io/basketball/teams/1143.png"
+      }
+    },
+    "scores": {
+      "home": 94,
+      "away": 77
+    },
+    "periods": null
+  },
+  {
+    "id": 460411,
+    "date": "2025-12-10T19:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 96,
+      "name": "Segunda FEB",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/96.png"
+    },
+    "country": {
+      "id": 45,
+      "name": "Spain",
+      "code": "ES",
+      "flag": "https://media.api-sports.io/flags/es.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 6511,
+        "name": "Lliria",
+        "logo": "https://media.api-sports.io/basketball/teams/6511.png"
+      },
+      "away": {
+        "id": 7469,
+        "name": "Molina Basket",
+        "logo": "https://media.api-sports.io/basketball/teams/7469.png"
+      }
+    },
+    "scores": {
+      "home": 68,
+      "away": 65
+    },
+    "periods": null
+  },
+  {
+    "id": 460413,
+    "date": "2025-12-10T19:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 96,
+      "name": "Segunda FEB",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/96.png"
+    },
+    "country": {
+      "id": 45,
+      "name": "Spain",
+      "code": "ES",
+      "flag": "https://media.api-sports.io/flags/es.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 6073,
+        "name": "Mataro",
+        "logo": "https://media.api-sports.io/basketball/teams/6073.png"
+      },
+      "away": {
+        "id": 4947,
+        "name": "Salou",
+        "logo": "https://media.api-sports.io/basketball/teams/4947.png"
+      }
+    },
+    "scores": {
+      "home": 66,
+      "away": 83
+    },
+    "periods": null
+  },
+  {
+    "id": 460414,
+    "date": "2025-12-10T19:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 96,
+      "name": "Segunda FEB",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/96.png"
+    },
+    "country": {
+      "id": 45,
+      "name": "Spain",
+      "code": "ES",
+      "flag": "https://media.api-sports.io/flags/es.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 3089,
+        "name": "Sant Antoni",
+        "logo": "https://media.api-sports.io/basketball/teams/3089.png"
+      },
+      "away": {
+        "id": 1122,
+        "name": "Castello",
+        "logo": "https://media.api-sports.io/basketball/teams/1122.png"
+      }
+    },
+    "scores": {
+      "home": 80,
+      "away": 75
+    },
+    "periods": null
+  },
+  {
+    "id": 460415,
+    "date": "2025-12-10T19:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 96,
+      "name": "Segunda FEB",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/96.png"
+    },
+    "country": {
+      "id": 45,
+      "name": "Spain",
+      "code": "ES",
+      "flag": "https://media.api-sports.io/flags/es.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 6510,
+        "name": "Leonesa",
+        "logo": "https://media.api-sports.io/basketball/teams/6510.png"
+      },
+      "away": {
+        "id": 7468,
+        "name": "Logrono",
+        "logo": "https://media.api-sports.io/basketball/teams/7468.png"
+      }
+    },
+    "scores": {
+      "home": 83,
+      "away": 76
+    },
+    "periods": null
+  },
+  {
+    "id": 460418,
+    "date": "2025-12-10T19:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 96,
+      "name": "Segunda FEB",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/96.png"
+    },
+    "country": {
+      "id": 45,
+      "name": "Spain",
+      "code": "ES",
+      "flag": "https://media.api-sports.io/flags/es.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 6507,
+        "name": "Caja 87",
+        "logo": "https://media.api-sports.io/basketball/teams/6507.png"
+      },
+      "away": {
+        "id": 7467,
+        "name": "Jaen",
+        "logo": "https://media.api-sports.io/basketball/teams/7467.png"
+      }
+    },
+    "scores": {
+      "home": 80,
+      "away": 41
+    },
+    "periods": null
+  },
+  {
+    "id": 460420,
+    "date": "2025-12-10T19:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 96,
+      "name": "Segunda FEB",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/96.png"
+    },
+    "country": {
+      "id": 45,
+      "name": "Spain",
+      "code": "ES",
+      "flag": "https://media.api-sports.io/flags/es.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 1140,
+        "name": "Benicarlo",
+        "logo": "https://media.api-sports.io/basketball/teams/1140.png"
+      },
+      "away": {
+        "id": 1710,
+        "name": "Gandia",
+        "logo": "https://media.api-sports.io/basketball/teams/1710.png"
+      }
+    },
+    "scores": {
+      "home": 80,
+      "away": 82
+    },
+    "periods": null
+  },
+  {
+    "id": 460421,
+    "date": "2025-12-10T19:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 96,
+      "name": "Segunda FEB",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/96.png"
+    },
+    "country": {
+      "id": 45,
+      "name": "Spain",
+      "code": "ES",
+      "flag": "https://media.api-sports.io/flags/es.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 1136,
+        "name": "Albacete",
+        "logo": "https://media.api-sports.io/basketball/teams/1136.png"
+      },
+      "away": {
+        "id": 5463,
+        "name": "CB Getafe",
+        "logo": "https://media.api-sports.io/basketball/teams/5463.png"
+      }
+    },
+    "scores": {
+      "home": 74,
+      "away": 89
+    },
+    "periods": null
+  },
+  {
+    "id": 461291,
+    "date": "2025-12-10T19:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 40,
+      "name": "BBL",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/40.png"
+    },
+    "country": {
+      "id": 17,
+      "name": "Germany",
+      "code": "DE",
+      "flag": "https://media.api-sports.io/flags/de.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 524,
+        "name": "Bonn",
+        "logo": "https://media.api-sports.io/basketball/teams/524.png"
+      },
+      "away": {
+        "id": 526,
+        "name": "Frankfurt",
+        "logo": "https://media.api-sports.io/basketball/teams/526.png"
+      }
+    },
+    "scores": {
+      "home": 88,
+      "away": 76
+    },
+    "periods": null
+  },
+  {
+    "id": 467560,
+    "date": "2025-12-10T19:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 20,
+      "name": "NBA - G League",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/20.png"
+    },
+    "country": {
+      "id": 5,
+      "name": "USA",
+      "code": "US",
+      "flag": "https://media.api-sports.io/flags/us.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 253,
+        "name": "Capital City Go-Go",
+        "logo": "https://media.api-sports.io/basketball/teams/253.png"
+      },
+      "away": {
+        "id": 3170,
+        "name": "Maine Celtics",
+        "logo": "https://media.api-sports.io/basketball/teams/3170.png"
+      }
+    },
+    "scores": {
+      "home": 101,
+      "away": 112
+    },
+    "periods": null
+  },
+  {
+    "id": 484724,
+    "date": "2025-12-10T19:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 201,
+      "name": "FIBA Europe Cup",
+      "type": "cup",
+      "season": 2025,
+      "logo": "https://media.api-sports.io/basketball/leagues/201.png"
+    },
+    "country": {
+      "id": 55,
+      "name": "Europe",
+      "code": " ",
+      "flag": "https://media.api-sports.io/flags/ .svg"
+    },
+    "teams": {
+      "home": {
+        "id": 2582,
+        "name": "Cedevita Junior",
+        "logo": "https://media.api-sports.io/basketball/teams/2582.png"
+      },
+      "away": {
+        "id": 725,
+        "name": "Reggiana",
+        "logo": "https://media.api-sports.io/basketball/teams/725.png"
+      }
+    },
+    "scores": {
+      "home": 90,
+      "away": 94
+    },
+    "periods": null
+  },
+  {
+    "id": 484725,
+    "date": "2025-12-10T19:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 201,
+      "name": "FIBA Europe Cup",
+      "type": "cup",
+      "season": 2025,
+      "logo": "https://media.api-sports.io/basketball/leagues/201.png"
+    },
+    "country": {
+      "id": 55,
+      "name": "Europe",
+      "code": " ",
+      "flag": "https://media.api-sports.io/flags/ .svg"
+    },
+    "teams": {
+      "home": {
+        "id": 2330,
+        "name": "Basket Zaragoza",
+        "logo": "https://media.api-sports.io/basketball/teams/2330.png"
+      },
+      "away": {
+        "id": 616,
+        "name": "Peristeri",
+        "logo": "https://media.api-sports.io/basketball/teams/616.png"
+      }
+    },
+    "scores": {
+      "home": 80,
+      "away": 92
+    },
+    "periods": null
+  },
+  {
+    "id": 485198,
+    "date": "2025-12-10T19:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 359,
+      "name": "Euroleague Women",
+      "type": "cup",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/359.png"
+    },
+    "country": {
+      "id": 55,
+      "name": "Europe",
+      "code": " ",
+      "flag": "https://media.api-sports.io/flags/ .svg"
+    },
+    "teams": {
+      "home": {
+        "id": 120,
+        "name": "Bourges W",
+        "logo": "https://media.api-sports.io/basketball/teams/120.png"
+      },
+      "away": {
+        "id": 123,
+        "name": "Flammes Carolo W",
+        "logo": "https://media.api-sports.io/basketball/teams/123.png"
+      }
+    },
+    "scores": {
+      "home": 85,
+      "away": 57
+    },
+    "periods": null
+  },
+  {
+    "id": 485719,
+    "date": "2025-12-10T19:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 360,
+      "name": "EuroCup Women",
+      "type": "cup",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/360.png"
+    },
+    "country": {
+      "id": 55,
+      "name": "Europe",
+      "code": " ",
+      "flag": "https://media.api-sports.io/flags/ .svg"
+    },
+    "teams": {
+      "home": {
+        "id": 311,
+        "name": "Braine W",
+        "logo": "https://media.api-sports.io/basketball/teams/311.png"
+      },
+      "away": {
+        "id": 921,
+        "name": "VBW Gdynia W",
+        "logo": "https://media.api-sports.io/basketball/teams/921.png"
+      }
+    },
+    "scores": {
+      "home": 80,
+      "away": 73
+    },
+    "periods": null
+  },
+  {
+    "id": 485721,
+    "date": "2025-12-10T19:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 360,
+      "name": "EuroCup Women",
+      "type": "cup",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/360.png"
+    },
+    "country": {
+      "id": 55,
+      "name": "Europe",
+      "code": " ",
+      "flag": "https://media.api-sports.io/flags/ .svg"
+    },
+    "teams": {
+      "home": {
+        "id": 1476,
+        "name": "Angers W",
+        "logo": "https://media.api-sports.io/basketball/teams/1476.png"
+      },
+      "away": {
+        "id": 1802,
+        "name": "ESB Villeneuve W",
+        "logo": "https://media.api-sports.io/basketball/teams/1802.png"
+      }
+    },
+    "scores": {
+      "home": 67,
+      "away": 95
+    },
+    "periods": null
+  },
+  {
+    "id": 486226,
+    "date": "2025-12-10T19:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 254,
+      "name": "DBL Cup",
+      "type": "cup",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/254.png"
+    },
+    "country": {
+      "id": 30,
+      "name": "Netherlands",
+      "code": "NL",
+      "flag": "https://media.api-sports.io/flags/nl.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 6721,
+        "name": "Orange Lions",
+        "logo": "https://media.api-sports.io/basketball/teams/6721.png"
+      },
+      "away": {
+        "id": 846,
+        "name": "Den Bosch",
+        "logo": "https://media.api-sports.io/basketball/teams/846.png"
+      }
+    },
+    "scores": {
+      "home": 58,
+      "away": 104
+    },
+    "periods": null
+  },
+  {
+    "id": 486227,
+    "date": "2025-12-10T19:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 254,
+      "name": "DBL Cup",
+      "type": "cup",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/254.png"
+    },
+    "country": {
+      "id": 30,
+      "name": "Netherlands",
+      "code": "NL",
+      "flag": "https://media.api-sports.io/flags/nl.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 7837,
+        "name": "Triple Threat",
+        "logo": "https://media.api-sports.io/basketball/teams/7837.png"
+      },
+      "away": {
+        "id": 850,
+        "name": "Leiden",
+        "logo": "https://media.api-sports.io/basketball/teams/850.png"
+      }
+    },
+    "scores": {
+      "home": 58,
+      "away": 99
+    },
+    "periods": null
+  },
+  {
+    "id": 452815,
+    "date": "2025-12-10T19:15:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 49,
+      "name": "Premier League W",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/49.png"
+    },
+    "country": {
+      "id": 20,
+      "name": "Iceland",
+      "code": "IS",
+      "flag": "https://media.api-sports.io/flags/is.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 1549,
+        "name": "Njardvik W",
+        "logo": "https://media.api-sports.io/basketball/teams/1549.png"
+      },
+      "away": {
+        "id": 664,
+        "name": "Valur W",
+        "logo": "https://media.api-sports.io/basketball/teams/664.png"
+      }
+    },
+    "scores": {
+      "home": 94,
+      "away": 90
+    },
+    "periods": null
+  },
+  {
+    "id": 460412,
+    "date": "2025-12-10T19:15:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 96,
+      "name": "Segunda FEB",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/96.png"
+    },
+    "country": {
+      "id": 45,
+      "name": "Spain",
+      "code": "ES",
+      "flag": "https://media.api-sports.io/flags/es.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 1152,
+        "name": "Ponferrada",
+        "logo": "https://media.api-sports.io/basketball/teams/1152.png"
+      },
+      "away": {
+        "id": 1145,
+        "name": "Iraurgi SB",
+        "logo": "https://media.api-sports.io/basketball/teams/1145.png"
+      }
+    },
+    "scores": {
+      "home": 66,
+      "away": 60
+    },
+    "periods": null
+  },
+  {
+    "id": 460416,
+    "date": "2025-12-10T19:15:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 96,
+      "name": "Segunda FEB",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/96.png"
+    },
+    "country": {
+      "id": 45,
+      "name": "Spain",
+      "code": "ES",
+      "flag": "https://media.api-sports.io/flags/es.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 1126,
+        "name": "Huesca",
+        "logo": "https://media.api-sports.io/basketball/teams/1126.png"
+      },
+      "away": {
+        "id": 7466,
+        "name": "CB Zaragoza",
+        "logo": "https://media.api-sports.io/basketball/teams/7466.png"
+      }
+    },
+    "scores": {
+      "home": 92,
+      "away": 77
+    },
+    "periods": null
+  },
+  {
+    "id": 458640,
+    "date": "2025-12-10T19:30:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 242,
+      "name": "Serie A2",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/242.png"
+    },
+    "country": {
+      "id": 23,
+      "name": "Italy",
+      "code": "IT",
+      "flag": "https://media.api-sports.io/flags/it.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 5007,
+        "name": "Cividale",
+        "logo": "https://media.api-sports.io/basketball/teams/5007.png"
+      },
+      "away": {
+        "id": 715,
+        "name": "Urania Milano",
+        "logo": "https://media.api-sports.io/basketball/teams/715.png"
+      }
+    },
+    "scores": {
+      "home": 78,
+      "away": 65
+    },
+    "periods": null
+  },
+  {
+    "id": 458644,
+    "date": "2025-12-10T19:30:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 242,
+      "name": "Serie A2",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/242.png"
+    },
+    "country": {
+      "id": 23,
+      "name": "Italy",
+      "code": "IT",
+      "flag": "https://media.api-sports.io/flags/it.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 7459,
+        "name": "Blu Basket Bergamo",
+        "logo": "https://media.api-sports.io/basketball/teams/7459.png"
+      },
+      "away": {
+        "id": 721,
+        "name": "Fortitudo Bologna",
+        "logo": "https://media.api-sports.io/basketball/teams/721.png"
+      }
+    },
+    "scores": {
+      "home": 65,
+      "away": 56
+    },
+    "periods": null
+  },
+  {
+    "id": 460408,
+    "date": "2025-12-10T19:30:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 96,
+      "name": "Segunda FEB",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/96.png"
+    },
+    "country": {
+      "id": 45,
+      "name": "Spain",
+      "code": "ES",
+      "flag": "https://media.api-sports.io/flags/es.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 7471,
+        "name": "Valle de Egues",
+        "logo": "https://media.api-sports.io/basketball/teams/7471.png"
+      },
+      "away": {
+        "id": 1149,
+        "name": "Moron",
+        "logo": "https://media.api-sports.io/basketball/teams/1149.png"
+      }
+    },
+    "scores": {
+      "home": 49,
+      "away": 81
+    },
+    "periods": null
+  },
+  {
+    "id": 460410,
+    "date": "2025-12-10T19:30:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 96,
+      "name": "Segunda FEB",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/96.png"
+    },
+    "country": {
+      "id": 45,
+      "name": "Spain",
+      "code": "ES",
+      "flag": "https://media.api-sports.io/flags/es.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 6512,
+        "name": "Sol Girones Bisbal",
+        "logo": "https://media.api-sports.io/basketball/teams/6512.png"
+      },
+      "away": {
+        "id": 7470,
+        "name": "Spanish Basketball Academy",
+        "logo": "https://media.api-sports.io/basketball/teams/7470.png"
+      }
+    },
+    "scores": {
+      "home": 71,
+      "away": 64
+    },
+    "periods": null
+  },
+  {
+    "id": 460419,
+    "date": "2025-12-10T19:30:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 96,
+      "name": "Segunda FEB",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/96.png"
+    },
+    "country": {
+      "id": 45,
+      "name": "Spain",
+      "code": "ES",
+      "flag": "https://media.api-sports.io/flags/es.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 1121,
+        "name": "Caceres",
+        "logo": "https://media.api-sports.io/basketball/teams/1121.png"
+      },
+      "away": {
+        "id": 1141,
+        "name": "Clavijo",
+        "logo": "https://media.api-sports.io/basketball/teams/1141.png"
+      }
+    },
+    "scores": {
+      "home": 67,
+      "away": 78
+    },
+    "periods": null
+  },
+  {
+    "id": 484720,
+    "date": "2025-12-10T19:30:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 201,
+      "name": "FIBA Europe Cup",
+      "type": "cup",
+      "season": 2025,
+      "logo": "https://media.api-sports.io/basketball/leagues/201.png"
+    },
+    "country": {
+      "id": 55,
+      "name": "Europe",
+      "code": " ",
+      "flag": "https://media.api-sports.io/flags/ .svg"
+    },
+    "teams": {
+      "home": {
+        "id": 726,
+        "name": "Sassari",
+        "logo": "https://media.api-sports.io/basketball/teams/726.png"
+      },
+      "away": {
+        "id": 2264,
+        "name": "Petkim Spor",
+        "logo": "https://media.api-sports.io/basketball/teams/2264.png"
+      }
+    },
+    "scores": {
+      "home": 72,
+      "away": 76
+    },
+    "periods": null
+  },
+  {
+    "id": 484723,
+    "date": "2025-12-10T19:30:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 201,
+      "name": "FIBA Europe Cup",
+      "type": "cup",
+      "season": 2025,
+      "logo": "https://media.api-sports.io/basketball/leagues/201.png"
+    },
+    "country": {
+      "id": 55,
+      "name": "Europe",
+      "code": " ",
+      "flag": "https://media.api-sports.io/flags/ .svg"
+    },
+    "teams": {
+      "home": {
+        "id": 2336,
+        "name": "Murcia",
+        "logo": "https://media.api-sports.io/basketball/teams/2336.png"
+      },
+      "away": {
+        "id": 631,
+        "name": "Szombathely",
+        "logo": "https://media.api-sports.io/basketball/teams/631.png"
+      }
+    },
+    "scores": {
+      "home": 97,
+      "away": 67
+    },
+    "periods": null
+  },
+  {
+    "id": 486228,
+    "date": "2025-12-10T19:30:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 254,
+      "name": "DBL Cup",
+      "type": "cup",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/254.png"
+    },
+    "country": {
+      "id": 30,
+      "name": "Netherlands",
+      "code": "NL",
+      "flag": "https://media.api-sports.io/flags/nl.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 2326,
+        "name": "QSTA Utd",
+        "logo": "https://media.api-sports.io/basketball/teams/2326.png"
+      },
+      "away": {
+        "id": 851,
+        "name": "Rotterdam",
+        "logo": "https://media.api-sports.io/basketball/teams/851.png"
+      }
+    },
+    "scores": {
+      "home": 78,
+      "away": 81
+    },
+    "periods": null
+  },
+  {
+    "id": 453186,
+    "date": "2025-12-10T19:45:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 194,
+      "name": "Eurocup",
+      "type": "cup",
+      "season": 2025,
+      "logo": "https://media.api-sports.io/basketball/leagues/194.png"
+    },
+    "country": {
+      "id": 55,
+      "name": "Europe",
+      "code": " ",
+      "flag": "https://media.api-sports.io/flags/ .svg"
+    },
+    "teams": {
+      "home": {
+        "id": 1698,
+        "name": "Manresa",
+        "logo": "https://media.api-sports.io/basketball/teams/1698.png"
+      },
+      "away": {
+        "id": 1800,
+        "name": "Cedevita Olimpija",
+        "logo": "https://media.api-sports.io/basketball/teams/1800.png"
+      }
+    },
+    "scores": {
+      "home": 99,
+      "away": 82
+    },
+    "periods": null
+  },
+  {
+    "id": 460417,
+    "date": "2025-12-10T19:45:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 96,
+      "name": "Segunda FEB",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/96.png"
+    },
+    "country": {
+      "id": 45,
+      "name": "Spain",
+      "code": "ES",
+      "flag": "https://media.api-sports.io/flags/es.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 6508,
+        "name": "Cordoba",
+        "logo": "https://media.api-sports.io/basketball/teams/6508.png"
+      },
+      "away": {
+        "id": 7522,
+        "name": "CBC Valladolid",
+        "logo": "https://media.api-sports.io/basketball/teams/7522.png"
+      }
+    },
+    "scores": {
+      "home": 82,
+      "away": 78
+    },
+    "periods": null
+  },
+  {
+    "id": 453051,
+    "date": "2025-12-10T20:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 202,
+      "name": "Champions League",
+      "type": "cup",
+      "season": 2025,
+      "logo": "https://media.api-sports.io/basketball/leagues/202.png"
+    },
+    "country": {
+      "id": 55,
+      "name": "Europe",
+      "code": " ",
+      "flag": "https://media.api-sports.io/flags/ .svg"
+    },
+    "teams": {
+      "home": {
+        "id": 2339,
+        "name": "Tenerife",
+        "logo": "https://media.api-sports.io/basketball/teams/2339.png"
+      },
+      "away": {
+        "id": 701,
+        "name": "Trapani",
+        "logo": "https://media.api-sports.io/basketball/teams/701.png"
+      }
+    },
+    "scores": {
+      "home": 80,
+      "away": 83
+    },
+    "periods": null
+  },
+  {
+    "id": 475757,
+    "date": "2025-12-10T21:30:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 116,
+      "name": "NCAA",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/116.png"
+    },
+    "country": {
+      "id": 5,
+      "name": "USA",
+      "code": "US",
+      "flag": "https://media.api-sports.io/flags/us.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 2217,
+        "name": "Yale",
+        "logo": "https://media.api-sports.io/basketball/teams/2217.png"
+      },
+      "away": {
+        "id": 6632,
+        "name": "Albany Great Danes",
+        "logo": "https://media.api-sports.io/basketball/teams/6632.png"
+      }
+    },
+    "scores": {
+      "home": 93,
+      "away": 82
     },
     "periods": null
   },
