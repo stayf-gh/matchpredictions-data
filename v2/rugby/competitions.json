@@ -1175,7 +1175,7 @@
         "season": 2025,
         "current": true,
         "start": "2025-10-10",
-        "end": "2025-12-13"
+        "end": "2026-01-17"
       }
     ]
   },
@@ -2065,7 +2065,7 @@
         "season": 2025,
         "current": true,
         "start": "2025-08-22",
-        "end": "2026-04-24"
+        "end": "2026-04-25"
       },
       {
         "season": 2024,
@@ -2871,7 +2871,7 @@
       },
       {
         "season": 2026,
-        "current": false,
+        "current": true,
         "start": "2025-12-13",
         "end": "2026-05-10"
       },
@@ -3271,9 +3271,9 @@
     "seasons": [
       {
         "season": 2025,
-        "current": false,
+        "current": true,
         "start": "2025-11-29",
-        "end": "2025-12-07"
+        "end": "2025-12-14"
       },
       {
         "season": 2017,
