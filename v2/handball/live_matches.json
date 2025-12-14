@@ -1,1 +1,186 @@
-[]
+[
+  {
+    "id": 180513,
+    "homeTeam": "Helsingborg W",
+    "awayTeam": "Alingsas W",
+    "homeLogo": "https://media.api-sports.io/handball/teams/1029.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/3393.png",
+    "homeScore": 21,
+    "awayScore": 23,
+    "period": null,
+    "timeRemaining": null,
+    "status": "2H",
+    "venue": null,
+    "competition": "Allsvenskan Women",
+    "league": {
+      "id": 112,
+      "name": "Allsvenskan Women",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/112.png",
+      "season": 2025,
+      "country": "Sweden"
+    },
+    "lastUpdated": "2025-12-14T15:16:42.074350"
+  },
+  {
+    "id": 189338,
+    "homeTeam": "Mistra (Est)",
+    "awayTeam": "Dragunas Klaipeda (Ltu)",
+    "homeLogo": "https://media.api-sports.io/handball/teams/4869.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/535.png",
+    "homeScore": 27,
+    "awayScore": 30,
+    "period": null,
+    "timeRemaining": null,
+    "status": "2H",
+    "venue": null,
+    "competition": "Baltic League",
+    "league": {
+      "id": 135,
+      "name": "Baltic League",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/handball/leagues/135.png",
+      "season": 2025,
+      "country": "Europe"
+    },
+    "lastUpdated": "2025-12-14T15:16:42.074376"
+  },
+  {
+    "id": 190601,
+    "homeTeam": "France W",
+    "awayTeam": "Netherlands W",
+    "homeLogo": "https://media.api-sports.io/handball/teams/225.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/2234.png",
+    "homeScore": 12,
+    "awayScore": 11,
+    "period": null,
+    "timeRemaining": null,
+    "status": "HT",
+    "venue": null,
+    "competition": "World Championship Women",
+    "league": {
+      "id": 154,
+      "name": "World Championship Women",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/handball/leagues/154.png",
+      "season": 2024,
+      "country": "World"
+    },
+    "lastUpdated": "2025-12-14T15:16:42.074389"
+  },
+  {
+    "id": 177007,
+    "homeTeam": "Give",
+    "awayTeam": "Tik Taastrup",
+    "homeLogo": "https://media.api-sports.io/handball/teams/4692.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/3366.png",
+    "homeScore": 7,
+    "awayScore": 6,
+    "period": null,
+    "timeRemaining": null,
+    "status": "1H",
+    "venue": null,
+    "competition": "1. Division",
+    "league": {
+      "id": 15,
+      "name": "1. Division",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/15.png",
+      "season": 2025,
+      "country": "Denmark"
+    },
+    "lastUpdated": "2025-12-14T15:16:42.074396"
+  },
+  {
+    "id": 177640,
+    "homeTeam": "HOJ",
+    "awayTeam": "Skanderborg AGF",
+    "homeLogo": "https://media.api-sports.io/handball/teams/149.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/4429.png",
+    "homeScore": 5,
+    "awayScore": 9,
+    "period": null,
+    "timeRemaining": null,
+    "status": "1H",
+    "venue": null,
+    "competition": "Herre Handbold Ligaen",
+    "league": {
+      "id": 23,
+      "name": "Herre Handbold Ligaen",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/23.png",
+      "season": 2025,
+      "country": "Denmark"
+    },
+    "lastUpdated": "2025-12-14T15:16:42.074404"
+  },
+  {
+    "id": 180677,
+    "homeTeam": "Aranas",
+    "awayTeam": "Lugi",
+    "homeLogo": "https://media.api-sports.io/handball/teams/1036.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/1042.png",
+    "homeScore": 9,
+    "awayScore": 10,
+    "period": null,
+    "timeRemaining": null,
+    "status": "1H",
+    "venue": null,
+    "competition": "Allsvenskan",
+    "league": {
+      "id": 111,
+      "name": "Allsvenskan",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/111.png",
+      "season": 2025,
+      "country": "Sweden"
+    },
+    "lastUpdated": "2025-12-14T15:16:42.074410"
+  },
+  {
+    "id": 181684,
+    "homeTeam": "Lemgo",
+    "awayTeam": "Kiel",
+    "homeLogo": "https://media.api-sports.io/handball/teams/323.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/321.png",
+    "homeScore": 3,
+    "awayScore": 6,
+    "period": null,
+    "timeRemaining": null,
+    "status": "1H",
+    "venue": null,
+    "competition": "Bundesliga",
+    "league": {
+      "id": 39,
+      "name": "Bundesliga",
+      "type": "League",
+      "logo": "https://media.api-sports.io/handball/leagues/39.png",
+      "season": 2025,
+      "country": "Germany"
+    },
+    "lastUpdated": "2025-12-14T15:16:42.074417"
+  },
+  {
+    "id": 189339,
+    "homeTeam": "Polva Serviti (Est)",
+    "awayTeam": "ASK/MSG (Lat)",
+    "homeLogo": "https://media.api-sports.io/handball/teams/206.png",
+    "awayLogo": "https://media.api-sports.io/handball/teams/4867.png",
+    "homeScore": 10,
+    "awayScore": 8,
+    "period": null,
+    "timeRemaining": null,
+    "status": "1H",
+    "venue": null,
+    "competition": "Baltic League",
+    "league": {
+      "id": 135,
+      "name": "Baltic League",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/handball/leagues/135.png",
+      "season": 2025,
+      "country": "Europe"
+    },
+    "lastUpdated": "2025-12-14T15:16:42.074429"
+  }
+]
