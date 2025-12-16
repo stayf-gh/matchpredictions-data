@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-12-16T20:04:35.515908",
+  "generated_at": "2025-12-16T20:05:40.741267",
   "total_predictions": 89,
-  "api_calls_used": 28,
+  "api_calls_used": 42,
   "predictions": [
     {
       "match_id": 199715,
@@ -26,15 +26,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 1392,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 3618,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -95,7 +95,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.447791"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 187897,
@@ -120,15 +120,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 1182,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 2162,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -189,7 +189,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.449060"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 188023,
@@ -214,15 +214,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 1176,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 4144,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -283,7 +283,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.449060"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 199329,
@@ -308,15 +308,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 212,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 207,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -377,7 +377,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.450166"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 199063,
@@ -475,7 +475,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.451334"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 199064,
@@ -573,7 +573,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.451334"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 199067,
@@ -671,7 +671,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.452356"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 199330,
@@ -696,15 +696,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 214,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 211,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -765,7 +765,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.453452"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 190464,
@@ -790,15 +790,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 672,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 678,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -859,7 +859,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.453452"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 190465,
@@ -884,15 +884,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 3813,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 677,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -953,7 +953,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.454567"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 190466,
@@ -978,15 +978,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 673,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 674,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -1047,7 +1047,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.455590"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 190467,
@@ -1072,15 +1072,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 4117,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 670,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -1141,7 +1141,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.455590"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 190468,
@@ -1166,15 +1166,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 3812,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 2144,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -1235,7 +1235,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.456676"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 190469,
@@ -1260,15 +1260,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 3963,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 3964,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -1329,7 +1329,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.457694"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 190470,
@@ -1354,15 +1354,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 2143,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 4116,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -1423,7 +1423,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.457694"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 192267,
@@ -1448,15 +1448,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 4162,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 172,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -1517,7 +1517,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.458795"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 198907,
@@ -1542,15 +1542,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 1009,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 1005,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -1611,7 +1611,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.458795"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 199065,
@@ -1709,7 +1709,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.459892"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 189291,
@@ -1734,15 +1734,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 1013,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 2125,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -1803,7 +1803,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.460986"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 183263,
@@ -1829,13 +1829,13 @@
       },
       "prediction": {
         "predicted_winner": 1138,
-        "team1_probability": 43.5,
-        "team2_probability": 56.5,
-        "confidence": 56.5,
+        "team1_probability": 46.9,
+        "team2_probability": 53.1,
+        "confidence": 53.1,
         "confidence_level": "منخفضة",
         "predicted_score": "1-3",
         "analysis": {
-          "team1_strength": 0.2,
+          "team1_strength": 0.23,
           "team2_strength": 0.26,
           "key_factors": [
             "فارق كبير في نسبة الفوز"
@@ -1899,7 +1899,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.460986"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 187368,
@@ -1924,15 +1924,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 597,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 600,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -1993,7 +1993,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.462075"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 187372,
@@ -2018,15 +2018,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 3238,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 3545,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -2087,7 +2087,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.463166"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 187373,
@@ -2112,15 +2112,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 3907,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 589,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -2181,7 +2181,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.464226"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 189292,
@@ -2206,15 +2206,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 1012,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 1015,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -2275,7 +2275,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.464546"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 189601,
@@ -2301,13 +2301,13 @@
       },
       "prediction": {
         "predicted_winner": 609,
-        "team1_probability": 11.9,
-        "team2_probability": 88.1,
-        "confidence": 88.1,
+        "team1_probability": 14.9,
+        "team2_probability": 85.1,
+        "confidence": 85.1,
         "confidence_level": "عالية",
         "predicted_score": "1-3",
         "analysis": {
-          "team1_strength": 0.1,
+          "team1_strength": 0.13,
           "team2_strength": 0.74,
           "key_factors": [
             "فارق كبير في نسبة الفوز",
@@ -2372,7 +2372,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.466679"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 198908,
@@ -2397,15 +2397,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 1007,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 1003,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -2466,7 +2466,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.466679"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 199066,
@@ -2564,7 +2564,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.466679"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 187369,
@@ -2590,14 +2590,14 @@
       },
       "prediction": {
         "predicted_winner": 599,
-        "team1_probability": 88.1,
-        "team2_probability": 11.9,
-        "confidence": 88.1,
+        "team1_probability": 85.1,
+        "team2_probability": 14.9,
+        "confidence": 85.1,
         "confidence_level": "عالية",
         "predicted_score": "3-1",
         "analysis": {
           "team1_strength": 0.74,
-          "team2_strength": 0.1,
+          "team2_strength": 0.13,
           "key_factors": [
             "فارق كبير في نسبة الفوز",
             "فارق في كفاءة السيتات"
@@ -2661,7 +2661,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.466679"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 185587,
@@ -2759,7 +2759,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.466679"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 187371,
@@ -2785,13 +2785,13 @@
       },
       "prediction": {
         "predicted_winner": 593,
-        "team1_probability": 43.5,
-        "team2_probability": 56.5,
-        "confidence": 56.5,
+        "team1_probability": 46.9,
+        "team2_probability": 53.1,
+        "confidence": 53.1,
         "confidence_level": "منخفضة",
         "predicted_score": "1-3",
         "analysis": {
-          "team1_strength": 0.2,
+          "team1_strength": 0.23,
           "team2_strength": 0.26,
           "key_factors": [
             "فارق كبير في نسبة الفوز"
@@ -2855,7 +2855,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.466679"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 187535,
@@ -2880,15 +2880,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 1207,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 1204,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -2949,7 +2949,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.466679"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 189289,
@@ -2974,15 +2974,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 1020,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 1011,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -3043,7 +3043,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.466679"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 191377,
@@ -3068,15 +3068,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 182,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 191,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -3137,7 +3137,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.473550"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 199068,
@@ -3235,7 +3235,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.473550"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 199069,
@@ -3333,7 +3333,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.477161"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 182074,
@@ -3358,15 +3358,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 903,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 945,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -3427,7 +3427,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.477161"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 184539,
@@ -3453,13 +3453,13 @@
       },
       "prediction": {
         "predicted_winner": 3924,
-        "team1_probability": 11.9,
-        "team2_probability": 88.1,
-        "confidence": 88.1,
+        "team1_probability": 14.9,
+        "team2_probability": 85.1,
+        "confidence": 85.1,
         "confidence_level": "عالية",
         "predicted_score": "1-3",
         "analysis": {
-          "team1_strength": 0.1,
+          "team1_strength": 0.13,
           "team2_strength": 0.74,
           "key_factors": [
             "فارق كبير في نسبة الفوز",
@@ -3524,7 +3524,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.477161"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 191378,
@@ -3549,15 +3549,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 185,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 190,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -3618,7 +3618,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.481142"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 192268,
@@ -3644,14 +3644,14 @@
       },
       "prediction": {
         "predicted_winner": 739,
-        "team1_probability": 81.6,
-        "team2_probability": 18.4,
-        "confidence": 81.6,
+        "team1_probability": 79.0,
+        "team2_probability": 21.0,
+        "confidence": 79.0,
         "confidence_level": "عالية",
         "predicted_score": "3-1",
         "analysis": {
           "team1_strength": 0.74,
-          "team2_strength": 0.167,
+          "team2_strength": 0.197,
           "key_factors": [
             "فارق كبير في نسبة الفوز"
           ]
@@ -3714,7 +3714,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.483391"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 182532,
@@ -3739,15 +3739,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 278,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 283,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -3808,7 +3808,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.484517"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 183261,
@@ -3833,15 +3833,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 1137,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 4072,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -3902,7 +3902,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.485538"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 183262,
@@ -3927,15 +3927,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 3049,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 1134,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -3996,7 +3996,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.487060"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 187370,
@@ -4021,15 +4021,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 598,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 602,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -4090,7 +4090,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.488153"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 187657,
@@ -4115,15 +4115,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 4104,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 1189,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -4184,7 +4184,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.490334"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 189290,
@@ -4209,15 +4209,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 1017,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 1014,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -4278,7 +4278,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.491423"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 189293,
@@ -4303,15 +4303,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 1908,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 1021,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -4372,7 +4372,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.492517"
+      "generated_at": "2025-12-16T20:05:40.716331"
     },
     {
       "match_id": 191379,
@@ -4397,15 +4397,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 181,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 187,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -4466,7 +4466,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.493533"
+      "generated_at": "2025-12-16T20:05:40.732311"
     },
     {
       "match_id": 192260,
@@ -4492,13 +4492,13 @@
       },
       "prediction": {
         "predicted_winner": 3046,
-        "team1_probability": 40.5,
-        "team2_probability": 59.5,
-        "confidence": 59.5,
+        "team1_probability": 43.9,
+        "team2_probability": 56.1,
+        "confidence": 56.1,
         "confidence_level": "منخفضة",
         "predicted_score": "1-3",
         "analysis": {
-          "team1_strength": 0.2,
+          "team1_strength": 0.23,
           "team2_strength": 0.293,
           "key_factors": [
             "فارق كبير في نسبة الفوز"
@@ -4562,7 +4562,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.494628"
+      "generated_at": "2025-12-16T20:05:40.732311"
     },
     {
       "match_id": 192603,
@@ -4587,15 +4587,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 1141,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 1163,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -4656,7 +4656,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.495729"
+      "generated_at": "2025-12-16T20:05:40.732311"
     },
     {
       "match_id": 199011,
@@ -4681,15 +4681,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 287,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 285,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -4750,7 +4750,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.495729"
+      "generated_at": "2025-12-16T20:05:40.733398"
     },
     {
       "match_id": 199110,
@@ -4775,15 +4775,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 3707,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 1834,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -4844,7 +4844,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.496829"
+      "generated_at": "2025-12-16T20:05:40.733398"
     },
     {
       "match_id": 199218,
@@ -4869,15 +4869,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 1102,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 1093,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -4938,7 +4938,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.498142"
+      "generated_at": "2025-12-16T20:05:40.733398"
     },
     {
       "match_id": 199262,
@@ -4963,15 +4963,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 3984,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 3809,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -5032,7 +5032,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.499204"
+      "generated_at": "2025-12-16T20:05:40.733398"
     },
     {
       "match_id": 199384,
@@ -5057,15 +5057,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 928,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 926,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -5126,7 +5126,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.499792"
+      "generated_at": "2025-12-16T20:05:40.733398"
     },
     {
       "match_id": 199111,
@@ -5151,15 +5151,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 1832,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 4235,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -5220,7 +5220,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.499792"
+      "generated_at": "2025-12-16T20:05:40.733398"
     },
     {
       "match_id": 183260,
@@ -5246,14 +5246,14 @@
       },
       "prediction": {
         "predicted_winner": 1132,
-        "team1_probability": 88.1,
-        "team2_probability": 11.9,
-        "confidence": 88.1,
+        "team1_probability": 85.1,
+        "team2_probability": 14.9,
+        "confidence": 85.1,
         "confidence_level": "عالية",
         "predicted_score": "3-1",
         "analysis": {
           "team1_strength": 0.74,
-          "team2_strength": 0.1,
+          "team2_strength": 0.13,
           "key_factors": [
             "فارق كبير في نسبة الفوز",
             "فارق في كفاءة السيتات"
@@ -5317,7 +5317,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.499792"
+      "generated_at": "2025-12-16T20:05:40.734706"
     },
     {
       "match_id": 183264,
@@ -5342,15 +5342,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 1133,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 1139,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -5411,7 +5411,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.499792"
+      "generated_at": "2025-12-16T20:05:40.734706"
     },
     {
       "match_id": 191153,
@@ -5436,15 +5436,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 3972,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 4026,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -5505,7 +5505,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.499792"
+      "generated_at": "2025-12-16T20:05:40.734706"
     },
     {
       "match_id": 198994,
@@ -5530,15 +5530,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 513,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 515,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -5599,7 +5599,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.499792"
+      "generated_at": "2025-12-16T20:05:40.734706"
     },
     {
       "match_id": 199112,
@@ -5624,15 +5624,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 813,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 821,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -5693,7 +5693,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.499792"
+      "generated_at": "2025-12-16T20:05:40.734706"
     },
     {
       "match_id": 199383,
@@ -5718,15 +5718,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 927,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 3843,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -5787,7 +5787,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.499792"
+      "generated_at": "2025-12-16T20:05:40.735826"
     },
     {
       "match_id": 199387,
@@ -5812,15 +5812,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 913,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 4237,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -5881,7 +5881,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.499792"
+      "generated_at": "2025-12-16T20:05:40.735826"
     },
     {
       "match_id": 183417,
@@ -5907,14 +5907,14 @@
       },
       "prediction": {
         "predicted_winner": 99,
-        "team1_probability": 56.5,
-        "team2_probability": 43.5,
-        "confidence": 56.5,
+        "team1_probability": 53.1,
+        "team2_probability": 46.9,
+        "confidence": 53.1,
         "confidence_level": "منخفضة",
         "predicted_score": "3-1",
         "analysis": {
           "team1_strength": 0.26,
-          "team2_strength": 0.2,
+          "team2_strength": 0.23,
           "key_factors": [
             "فارق كبير في نسبة الفوز"
           ]
@@ -5977,7 +5977,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.499792"
+      "generated_at": "2025-12-16T20:05:40.735826"
     },
     {
       "match_id": 187659,
@@ -6002,15 +6002,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 2195,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 3562,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -6071,7 +6071,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.499792"
+      "generated_at": "2025-12-16T20:05:40.735826"
     },
     {
       "match_id": 187661,
@@ -6096,15 +6096,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 1997,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 1184,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -6165,7 +6165,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.499792"
+      "generated_at": "2025-12-16T20:05:40.735826"
     },
     {
       "match_id": 199388,
@@ -6190,15 +6190,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 908,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 4236,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -6259,7 +6259,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.499792"
+      "generated_at": "2025-12-16T20:05:40.736853"
     },
     {
       "match_id": 181925,
@@ -6284,15 +6284,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 843,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 3581,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -6353,7 +6353,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.499792"
+      "generated_at": "2025-12-16T20:05:40.736853"
     },
     {
       "match_id": 181926,
@@ -6379,14 +6379,14 @@
       },
       "prediction": {
         "predicted_winner": 3934,
-        "team1_probability": 84.7,
-        "team2_probability": 15.3,
-        "confidence": 84.7,
+        "team1_probability": 81.9,
+        "team2_probability": 18.1,
+        "confidence": 81.9,
         "confidence_level": "عالية",
         "predicted_score": "3-1",
         "analysis": {
           "team1_strength": 0.74,
-          "team2_strength": 0.133,
+          "team2_strength": 0.163,
           "key_factors": [
             "فارق كبير في نسبة الفوز"
           ]
@@ -6449,7 +6449,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.499792"
+      "generated_at": "2025-12-16T20:05:40.736853"
     },
     {
       "match_id": 181927,
@@ -6475,13 +6475,13 @@
       },
       "prediction": {
         "predicted_winner": 3643,
-        "team1_probability": 38.0,
-        "team2_probability": 62.0,
-        "confidence": 62.0,
-        "confidence_level": "متوسطة",
+        "team1_probability": 41.3,
+        "team2_probability": 58.7,
+        "confidence": 58.7,
+        "confidence_level": "منخفضة",
         "predicted_score": "1-3",
         "analysis": {
-          "team1_strength": 0.2,
+          "team1_strength": 0.23,
           "team2_strength": 0.327,
           "key_factors": [
             "فارق كبير في نسبة الفوز"
@@ -6545,7 +6545,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.499792"
+      "generated_at": "2025-12-16T20:05:40.736853"
     },
     {
       "match_id": 187656,
@@ -6570,15 +6570,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 3732,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 1187,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -6639,7 +6639,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.499792"
+      "generated_at": "2025-12-16T20:05:40.736853"
     },
     {
       "match_id": 187660,
@@ -6664,15 +6664,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 4147,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 4103,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -6733,7 +6733,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.499792"
+      "generated_at": "2025-12-16T20:05:40.737955"
     },
     {
       "match_id": 191930,
@@ -6758,15 +6758,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 255,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 265,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -6827,7 +6827,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.499792"
+      "generated_at": "2025-12-16T20:05:40.737955"
     },
     {
       "match_id": 192152,
@@ -6852,15 +6852,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 1155,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 1154,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -6921,7 +6921,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.499792"
+      "generated_at": "2025-12-16T20:05:40.737955"
     },
     {
       "match_id": 192604,
@@ -6946,15 +6946,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 1144,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 1969,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -7015,7 +7015,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.499792"
+      "generated_at": "2025-12-16T20:05:40.737955"
     },
     {
       "match_id": 192605,
@@ -7040,15 +7040,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 1142,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 1143,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -7109,7 +7109,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.499792"
+      "generated_at": "2025-12-16T20:05:40.737955"
     },
     {
       "match_id": 192606,
@@ -7134,15 +7134,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 4049,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 1160,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -7203,7 +7203,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.514773"
+      "generated_at": "2025-12-16T20:05:40.739051"
     },
     {
       "match_id": 199382,
@@ -7228,15 +7228,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 932,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 3894,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -7297,7 +7297,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.515908"
+      "generated_at": "2025-12-16T20:05:40.739051"
     },
     {
       "match_id": 199553,
@@ -7395,7 +7395,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.515908"
+      "generated_at": "2025-12-16T20:05:40.739051"
     },
     {
       "match_id": 199554,
@@ -7493,7 +7493,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.515908"
+      "generated_at": "2025-12-16T20:05:40.739051"
     },
     {
       "match_id": 199227,
@@ -7519,13 +7519,13 @@
       },
       "prediction": {
         "predicted_winner": 60,
-        "team1_probability": 11.9,
-        "team2_probability": 88.1,
-        "confidence": 88.1,
+        "team1_probability": 14.9,
+        "team2_probability": 85.1,
+        "confidence": 85.1,
         "confidence_level": "عالية",
         "predicted_score": "1-3",
         "analysis": {
-          "team1_strength": 0.1,
+          "team1_strength": 0.13,
           "team2_strength": 0.74,
           "key_factors": [
             "فارق كبير في نسبة الفوز",
@@ -7590,7 +7590,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.515908"
+      "generated_at": "2025-12-16T20:05:40.739051"
     },
     {
       "match_id": 181928,
@@ -7616,14 +7616,14 @@
       },
       "prediction": {
         "predicted_winner": 3033,
-        "team1_probability": 81.6,
-        "team2_probability": 18.4,
-        "confidence": 81.6,
+        "team1_probability": 79.0,
+        "team2_probability": 21.0,
+        "confidence": 79.0,
         "confidence_level": "عالية",
         "predicted_score": "3-1",
         "analysis": {
           "team1_strength": 0.74,
-          "team2_strength": 0.167,
+          "team2_strength": 0.197,
           "key_factors": [
             "فارق كبير في نسبة الفوز"
           ]
@@ -7686,7 +7686,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.515908"
+      "generated_at": "2025-12-16T20:05:40.740164"
     },
     {
       "match_id": 190561,
@@ -7711,15 +7711,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 649,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 3937,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -7780,7 +7780,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.515908"
+      "generated_at": "2025-12-16T20:05:40.740164"
     },
     {
       "match_id": 190562,
@@ -7805,15 +7805,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 653,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 3765,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -7874,7 +7874,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.515908"
+      "generated_at": "2025-12-16T20:05:40.740164"
     },
     {
       "match_id": 192610,
@@ -7899,15 +7899,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 1148,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 1162,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -7968,7 +7968,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.515908"
+      "generated_at": "2025-12-16T20:05:40.740164"
     },
     {
       "match_id": 199555,
@@ -7994,13 +7994,13 @@
       },
       "prediction": {
         "predicted_winner": 716,
-        "team1_probability": 15.3,
-        "team2_probability": 84.7,
-        "confidence": 84.7,
+        "team1_probability": 18.1,
+        "team2_probability": 81.9,
+        "confidence": 81.9,
         "confidence_level": "عالية",
         "predicted_score": "1-3",
         "analysis": {
-          "team1_strength": 0.133,
+          "team1_strength": 0.163,
           "team2_strength": 0.74,
           "key_factors": [
             "فارق كبير في نسبة الفوز"
@@ -8064,7 +8064,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.515908"
+      "generated_at": "2025-12-16T20:05:40.740164"
     },
     {
       "match_id": 187534,
@@ -8090,14 +8090,14 @@
       },
       "prediction": {
         "predicted_winner": 3045,
-        "team1_probability": 81.6,
-        "team2_probability": 18.4,
-        "confidence": 81.6,
+        "team1_probability": 79.0,
+        "team2_probability": 21.0,
+        "confidence": 79.0,
         "confidence_level": "عالية",
         "predicted_score": "3-1",
         "analysis": {
           "team1_strength": 0.74,
-          "team2_strength": 0.167,
+          "team2_strength": 0.197,
           "key_factors": [
             "فارق كبير في نسبة الفوز"
           ]
@@ -8160,7 +8160,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.515908"
+      "generated_at": "2025-12-16T20:05:40.741267"
     },
     {
       "match_id": 192269,
@@ -8185,15 +8185,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 4163,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 1006,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -8254,7 +8254,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.515908"
+      "generated_at": "2025-12-16T20:05:40.741267"
     },
     {
       "match_id": 189765,
@@ -8279,15 +8279,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 173,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 170,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -8348,7 +8348,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.515908"
+      "generated_at": "2025-12-16T20:05:40.741267"
     },
     {
       "match_id": 192270,
@@ -8373,15 +8373,15 @@
         }
       },
       "prediction": {
-        "predicted_winner": 3962,
-        "team1_probability": 50.0,
-        "team2_probability": 50.0,
-        "confidence": 50.0,
+        "predicted_winner": 176,
+        "team1_probability": 51.9,
+        "team2_probability": 48.1,
+        "confidence": 51.9,
         "confidence_level": "منخفضة",
-        "predicted_score": "1-3",
+        "predicted_score": "3-1",
         "analysis": {
-          "team1_strength": 0.2,
-          "team2_strength": 0.2,
+          "team1_strength": 0.27,
+          "team2_strength": 0.25,
           "key_factors": [
             "أفضلية الملعب"
           ]
@@ -8442,12 +8442,12 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:04:35.515908"
+      "generated_at": "2025-12-16T20:05:40.741267"
     }
   ],
   "summary": {
     "high_confidence": 15,
-    "medium_confidence": 1,
-    "low_confidence": 73
+    "medium_confidence": 0,
+    "low_confidence": 74
   }
 }
