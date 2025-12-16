@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-12-16T20:08:44.369200",
+  "generated_at": "2025-12-16T20:16:49.566353",
   "total_predictions": 89,
-  "api_calls_used": 56,
+  "api_calls_used": 71,
   "predictions": [
     {
       "match_id": 199715,
@@ -99,7 +99,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.297421"
+      "generated_at": "2025-12-16T20:16:49.542469"
     },
     {
       "match_id": 187897,
@@ -197,7 +197,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.298530"
+      "generated_at": "2025-12-16T20:16:49.542469"
     },
     {
       "match_id": 188023,
@@ -295,7 +295,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.298530"
+      "generated_at": "2025-12-16T20:16:49.542469"
     },
     {
       "match_id": 199329,
@@ -393,7 +393,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.299633"
+      "generated_at": "2025-12-16T20:16:49.543744"
     },
     {
       "match_id": 199063,
@@ -495,7 +495,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.300729"
+      "generated_at": "2025-12-16T20:16:49.543744"
     },
     {
       "match_id": 199064,
@@ -597,7 +597,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.300729"
+      "generated_at": "2025-12-16T20:16:49.544838"
     },
     {
       "match_id": 199067,
@@ -699,7 +699,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.301830"
+      "generated_at": "2025-12-16T20:16:49.544838"
     },
     {
       "match_id": 199330,
@@ -797,7 +797,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.303418"
+      "generated_at": "2025-12-16T20:16:49.545915"
     },
     {
       "match_id": 190464,
@@ -895,7 +895,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.304465"
+      "generated_at": "2025-12-16T20:16:49.545915"
     },
     {
       "match_id": 190465,
@@ -993,7 +993,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.305519"
+      "generated_at": "2025-12-16T20:16:49.545915"
     },
     {
       "match_id": 190466,
@@ -1091,7 +1091,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.306543"
+      "generated_at": "2025-12-16T20:16:49.545915"
     },
     {
       "match_id": 190467,
@@ -1189,7 +1189,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.306543"
+      "generated_at": "2025-12-16T20:16:49.547005"
     },
     {
       "match_id": 190468,
@@ -1287,7 +1287,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.307638"
+      "generated_at": "2025-12-16T20:16:49.547005"
     },
     {
       "match_id": 190469,
@@ -1385,7 +1385,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.308735"
+      "generated_at": "2025-12-16T20:16:49.547005"
     },
     {
       "match_id": 190470,
@@ -1483,7 +1483,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.308735"
+      "generated_at": "2025-12-16T20:16:49.547005"
     },
     {
       "match_id": 192267,
@@ -1581,7 +1581,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.309831"
+      "generated_at": "2025-12-16T20:16:49.547005"
     },
     {
       "match_id": 198907,
@@ -1679,7 +1679,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.310940"
+      "generated_at": "2025-12-16T20:16:49.547005"
     },
     {
       "match_id": 199065,
@@ -1781,7 +1781,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.310940"
+      "generated_at": "2025-12-16T20:16:49.548243"
     },
     {
       "match_id": 189291,
@@ -1879,7 +1879,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.312047"
+      "generated_at": "2025-12-16T20:16:49.548243"
     },
     {
       "match_id": 183263,
@@ -1979,7 +1979,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.312047"
+      "generated_at": "2025-12-16T20:16:49.548243"
     },
     {
       "match_id": 187368,
@@ -2077,7 +2077,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.313648"
+      "generated_at": "2025-12-16T20:16:49.548243"
     },
     {
       "match_id": 187372,
@@ -2175,7 +2175,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.314704"
+      "generated_at": "2025-12-16T20:16:49.549250"
     },
     {
       "match_id": 187373,
@@ -2273,7 +2273,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.315803"
+      "generated_at": "2025-12-16T20:16:49.549250"
     },
     {
       "match_id": 189292,
@@ -2371,7 +2371,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.315803"
+      "generated_at": "2025-12-16T20:16:49.549250"
     },
     {
       "match_id": 189601,
@@ -2472,7 +2472,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.316904"
+      "generated_at": "2025-12-16T20:16:49.549250"
     },
     {
       "match_id": 198908,
@@ -2570,7 +2570,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.316904"
+      "generated_at": "2025-12-16T20:16:49.550256"
     },
     {
       "match_id": 199066,
@@ -2672,7 +2672,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.317999"
+      "generated_at": "2025-12-16T20:16:49.550256"
     },
     {
       "match_id": 187369,
@@ -2773,7 +2773,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.319097"
+      "generated_at": "2025-12-16T20:16:49.550256"
     },
     {
       "match_id": 185587,
@@ -2875,7 +2875,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.319097"
+      "generated_at": "2025-12-16T20:16:49.550256"
     },
     {
       "match_id": 187371,
@@ -2975,7 +2975,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.320655"
+      "generated_at": "2025-12-16T20:16:49.551261"
     },
     {
       "match_id": 187535,
@@ -3073,7 +3073,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.320655"
+      "generated_at": "2025-12-16T20:16:49.551261"
     },
     {
       "match_id": 189289,
@@ -3171,7 +3171,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.321798"
+      "generated_at": "2025-12-16T20:16:49.552261"
     },
     {
       "match_id": 191377,
@@ -3269,7 +3269,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.321798"
+      "generated_at": "2025-12-16T20:16:49.552760"
     },
     {
       "match_id": 199068,
@@ -3371,7 +3371,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.323389"
+      "generated_at": "2025-12-16T20:16:49.553168"
     },
     {
       "match_id": 199069,
@@ -3473,7 +3473,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.324455"
+      "generated_at": "2025-12-16T20:16:49.553552"
     },
     {
       "match_id": 182074,
@@ -3571,7 +3571,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.324455"
+      "generated_at": "2025-12-16T20:16:49.553552"
     },
     {
       "match_id": 184539,
@@ -3672,7 +3672,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.325499"
+      "generated_at": "2025-12-16T20:16:49.554452"
     },
     {
       "match_id": 191378,
@@ -3770,7 +3770,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.326614"
+      "generated_at": "2025-12-16T20:16:49.554452"
     },
     {
       "match_id": 192268,
@@ -3870,7 +3870,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.326614"
+      "generated_at": "2025-12-16T20:16:49.554452"
     },
     {
       "match_id": 182532,
@@ -3968,7 +3968,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.327631"
+      "generated_at": "2025-12-16T20:16:49.554452"
     },
     {
       "match_id": 183261,
@@ -4066,7 +4066,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.328626"
+      "generated_at": "2025-12-16T20:16:49.555503"
     },
     {
       "match_id": 183262,
@@ -4164,7 +4164,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.329642"
+      "generated_at": "2025-12-16T20:16:49.555503"
     },
     {
       "match_id": 187370,
@@ -4262,7 +4262,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.330738"
+      "generated_at": "2025-12-16T20:16:49.555503"
     },
     {
       "match_id": 187657,
@@ -4360,7 +4360,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.331835"
+      "generated_at": "2025-12-16T20:16:49.555503"
     },
     {
       "match_id": 189290,
@@ -4458,7 +4458,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.333426"
+      "generated_at": "2025-12-16T20:16:49.556598"
     },
     {
       "match_id": 189293,
@@ -4556,7 +4556,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.335640"
+      "generated_at": "2025-12-16T20:16:49.556598"
     },
     {
       "match_id": 191379,
@@ -4654,7 +4654,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.336650"
+      "generated_at": "2025-12-16T20:16:49.556598"
     },
     {
       "match_id": 192260,
@@ -4754,7 +4754,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.338161"
+      "generated_at": "2025-12-16T20:16:49.556598"
     },
     {
       "match_id": 192603,
@@ -4852,7 +4852,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.339520"
+      "generated_at": "2025-12-16T20:16:49.556598"
     },
     {
       "match_id": 199011,
@@ -4950,7 +4950,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.340620"
+      "generated_at": "2025-12-16T20:16:49.557702"
     },
     {
       "match_id": 199110,
@@ -5048,7 +5048,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.341722"
+      "generated_at": "2025-12-16T20:16:49.557702"
     },
     {
       "match_id": 199218,
@@ -5146,7 +5146,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.343311"
+      "generated_at": "2025-12-16T20:16:49.557702"
     },
     {
       "match_id": 199262,
@@ -5244,7 +5244,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.344597"
+      "generated_at": "2025-12-16T20:16:49.557702"
     },
     {
       "match_id": 199384,
@@ -5342,7 +5342,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.345618"
+      "generated_at": "2025-12-16T20:16:49.557702"
     },
     {
       "match_id": 199111,
@@ -5440,7 +5440,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.346710"
+      "generated_at": "2025-12-16T20:16:49.558799"
     },
     {
       "match_id": 183260,
@@ -5541,7 +5541,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.346710"
+      "generated_at": "2025-12-16T20:16:49.558799"
     },
     {
       "match_id": 183264,
@@ -5639,7 +5639,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.348302"
+      "generated_at": "2025-12-16T20:16:49.558799"
     },
     {
       "match_id": 191153,
@@ -5737,7 +5737,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.349399"
+      "generated_at": "2025-12-16T20:16:49.558799"
     },
     {
       "match_id": 198994,
@@ -5835,7 +5835,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.350494"
+      "generated_at": "2025-12-16T20:16:49.558799"
     },
     {
       "match_id": 199112,
@@ -5933,7 +5933,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.350494"
+      "generated_at": "2025-12-16T20:16:49.558799"
     },
     {
       "match_id": 199383,
@@ -6031,7 +6031,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.351588"
+      "generated_at": "2025-12-16T20:16:49.558799"
     },
     {
       "match_id": 199387,
@@ -6129,7 +6129,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.352645"
+      "generated_at": "2025-12-16T20:16:49.558799"
     },
     {
       "match_id": 183417,
@@ -6229,7 +6229,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.353678"
+      "generated_at": "2025-12-16T20:16:49.558799"
     },
     {
       "match_id": 187659,
@@ -6327,7 +6327,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.354279"
+      "generated_at": "2025-12-16T20:16:49.558799"
     },
     {
       "match_id": 187661,
@@ -6425,7 +6425,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.354279"
+      "generated_at": "2025-12-16T20:16:49.558799"
     },
     {
       "match_id": 199388,
@@ -6523,7 +6523,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.355373"
+      "generated_at": "2025-12-16T20:16:49.558799"
     },
     {
       "match_id": 181925,
@@ -6621,7 +6621,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.355373"
+      "generated_at": "2025-12-16T20:16:49.558799"
     },
     {
       "match_id": 181926,
@@ -6721,7 +6721,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.356424"
+      "generated_at": "2025-12-16T20:16:49.558799"
     },
     {
       "match_id": 181927,
@@ -6821,7 +6821,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.357513"
+      "generated_at": "2025-12-16T20:16:49.558799"
     },
     {
       "match_id": 187656,
@@ -6919,7 +6919,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.357513"
+      "generated_at": "2025-12-16T20:16:49.558799"
     },
     {
       "match_id": 187660,
@@ -7017,7 +7017,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.358618"
+      "generated_at": "2025-12-16T20:16:49.562453"
     },
     {
       "match_id": 191930,
@@ -7115,7 +7115,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.358618"
+      "generated_at": "2025-12-16T20:16:49.562453"
     },
     {
       "match_id": 192152,
@@ -7213,7 +7213,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.359706"
+      "generated_at": "2025-12-16T20:16:49.562453"
     },
     {
       "match_id": 192604,
@@ -7311,7 +7311,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.359706"
+      "generated_at": "2025-12-16T20:16:49.562453"
     },
     {
       "match_id": 192605,
@@ -7409,7 +7409,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.360754"
+      "generated_at": "2025-12-16T20:16:49.562453"
     },
     {
       "match_id": 192606,
@@ -7507,7 +7507,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.360754"
+      "generated_at": "2025-12-16T20:16:49.563574"
     },
     {
       "match_id": 199382,
@@ -7605,7 +7605,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.361784"
+      "generated_at": "2025-12-16T20:16:49.563574"
     },
     {
       "match_id": 199553,
@@ -7707,7 +7707,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.361784"
+      "generated_at": "2025-12-16T20:16:49.563574"
     },
     {
       "match_id": 199554,
@@ -7809,7 +7809,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.361784"
+      "generated_at": "2025-12-16T20:16:49.563574"
     },
     {
       "match_id": 199227,
@@ -7910,7 +7910,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.363301"
+      "generated_at": "2025-12-16T20:16:49.563574"
     },
     {
       "match_id": 181928,
@@ -8010,7 +8010,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.363301"
+      "generated_at": "2025-12-16T20:16:49.564845"
     },
     {
       "match_id": 190561,
@@ -8108,7 +8108,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.363301"
+      "generated_at": "2025-12-16T20:16:49.564845"
     },
     {
       "match_id": 190562,
@@ -8206,7 +8206,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.364387"
+      "generated_at": "2025-12-16T20:16:49.564845"
     },
     {
       "match_id": 192610,
@@ -8304,7 +8304,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.364387"
+      "generated_at": "2025-12-16T20:16:49.564845"
     },
     {
       "match_id": 199555,
@@ -8404,7 +8404,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.365792"
+      "generated_at": "2025-12-16T20:16:49.564845"
     },
     {
       "match_id": 187534,
@@ -8504,7 +8504,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.365792"
+      "generated_at": "2025-12-16T20:16:49.564845"
     },
     {
       "match_id": 192269,
@@ -8602,7 +8602,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.366931"
+      "generated_at": "2025-12-16T20:16:49.566353"
     },
     {
       "match_id": 189765,
@@ -8700,7 +8700,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.368076"
+      "generated_at": "2025-12-16T20:16:49.566353"
     },
     {
       "match_id": 192270,
@@ -8798,7 +8798,7 @@
         "avg_sets_team2": 0.0,
         "last_meeting": null
       },
-      "generated_at": "2025-12-16T20:08:44.369200"
+      "generated_at": "2025-12-16T20:16:49.566353"
     }
   ],
   "summary": {
