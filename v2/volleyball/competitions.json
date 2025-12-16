@@ -203,7 +203,7 @@
         "season": 2025,
         "current": true,
         "start": "2025-12-12",
-        "end": "2025-12-15"
+        "end": "2025-12-17"
       },
       {
         "season": 2024,
@@ -981,9 +981,9 @@
       },
       {
         "season": 2025,
-        "current": true,
+        "current": false,
         "start": "2025-12-10",
-        "end": "2025-12-14"
+        "end": "2025-12-15"
       },
       {
         "season": 2015,
@@ -3099,7 +3099,7 @@
       },
       {
         "season": 2025,
-        "current": false,
+        "current": true,
         "start": "2025-12-14",
         "end": "2026-02-01"
       },
@@ -10091,7 +10091,7 @@
       },
       {
         "season": 2025,
-        "current": true,
+        "current": false,
         "start": "2025-10-24",
         "end": "2025-12-14"
       }
@@ -12333,7 +12333,7 @@
         "season": 2025,
         "current": true,
         "start": "2025-10-20",
-        "end": "2025-12-17"
+        "end": "2025-12-27"
       },
       {
         "season": 2024,
@@ -12491,7 +12491,7 @@
         "season": 2025,
         "current": true,
         "start": "2025-10-14",
-        "end": "2025-12-24"
+        "end": "2025-12-25"
       },
       {
         "season": 2023,
@@ -12939,7 +12939,7 @@
         "season": 2025,
         "current": true,
         "start": "2025-10-11",
-        "end": "2025-12-14"
+        "end": "2026-02-25"
       },
       {
         "season": 2017,
@@ -15851,7 +15851,7 @@
       },
       {
         "season": 2025,
-        "current": true,
+        "current": false,
         "start": "2025-12-09",
         "end": "2025-12-14"
       },
