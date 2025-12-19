@@ -1,9 +1,68 @@
 [
   {
-    "id": 50292,
-    "date": "2025-12-18T20:00:00+00:00",
-    "time": "20:00",
-    "timestamp": 1766088000,
+    "id": 51161,
+    "date": "2025-12-19T11:00:00+00:00",
+    "time": "11:00",
+    "timestamp": 1766142000,
+    "timezone": "UTC",
+    "week": "12",
+    "status": {
+      "long": "Finished",
+      "short": "FT"
+    },
+    "country": {
+      "id": 8,
+      "name": "Georgia",
+      "code": "GE",
+      "flag": "https://media.api-sports.io/flags/ge.svg"
+    },
+    "league": {
+      "id": 19,
+      "name": "Didi 10",
+      "type": "League",
+      "logo": "https://media.api-sports.io/rugby/leagues/19.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 521,
+        "name": "Armia Tbilisi",
+        "logo": "https://media.api-sports.io/rugby/teams/521.png"
+      },
+      "away": {
+        "id": 141,
+        "name": "Ares Kutaisi",
+        "logo": "https://media.api-sports.io/rugby/teams/141.png"
+      }
+    },
+    "scores": {
+      "home": 30,
+      "away": 18
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 50295,
+    "date": "2025-12-19T18:00:00+00:00",
+    "time": "18:00",
+    "timestamp": 1766167200,
     "timezone": "UTC",
     "week": "15",
     "status": {
@@ -25,19 +84,609 @@
     },
     "teams": {
       "home": {
-        "id": 110,
-        "name": "Beziers",
-        "logo": "https://media.api-sports.io/rugby/teams/110.png"
+        "id": 113,
+        "name": "Colomiers",
+        "logo": "https://media.api-sports.io/rugby/teams/113.png"
       },
       "away": {
-        "id": 123,
-        "name": "Vannes",
-        "logo": "https://media.api-sports.io/rugby/teams/123.png"
+        "id": 122,
+        "name": "Valence Romans",
+        "logo": "https://media.api-sports.io/rugby/teams/122.png"
       }
     },
     "scores": {
-      "home": 13,
-      "away": 5
+      "home": 7,
+      "away": 0
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 50291,
+    "date": "2025-12-19T18:30:00+00:00",
+    "time": "18:30",
+    "timestamp": 1766169000,
+    "timezone": "UTC",
+    "week": "15",
+    "status": {
+      "long": "First Half",
+      "short": "1H"
+    },
+    "country": {
+      "id": 7,
+      "name": "France",
+      "code": "FR",
+      "flag": "https://media.api-sports.io/flags/fr.svg"
+    },
+    "league": {
+      "id": 17,
+      "name": "Pro D2",
+      "type": "League",
+      "logo": "https://media.api-sports.io/rugby/leagues/17.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 94,
+        "name": "Agen",
+        "logo": "https://media.api-sports.io/rugby/teams/94.png"
+      },
+      "away": {
+        "id": 109,
+        "name": "Aurillac",
+        "logo": "https://media.api-sports.io/rugby/teams/109.png"
+      }
+    },
+    "scores": {
+      "home": 7,
+      "away": 6
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 50294,
+    "date": "2025-12-19T18:30:00+00:00",
+    "time": "18:30",
+    "timestamp": 1766169000,
+    "timezone": "UTC",
+    "week": "15",
+    "status": {
+      "long": "First Half",
+      "short": "1H"
+    },
+    "country": {
+      "id": 7,
+      "name": "France",
+      "code": "FR",
+      "flag": "https://media.api-sports.io/flags/fr.svg"
+    },
+    "league": {
+      "id": 17,
+      "name": "Pro D2",
+      "type": "League",
+      "logo": "https://media.api-sports.io/rugby/leagues/17.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 112,
+        "name": "Carcassonne",
+        "logo": "https://media.api-sports.io/rugby/teams/112.png"
+      },
+      "away": {
+        "id": 108,
+        "name": "Angouleme",
+        "logo": "https://media.api-sports.io/rugby/teams/108.png"
+      }
+    },
+    "scores": {
+      "home": 0,
+      "away": 6
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 50296,
+    "date": "2025-12-19T18:30:00+00:00",
+    "time": "18:30",
+    "timestamp": 1766169000,
+    "timezone": "UTC",
+    "week": "15",
+    "status": {
+      "long": "First Half",
+      "short": "1H"
+    },
+    "country": {
+      "id": 7,
+      "name": "France",
+      "code": "FR",
+      "flag": "https://media.api-sports.io/flags/fr.svg"
+    },
+    "league": {
+      "id": 17,
+      "name": "Pro D2",
+      "type": "League",
+      "logo": "https://media.api-sports.io/rugby/leagues/17.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 114,
+        "name": "Grenoble FC",
+        "logo": "https://media.api-sports.io/rugby/teams/114.png"
+      },
+      "away": {
+        "id": 516,
+        "name": "US Dax",
+        "logo": "https://media.api-sports.io/rugby/teams/516.png"
+      }
+    },
+    "scores": {
+      "home": 10,
+      "away": 0
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 50297,
+    "date": "2025-12-19T18:30:00+00:00",
+    "time": "18:30",
+    "timestamp": 1766169000,
+    "timezone": "UTC",
+    "week": "15",
+    "status": {
+      "long": "First Half",
+      "short": "1H"
+    },
+    "country": {
+      "id": 7,
+      "name": "France",
+      "code": "FR",
+      "flag": "https://media.api-sports.io/flags/fr.svg"
+    },
+    "league": {
+      "id": 17,
+      "name": "Pro D2",
+      "type": "League",
+      "logo": "https://media.api-sports.io/rugby/leagues/17.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 115,
+        "name": "Mont-de-Marsan",
+        "logo": "https://media.api-sports.io/rugby/teams/115.png"
+      },
+      "away": {
+        "id": 118,
+        "name": "Provence Rugby",
+        "logo": "https://media.api-sports.io/rugby/teams/118.png"
+      }
+    },
+    "scores": {
+      "home": 7,
+      "away": 8
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 50298,
+    "date": "2025-12-19T18:30:00+00:00",
+    "time": "18:30",
+    "timestamp": 1766169000,
+    "timezone": "UTC",
+    "week": "15",
+    "status": {
+      "long": "First Half",
+      "short": "1H"
+    },
+    "country": {
+      "id": 7,
+      "name": "France",
+      "code": "FR",
+      "flag": "https://media.api-sports.io/flags/fr.svg"
+    },
+    "league": {
+      "id": 17,
+      "name": "Pro D2",
+      "type": "League",
+      "logo": "https://media.api-sports.io/rugby/leagues/17.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 117,
+        "name": "Nevers",
+        "logo": "https://media.api-sports.io/rugby/teams/117.png"
+      },
+      "away": {
+        "id": 97,
+        "name": "CA Brive",
+        "logo": "https://media.api-sports.io/rugby/teams/97.png"
+      }
+    },
+    "scores": {
+      "home": 0,
+      "away": 10
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 49592,
+    "date": "2025-12-19T19:45:00+00:00",
+    "time": "19:45",
+    "timestamp": 1766173500,
+    "timezone": "UTC",
+    "week": "7",
+    "status": {
+      "long": "Not Started",
+      "short": "NS"
+    },
+    "country": {
+      "id": 26,
+      "name": "World",
+      "code": null,
+      "flag": null
+    },
+    "league": {
+      "id": 76,
+      "name": "United Rugby Championship",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/rugby/leagues/76.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 611,
+        "name": "Cardiff Rugby",
+        "logo": "https://media.api-sports.io/rugby/teams/611.png"
+      },
+      "away": {
+        "id": 397,
+        "name": "Scarlets",
+        "logo": "https://media.api-sports.io/rugby/teams/397.png"
+      }
+    },
+    "scores": {
+      "home": null,
+      "away": null
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 49593,
+    "date": "2025-12-19T19:45:00+00:00",
+    "time": "19:45",
+    "timestamp": 1766173500,
+    "timezone": "UTC",
+    "week": "7",
+    "status": {
+      "long": "Not Started",
+      "short": "NS"
+    },
+    "country": {
+      "id": 26,
+      "name": "World",
+      "code": null,
+      "flag": null
+    },
+    "league": {
+      "id": 76,
+      "name": "United Rugby Championship",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/rugby/leagues/76.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 407,
+        "name": "Leinster",
+        "logo": "https://media.api-sports.io/rugby/teams/407.png"
+      },
+      "away": {
+        "id": 409,
+        "name": "Ulster",
+        "logo": "https://media.api-sports.io/rugby/teams/409.png"
+      }
+    },
+    "scores": {
+      "home": null,
+      "away": null
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 50074,
+    "date": "2025-12-19T19:45:00+00:00",
+    "time": "19:45",
+    "timestamp": 1766173500,
+    "timezone": "UTC",
+    "week": "7",
+    "status": {
+      "long": "Not Started",
+      "short": "NS"
+    },
+    "country": {
+      "id": 6,
+      "name": "England",
+      "code": "GB",
+      "flag": "https://media.api-sports.io/flags/gb.svg"
+    },
+    "league": {
+      "id": 13,
+      "name": "Premiership Rugby",
+      "type": "League",
+      "logo": "https://media.api-sports.io/rugby/leagues/13.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 63,
+        "name": "Leicester Tigers",
+        "logo": "https://media.api-sports.io/rugby/teams/63.png"
+      },
+      "away": {
+        "id": 61,
+        "name": "Gloucester",
+        "logo": "https://media.api-sports.io/rugby/teams/61.png"
+      }
+    },
+    "scores": {
+      "home": null,
+      "away": null
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 50579,
+    "date": "2025-12-19T19:45:00+00:00",
+    "time": "19:45",
+    "timestamp": 1766173500,
+    "timezone": "UTC",
+    "week": "11",
+    "status": {
+      "long": "Not Started",
+      "short": "NS"
+    },
+    "country": {
+      "id": 6,
+      "name": "England",
+      "code": "GB",
+      "flag": "https://media.api-sports.io/flags/gb.svg"
+    },
+    "league": {
+      "id": 12,
+      "name": "Greene King IPA Championship",
+      "type": "League",
+      "logo": "https://media.api-sports.io/rugby/leagues/12.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 402,
+        "name": "Richmond",
+        "logo": "https://media.api-sports.io/rugby/teams/402.png"
+      },
+      "away": {
+        "id": 76,
+        "name": "Doncaster",
+        "logo": "https://media.api-sports.io/rugby/teams/76.png"
+      }
+    },
+    "scores": {
+      "home": null,
+      "away": null
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 50293,
+    "date": "2025-12-19T20:00:00+00:00",
+    "time": "20:00",
+    "timestamp": 1766174400,
+    "timezone": "UTC",
+    "week": "15",
+    "status": {
+      "long": "Not Started",
+      "short": "NS"
+    },
+    "country": {
+      "id": 7,
+      "name": "France",
+      "code": "FR",
+      "flag": "https://media.api-sports.io/flags/fr.svg"
+    },
+    "league": {
+      "id": 17,
+      "name": "Pro D2",
+      "type": "League",
+      "logo": "https://media.api-sports.io/rugby/leagues/17.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 111,
+        "name": "Biarritz Olympique",
+        "logo": "https://media.api-sports.io/rugby/teams/111.png"
+      },
+      "away": {
+        "id": 731,
+        "name": "US Oyonnax",
+        "logo": "https://media.api-sports.io/rugby/teams/731.png"
+      }
+    },
+    "scores": {
+      "home": null,
+      "away": null
     },
     "periods": {
       "first": {
