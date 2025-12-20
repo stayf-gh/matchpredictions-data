@@ -100,6 +100,12 @@
     },
     "seasons": [
       {
+        "season": 2023,
+        "current": false,
+        "start": "2023-05-11",
+        "end": "2023-05-21"
+      },
+      {
         "season": 2025,
         "current": false,
         "start": "2025-04-19",
@@ -110,12 +116,6 @@
         "current": false,
         "start": "2024-04-14",
         "end": "2024-04-23"
-      },
-      {
-        "season": 2023,
-        "current": false,
-        "start": "2023-05-11",
-        "end": "2023-05-21"
       },
       {
         "season": 2022,
@@ -174,16 +174,16 @@
         "end": "2025-04-13"
       },
       {
-        "season": 2024,
-        "current": false,
-        "start": "2024-04-26",
-        "end": "2024-05-04"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-05-12",
         "end": "2023-05-22"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-04-26",
+        "end": "2024-05-04"
       }
     ]
   },
@@ -201,9 +201,9 @@
     "seasons": [
       {
         "season": 2025,
-        "current": true,
+        "current": false,
         "start": "2025-12-12",
-        "end": "2025-12-17"
+        "end": "2025-12-18"
       },
       {
         "season": 2024,
@@ -334,16 +334,16 @@
         "end": "2013-10-08"
       },
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-10-18",
-        "end": "2023-10-20"
-      },
-      {
         "season": 2022,
         "current": false,
         "start": "2022-10-22",
         "end": "2022-10-23"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-10-18",
+        "end": "2023-10-20"
       }
     ]
   },
@@ -366,16 +366,16 @@
         "end": "2025-04-17"
       },
       {
-        "season": 2024,
-        "current": false,
-        "start": "2024-01-19",
-        "end": "2024-04-22"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-01-21",
         "end": "2023-04-17"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-01-19",
+        "end": "2024-04-22"
       },
       {
         "season": 2022,
@@ -422,28 +422,28 @@
         "end": "2021-04-02"
       },
       {
-        "season": 2026,
-        "current": true,
-        "start": "2025-11-06",
-        "end": "2026-02-16"
-      },
-      {
         "season": 2025,
         "current": false,
         "start": "2024-11-14",
         "end": "2025-04-16"
       },
       {
-        "season": 2024,
-        "current": false,
-        "start": "2023-11-09",
-        "end": "2024-04-19"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2022-11-03",
         "end": "2023-04-22"
+      },
+      {
+        "season": 2026,
+        "current": true,
+        "start": "2025-11-06",
+        "end": "2026-02-16"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2023-11-09",
+        "end": "2024-04-19"
       }
     ]
   },
@@ -957,7 +957,7 @@
         "season": 2025,
         "current": true,
         "start": "2025-12-13",
-        "end": "2025-12-16"
+        "end": "2025-12-19"
       }
     ]
   },
@@ -974,16 +974,16 @@
     },
     "seasons": [
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-05-09",
-        "end": "2023-05-14"
-      },
-      {
         "season": 2025,
         "current": false,
         "start": "2025-12-10",
         "end": "2025-12-15"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-05-09",
+        "end": "2023-05-14"
       },
       {
         "season": 2015,
@@ -1078,12 +1078,6 @@
         "end": "2012-12-09"
       },
       {
-        "season": 2024,
-        "current": false,
-        "start": "2024-08-31",
-        "end": "2024-10-13"
-      },
-      {
         "season": 2025,
         "current": false,
         "start": "2025-09-20",
@@ -1094,6 +1088,12 @@
         "current": false,
         "start": "2023-08-12",
         "end": "2023-09-17"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-08-31",
+        "end": "2024-10-13"
       }
     ]
   },
@@ -1110,16 +1110,16 @@
     },
     "seasons": [
       {
-        "season": 2025,
-        "current": false,
-        "start": "2025-09-20",
-        "end": "2025-11-02"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-08-12",
         "end": "2023-09-17"
+      },
+      {
+        "season": 2025,
+        "current": false,
+        "start": "2025-09-20",
+        "end": "2025-11-02"
       },
       {
         "season": 2024,
@@ -1258,10 +1258,10 @@
         "end": "2022-05-01"
       },
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-09-30",
-        "end": "2024-04-27"
+        "season": 2025,
+        "current": true,
+        "start": "2025-10-04",
+        "end": "2026-02-15"
       },
       {
         "season": 2024,
@@ -1276,10 +1276,10 @@
         "end": "2023-05-01"
       },
       {
-        "season": 2025,
-        "current": true,
-        "start": "2025-10-04",
-        "end": "2026-02-15"
+        "season": 2023,
+        "current": false,
+        "start": "2023-09-30",
+        "end": "2024-04-27"
       }
     ]
   },
@@ -1442,12 +1442,6 @@
         "end": "2016-02-08"
       },
       {
-        "season": 2024,
-        "current": false,
-        "start": "2024-10-05",
-        "end": "2025-02-16"
-      },
-      {
         "season": 2025,
         "current": true,
         "start": "2025-11-09",
@@ -1458,6 +1452,12 @@
         "current": false,
         "start": "2023-10-01",
         "end": "2024-02-24"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-10-05",
+        "end": "2025-02-16"
       },
       {
         "season": 2022,
@@ -1480,18 +1480,6 @@
     },
     "seasons": [
       {
-        "season": 2025,
-        "current": true,
-        "start": "2025-11-09",
-        "end": "2025-12-21"
-      },
-      {
-        "season": 2023,
-        "current": false,
-        "start": "2023-10-01",
-        "end": "2024-02-24"
-      },
-      {
         "season": 2022,
         "current": false,
         "start": "2022-10-26",
@@ -1502,6 +1490,18 @@
         "current": false,
         "start": "2024-10-13",
         "end": "2025-02-16"
+      },
+      {
+        "season": 2025,
+        "current": true,
+        "start": "2025-11-09",
+        "end": "2026-01-16"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-10-01",
+        "end": "2024-02-24"
       },
       {
         "season": 2012,
@@ -1656,28 +1656,28 @@
         "end": "2015-04-25"
       },
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-09-30",
-        "end": "2024-04-27"
-      },
-      {
         "season": 2024,
         "current": false,
         "start": "2024-10-05",
         "end": "2025-04-26"
       },
       {
-        "season": 2022,
-        "current": false,
-        "start": "2022-10-01",
-        "end": "2023-04-29"
-      },
-      {
         "season": 2025,
         "current": true,
         "start": "2025-10-04",
         "end": "2026-02-15"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-09-30",
+        "end": "2024-04-27"
+      },
+      {
+        "season": 2022,
+        "current": false,
+        "start": "2022-10-01",
+        "end": "2023-04-29"
       }
     ]
   },
@@ -1694,16 +1694,16 @@
     },
     "seasons": [
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-09-30",
-        "end": "2024-04-29"
-      },
-      {
         "season": 2025,
         "current": true,
         "start": "2025-10-04",
         "end": "2026-02-15"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-09-30",
+        "end": "2024-04-29"
       },
       {
         "season": 2024,
@@ -1872,10 +1872,10 @@
         "end": "2024-05-25"
       },
       {
-        "season": 2022,
+        "season": 2024,
         "current": false,
-        "start": "2022-10-22",
-        "end": "2023-05-14"
+        "start": "2024-09-21",
+        "end": "2025-05-21"
       },
       {
         "season": 2025,
@@ -1884,10 +1884,10 @@
         "end": "2026-02-13"
       },
       {
-        "season": 2024,
+        "season": 2022,
         "current": false,
-        "start": "2024-09-21",
-        "end": "2025-05-21"
+        "start": "2022-10-22",
+        "end": "2023-05-14"
       }
     ]
   },
@@ -1910,16 +1910,16 @@
         "end": "2024-05-25"
       },
       {
-        "season": 2022,
-        "current": false,
-        "start": "2022-10-19",
-        "end": "2023-05-17"
-      },
-      {
         "season": 2025,
         "current": true,
         "start": "2025-09-27",
         "end": "2026-02-28"
+      },
+      {
+        "season": 2022,
+        "current": false,
+        "start": "2022-10-19",
+        "end": "2023-05-17"
       },
       {
         "season": 2024,
@@ -1996,12 +1996,6 @@
         "end": "2021-02-21"
       },
       {
-        "season": 2025,
-        "current": true,
-        "start": "2025-10-24",
-        "end": "2025-12-26"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-10-27",
@@ -2012,6 +2006,12 @@
         "current": false,
         "start": "2024-10-11",
         "end": "2025-03-02"
+      },
+      {
+        "season": 2025,
+        "current": true,
+        "start": "2025-10-24",
+        "end": "2025-12-26"
       }
     ]
   },
@@ -2034,16 +2034,16 @@
         "end": "2025-03-02"
       },
       {
-        "season": 2025,
-        "current": true,
-        "start": "2025-10-25",
-        "end": "2026-04-11"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-10-27",
         "end": "2024-02-10"
+      },
+      {
+        "season": 2025,
+        "current": true,
+        "start": "2025-10-25",
+        "end": "2026-04-11"
       },
       {
         "season": 2021,
@@ -2292,28 +2292,28 @@
         "end": "2015-10-25"
       },
       {
-        "season": 2024,
-        "current": false,
-        "start": "2024-09-15",
-        "end": "2024-09-15"
-      },
-      {
         "season": 2022,
         "current": false,
         "start": "2022-10-08",
         "end": "2022-10-08"
       },
       {
-        "season": 2025,
+        "season": 2024,
         "current": false,
-        "start": "2025-10-05",
-        "end": "2025-10-05"
+        "start": "2024-09-15",
+        "end": "2024-09-15"
       },
       {
         "season": 2023,
         "current": false,
         "start": "2023-10-10",
         "end": "2023-10-10"
+      },
+      {
+        "season": 2025,
+        "current": false,
+        "start": "2025-10-05",
+        "end": "2025-10-05"
       }
     ]
   },
@@ -2330,28 +2330,28 @@
     },
     "seasons": [
       {
-        "season": 2024,
-        "current": false,
-        "start": "2024-09-15",
-        "end": "2024-09-15"
-      },
-      {
-        "season": 2025,
-        "current": false,
-        "start": "2025-10-05",
-        "end": "2025-10-05"
-      },
-      {
         "season": 2022,
         "current": false,
         "start": "2022-10-30",
         "end": "2022-10-30"
       },
       {
+        "season": 2024,
+        "current": false,
+        "start": "2024-09-15",
+        "end": "2024-09-15"
+      },
+      {
         "season": 2023,
         "current": false,
         "start": "2023-10-01",
         "end": "2023-10-01"
+      },
+      {
+        "season": 2025,
+        "current": false,
+        "start": "2025-10-05",
+        "end": "2025-10-05"
       },
       {
         "season": 2013,
@@ -2422,28 +2422,28 @@
         "end": "2022-04-20"
       },
       {
-        "season": 2022,
-        "current": false,
-        "start": "2022-10-08",
-        "end": "2023-04-29"
-      },
-      {
         "season": 2025,
         "current": true,
         "start": "2025-10-03",
         "end": "2026-02-27"
       },
       {
-        "season": 2023,
+        "season": 2022,
         "current": false,
-        "start": "2023-09-30",
-        "end": "2024-04-19"
+        "start": "2022-10-08",
+        "end": "2023-04-29"
       },
       {
         "season": 2024,
         "current": false,
         "start": "2024-10-04",
         "end": "2025-04-19"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-09-30",
+        "end": "2024-04-19"
       }
     ]
   },
@@ -2472,16 +2472,16 @@
         "end": "2025-05-04"
       },
       {
-        "season": 2022,
-        "current": false,
-        "start": "2022-10-21",
-        "end": "2023-04-30"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-11-10",
         "end": "2024-04-28"
+      },
+      {
+        "season": 2022,
+        "current": false,
+        "start": "2022-10-21",
+        "end": "2023-04-30"
       },
       {
         "season": 2015,
@@ -2648,16 +2648,10 @@
         "end": "2013-04-07"
       },
       {
-        "season": 2025,
-        "current": true,
-        "start": "2025-10-20",
-        "end": "2026-03-25"
-      },
-      {
-        "season": 2024,
+        "season": 2023,
         "current": false,
-        "start": "2024-10-16",
-        "end": "2025-05-01"
+        "start": "2023-11-04",
+        "end": "2024-04-21"
       },
       {
         "season": 2022,
@@ -2666,10 +2660,16 @@
         "end": "2023-05-07"
       },
       {
-        "season": 2023,
+        "season": 2024,
         "current": false,
-        "start": "2023-11-04",
-        "end": "2024-04-21"
+        "start": "2024-10-16",
+        "end": "2025-05-01"
+      },
+      {
+        "season": 2025,
+        "current": true,
+        "start": "2025-10-20",
+        "end": "2026-03-25"
       }
     ]
   },
@@ -2692,16 +2692,16 @@
         "end": "2023-01-22"
       },
       {
-        "season": 2024,
-        "current": false,
-        "start": "2025-01-10",
-        "end": "2025-01-12"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2024-01-19",
         "end": "2024-01-21"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2025-01-10",
+        "end": "2025-01-12"
       },
       {
         "season": 2021,
@@ -2878,10 +2878,10 @@
     },
     "seasons": [
       {
-        "season": 2022,
+        "season": 2024,
         "current": false,
-        "start": "2022-10-14",
-        "end": "2023-05-02"
+        "start": "2024-10-18",
+        "end": "2025-04-27"
       },
       {
         "season": 2023,
@@ -2896,10 +2896,10 @@
         "end": "2026-03-07"
       },
       {
-        "season": 2024,
+        "season": 2022,
         "current": false,
-        "start": "2024-10-18",
-        "end": "2025-04-27"
+        "start": "2022-10-14",
+        "end": "2023-05-02"
       },
       {
         "season": 2021,
@@ -3054,10 +3054,10 @@
         "end": "2024-04-21"
       },
       {
-        "season": 2022,
+        "season": 2024,
         "current": false,
-        "start": "2022-10-28",
-        "end": "2023-04-09"
+        "start": "2024-10-19",
+        "end": "2025-04-25"
       },
       {
         "season": 2025,
@@ -3066,10 +3066,10 @@
         "end": "2026-03-14"
       },
       {
-        "season": 2024,
+        "season": 2022,
         "current": false,
-        "start": "2024-10-19",
-        "end": "2025-04-25"
+        "start": "2022-10-28",
+        "end": "2023-04-09"
       }
     ]
   },
@@ -3086,16 +3086,16 @@
     },
     "seasons": [
       {
-        "season": 2024,
-        "current": false,
-        "start": "2024-10-27",
-        "end": "2025-03-09"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-11-12",
         "end": "2024-04-14"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-10-27",
+        "end": "2025-03-09"
       },
       {
         "season": 2025,
@@ -3214,6 +3214,12 @@
         "end": "2020-12-18"
       },
       {
+        "season": 2025,
+        "current": true,
+        "start": "2025-12-12",
+        "end": "2026-02-03"
+      },
+      {
         "season": 2023,
         "current": false,
         "start": "2023-11-04",
@@ -3230,12 +3236,6 @@
         "current": false,
         "start": "2024-10-26",
         "end": "2025-03-04"
-      },
-      {
-        "season": 2025,
-        "current": true,
-        "start": "2025-12-12",
-        "end": "2026-02-03"
       }
     ]
   },
@@ -3252,16 +3252,16 @@
     },
     "seasons": [
       {
-        "season": 2025,
-        "current": true,
-        "start": "2025-10-04",
-        "end": "2026-03-21"
-      },
-      {
         "season": 2024,
         "current": false,
         "start": "2024-10-05",
         "end": "2025-03-30"
+      },
+      {
+        "season": 2025,
+        "current": true,
+        "start": "2025-10-04",
+        "end": "2026-03-21"
       },
       {
         "season": 2017,
@@ -3326,16 +3326,16 @@
         "end": "2024-04-07"
       },
       {
-        "season": 2025,
-        "current": true,
-        "start": "2025-10-04",
-        "end": "2026-04-04"
-      },
-      {
         "season": 2024,
         "current": false,
         "start": "2024-09-28",
         "end": "2025-04-06"
+      },
+      {
+        "season": 2025,
+        "current": true,
+        "start": "2025-10-04",
+        "end": "2026-04-04"
       }
     ]
   },
@@ -3352,6 +3352,12 @@
     },
     "seasons": [
       {
+        "season": 2024,
+        "current": false,
+        "start": "2024-10-05",
+        "end": "2025-04-09"
+      },
+      {
         "season": 2023,
         "current": false,
         "start": "2023-09-30",
@@ -3362,12 +3368,6 @@
         "current": true,
         "start": "2025-10-04",
         "end": "2026-03-21"
-      },
-      {
-        "season": 2024,
-        "current": false,
-        "start": "2024-10-05",
-        "end": "2025-04-09"
       },
       {
         "season": 2022,
@@ -3528,16 +3528,16 @@
         "end": "2021-05-08"
       },
       {
-        "season": 2025,
-        "current": true,
-        "start": "2025-10-04",
-        "end": "2026-03-21"
-      },
-      {
         "season": 2024,
         "current": false,
         "start": "2024-10-05",
         "end": "2025-04-09"
+      },
+      {
+        "season": 2025,
+        "current": true,
+        "start": "2025-10-04",
+        "end": "2026-03-21"
       },
       {
         "season": 2023,
@@ -3560,6 +3560,18 @@
     },
     "seasons": [
       {
+        "season": 2024,
+        "current": false,
+        "start": "2024-10-18",
+        "end": "2025-04-23"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-10-20",
+        "end": "2024-03-08"
+      },
+      {
         "season": 2025,
         "current": true,
         "start": "2025-10-17",
@@ -3570,18 +3582,6 @@
         "current": false,
         "start": "2022-10-21",
         "end": "2023-03-03"
-      },
-      {
-        "season": 2023,
-        "current": false,
-        "start": "2023-10-20",
-        "end": "2024-03-08"
-      },
-      {
-        "season": 2024,
-        "current": false,
-        "start": "2024-10-18",
-        "end": "2025-04-23"
       },
       {
         "season": 2017,
@@ -3634,12 +3634,6 @@
         "end": "2022-04-09"
       },
       {
-        "season": 2025,
-        "current": true,
-        "start": "2025-10-03",
-        "end": "2025-12-19"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-09-22",
@@ -3650,6 +3644,12 @@
         "current": false,
         "start": "2024-09-20",
         "end": "2025-04-13"
+      },
+      {
+        "season": 2025,
+        "current": true,
+        "start": "2025-10-03",
+        "end": "2025-12-19"
       }
     ]
   },
@@ -3666,10 +3666,10 @@
     },
     "seasons": [
       {
-        "season": 2025,
-        "current": true,
-        "start": "2025-10-10",
-        "end": "2025-12-19"
+        "season": 2024,
+        "current": false,
+        "start": "2024-09-13",
+        "end": "2025-04-13"
       },
       {
         "season": 2023,
@@ -3678,10 +3678,10 @@
         "end": "2024-04-21"
       },
       {
-        "season": 2024,
-        "current": false,
-        "start": "2024-09-13",
-        "end": "2025-04-13"
+        "season": 2025,
+        "current": true,
+        "start": "2025-10-10",
+        "end": "2025-12-19"
       },
       {
         "season": 2020,
@@ -3782,16 +3782,16 @@
         "end": "2025-02-22"
       },
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-09-16",
-        "end": "2024-02-26"
-      },
-      {
         "season": 2025,
         "current": true,
         "start": "2025-09-20",
         "end": "2026-01-28"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-09-16",
+        "end": "2024-02-26"
       }
     ]
   },
@@ -3808,6 +3808,12 @@
     },
     "seasons": [
       {
+        "season": 2025,
+        "current": true,
+        "start": "2025-09-19",
+        "end": "2026-01-29"
+      },
+      {
         "season": 2024,
         "current": false,
         "start": "2024-09-07",
@@ -3818,12 +3824,6 @@
         "current": false,
         "start": "2023-09-09",
         "end": "2024-02-12"
-      },
-      {
-        "season": 2025,
-        "current": true,
-        "start": "2025-09-19",
-        "end": "2026-01-29"
       },
       {
         "season": 2020,
@@ -3924,6 +3924,12 @@
         "end": "2019-05-05"
       },
       {
+        "season": 2024,
+        "current": false,
+        "start": "2024-09-26",
+        "end": "2025-05-04"
+      },
+      {
         "season": 2023,
         "current": false,
         "start": "2023-10-19",
@@ -3934,12 +3940,6 @@
         "current": true,
         "start": "2025-10-23",
         "end": "2026-03-14"
-      },
-      {
-        "season": 2024,
-        "current": false,
-        "start": "2024-09-26",
-        "end": "2025-05-04"
       }
     ]
   },
@@ -3962,16 +3962,16 @@
         "end": "2026-03-07"
       },
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-10-07",
-        "end": "2024-04-21"
-      },
-      {
         "season": 2024,
         "current": false,
         "start": "2024-09-28",
         "end": "2025-04-27"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-10-07",
+        "end": "2024-04-21"
       },
       {
         "season": 2010,
@@ -4148,10 +4148,10 @@
         "end": "2022-04-27"
       },
       {
-        "season": 2023,
+        "season": 2024,
         "current": false,
-        "start": "2023-09-30",
-        "end": "2024-04-07"
+        "start": "2024-09-29",
+        "end": "2025-04-09"
       },
       {
         "season": 2025,
@@ -4160,10 +4160,10 @@
         "end": "2026-04-19"
       },
       {
-        "season": 2024,
+        "season": 2023,
         "current": false,
-        "start": "2024-09-29",
-        "end": "2025-04-09"
+        "start": "2023-09-30",
+        "end": "2024-04-07"
       }
     ]
   },
@@ -4180,12 +4180,6 @@
     },
     "seasons": [
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-09-30",
-        "end": "2024-04-07"
-      },
-      {
         "season": 2025,
         "current": true,
         "start": "2025-09-25",
@@ -4196,6 +4190,12 @@
         "current": false,
         "start": "2024-09-28",
         "end": "2025-04-09"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-09-30",
+        "end": "2024-04-07"
       },
       {
         "season": 2013,
@@ -4450,12 +4450,6 @@
         "end": "2017-12-16"
       },
       {
-        "season": 2025,
-        "current": true,
-        "start": "2025-10-30",
-        "end": "2025-12-20"
-      },
-      {
         "season": 2022,
         "current": false,
         "start": "2022-11-15",
@@ -4466,6 +4460,12 @@
         "current": false,
         "start": "2023-11-08",
         "end": "2024-02-04"
+      },
+      {
+        "season": 2025,
+        "current": true,
+        "start": "2025-10-30",
+        "end": "2025-12-20"
       },
       {
         "season": 2024,
@@ -4488,12 +4488,6 @@
     },
     "seasons": [
       {
-        "season": 2025,
-        "current": true,
-        "start": "2025-10-27",
-        "end": "2025-12-20"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-11-06",
@@ -4504,6 +4498,12 @@
         "current": false,
         "start": "2022-11-06",
         "end": "2023-02-04"
+      },
+      {
+        "season": 2025,
+        "current": true,
+        "start": "2025-10-27",
+        "end": "2025-12-20"
       },
       {
         "season": 2024,
@@ -4658,12 +4658,6 @@
         "end": "2022-04-18"
       },
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-09-29",
-        "end": "2024-04-23"
-      },
-      {
         "season": 2025,
         "current": true,
         "start": "2025-10-03",
@@ -4674,6 +4668,12 @@
         "current": false,
         "start": "2024-09-28",
         "end": "2025-04-23"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-09-29",
+        "end": "2024-04-23"
       }
     ]
   },
@@ -4690,6 +4690,12 @@
     },
     "seasons": [
       {
+        "season": 2025,
+        "current": true,
+        "start": "2025-10-04",
+        "end": "2026-02-22"
+      },
+      {
         "season": 2024,
         "current": false,
         "start": "2024-09-26",
@@ -4700,12 +4706,6 @@
         "current": false,
         "start": "2023-09-29",
         "end": "2024-04-21"
-      },
-      {
-        "season": 2025,
-        "current": true,
-        "start": "2025-10-04",
-        "end": "2026-02-22"
       },
       {
         "season": 2017,
@@ -4806,12 +4806,6 @@
         "end": "2020-03-14"
       },
       {
-        "season": 2024,
-        "current": false,
-        "start": "2024-10-12",
-        "end": "2025-04-06"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-10-14",
@@ -4822,6 +4816,12 @@
         "current": true,
         "start": "2025-10-18",
         "end": "2026-03-29"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-10-12",
+        "end": "2025-04-06"
       }
     ]
   },
@@ -4838,16 +4838,16 @@
     },
     "seasons": [
       {
-        "season": 2024,
-        "current": false,
-        "start": "2024-10-05",
-        "end": "2025-04-06"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-09-30",
         "end": "2024-04-28"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-10-05",
+        "end": "2025-04-06"
       },
       {
         "season": 2025,
@@ -4932,18 +4932,6 @@
     },
     "seasons": [
       {
-        "season": 2025,
-        "current": true,
-        "start": "2025-10-03",
-        "end": "2026-03-08"
-      },
-      {
-        "season": 2024,
-        "current": false,
-        "start": "2024-10-04",
-        "end": "2025-04-13"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-09-30",
@@ -4954,6 +4942,18 @@
         "current": false,
         "start": "2022-10-01",
         "end": "2023-04-16"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-10-04",
+        "end": "2025-04-13"
+      },
+      {
+        "season": 2025,
+        "current": true,
+        "start": "2025-10-03",
+        "end": "2026-03-08"
       },
       {
         "season": 2021,
@@ -5042,10 +5042,10 @@
         "end": "2023-04-09"
       },
       {
-        "season": 2025,
-        "current": true,
-        "start": "2025-10-18",
-        "end": "2026-02-22"
+        "season": 2023,
+        "current": false,
+        "start": "2023-09-30",
+        "end": "2024-04-21"
       },
       {
         "season": 2024,
@@ -5054,10 +5054,10 @@
         "end": "2025-04-17"
       },
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-09-30",
-        "end": "2024-04-21"
+        "season": 2025,
+        "current": true,
+        "start": "2025-10-18",
+        "end": "2026-02-22"
       }
     ]
   },
@@ -5073,6 +5073,18 @@
       "flag": null
     },
     "seasons": [
+      {
+        "season": 2013,
+        "current": false,
+        "start": "2013-10-22",
+        "end": "2014-03-29"
+      },
+      {
+        "season": 2017,
+        "current": false,
+        "start": "2017-11-21",
+        "end": "2018-04-10"
+      },
       {
         "season": 2023,
         "current": false,
@@ -5098,10 +5110,40 @@
         "end": "2019-03-26"
       },
       {
-        "season": 2017,
+        "season": 2025,
+        "current": true,
+        "start": "2025-11-12",
+        "end": "2026-01-08"
+      },
+      {
+        "season": 2024,
         "current": false,
-        "start": "2017-11-21",
-        "end": "2018-04-10"
+        "start": "2024-10-08",
+        "end": "2025-04-09"
+      },
+      {
+        "season": 2010,
+        "current": false,
+        "start": "2010-11-17",
+        "end": "2011-03-12"
+      },
+      {
+        "season": 2011,
+        "current": false,
+        "start": "2011-10-18",
+        "end": "2012-04-01"
+      },
+      {
+        "season": 2012,
+        "current": false,
+        "start": "2012-10-23",
+        "end": "2013-03-03"
+      },
+      {
+        "season": 2014,
+        "current": false,
+        "start": "2014-11-04",
+        "end": "2015-04-11"
       },
       {
         "season": 2016,
@@ -5114,48 +5156,6 @@
         "current": false,
         "start": "2015-11-03",
         "end": "2016-04-02"
-      },
-      {
-        "season": 2014,
-        "current": false,
-        "start": "2014-11-04",
-        "end": "2015-04-11"
-      },
-      {
-        "season": 2013,
-        "current": false,
-        "start": "2013-10-22",
-        "end": "2014-03-29"
-      },
-      {
-        "season": 2012,
-        "current": false,
-        "start": "2012-10-23",
-        "end": "2013-03-03"
-      },
-      {
-        "season": 2011,
-        "current": false,
-        "start": "2011-10-18",
-        "end": "2012-04-01"
-      },
-      {
-        "season": 2010,
-        "current": false,
-        "start": "2010-11-17",
-        "end": "2011-03-12"
-      },
-      {
-        "season": 2024,
-        "current": false,
-        "start": "2024-10-08",
-        "end": "2025-04-09"
-      },
-      {
-        "season": 2025,
-        "current": true,
-        "start": "2025-11-12",
-        "end": "2026-01-08"
       }
     ]
   },
@@ -5172,64 +5172,10 @@
     },
     "seasons": [
       {
-        "season": 2011,
-        "current": false,
-        "start": "2011-11-29",
-        "end": "2012-03-31"
-      },
-      {
-        "season": 2014,
-        "current": false,
-        "start": "2014-11-11",
-        "end": "2015-04-11"
-      },
-      {
-        "season": 2023,
-        "current": false,
-        "start": "2023-11-07",
-        "end": "2024-03-20"
-      },
-      {
-        "season": 2015,
-        "current": false,
-        "start": "2015-10-27",
-        "end": "2016-04-02"
-      },
-      {
-        "season": 2018,
-        "current": false,
-        "start": "2018-11-27",
-        "end": "2019-03-26"
-      },
-      {
-        "season": 2016,
-        "current": false,
-        "start": "2016-12-13",
-        "end": "2017-04-15"
-      },
-      {
         "season": 2024,
         "current": false,
         "start": "2024-11-05",
         "end": "2025-04-01"
-      },
-      {
-        "season": 2022,
-        "current": false,
-        "start": "2022-12-13",
-        "end": "2023-04-12"
-      },
-      {
-        "season": 2012,
-        "current": false,
-        "start": "2012-10-23",
-        "end": "2013-03-02"
-      },
-      {
-        "season": 2017,
-        "current": false,
-        "start": "2017-12-12",
-        "end": "2018-04-10"
       },
       {
         "season": 2010,
@@ -5238,16 +5184,70 @@
         "end": "2011-04-03"
       },
       {
-        "season": 2013,
+        "season": 2023,
         "current": false,
-        "start": "2013-10-22",
-        "end": "2014-03-29"
+        "start": "2023-11-07",
+        "end": "2024-03-20"
+      },
+      {
+        "season": 2022,
+        "current": false,
+        "start": "2022-12-13",
+        "end": "2023-04-12"
+      },
+      {
+        "season": 2011,
+        "current": false,
+        "start": "2011-11-29",
+        "end": "2012-03-31"
       },
       {
         "season": 2021,
         "current": false,
         "start": "2021-11-16",
         "end": "2022-03-22"
+      },
+      {
+        "season": 2018,
+        "current": false,
+        "start": "2018-11-27",
+        "end": "2019-03-26"
+      },
+      {
+        "season": 2017,
+        "current": false,
+        "start": "2017-12-12",
+        "end": "2018-04-10"
+      },
+      {
+        "season": 2012,
+        "current": false,
+        "start": "2012-10-23",
+        "end": "2013-03-02"
+      },
+      {
+        "season": 2013,
+        "current": false,
+        "start": "2013-10-22",
+        "end": "2014-03-29"
+      },
+      {
+        "season": 2014,
+        "current": false,
+        "start": "2014-11-11",
+        "end": "2015-04-11"
+      },
+      {
+        "season": 2016,
+        "current": false,
+        "start": "2016-12-13",
+        "end": "2017-04-15"
+      },
+      {
+        "season": 2015,
+        "current": false,
+        "start": "2015-10-27",
+        "end": "2016-04-02"
       }
     ]
   },
@@ -5264,52 +5264,10 @@
     },
     "seasons": [
       {
-        "season": 2014,
-        "current": false,
-        "start": "2014-11-04",
-        "end": "2015-04-12"
-      },
-      {
-        "season": 2009,
-        "current": false,
-        "start": "2009-12-01",
-        "end": "2010-03-28"
-      },
-      {
         "season": 2016,
         "current": false,
         "start": "2016-11-08",
         "end": "2017-04-16"
-      },
-      {
-        "season": 2024,
-        "current": false,
-        "start": "2024-09-20",
-        "end": "2025-03-19"
-      },
-      {
-        "season": 2013,
-        "current": false,
-        "start": "2013-10-19",
-        "end": "2014-03-29"
-      },
-      {
-        "season": 2025,
-        "current": true,
-        "start": "2025-11-11",
-        "end": "2026-01-08"
-      },
-      {
-        "season": 2012,
-        "current": false,
-        "start": "2012-10-20",
-        "end": "2013-03-24"
-      },
-      {
-        "season": 2015,
-        "current": false,
-        "start": "2015-10-24",
-        "end": "2016-04-03"
       },
       {
         "season": 2023,
@@ -5318,22 +5276,16 @@
         "end": "2024-02-27"
       },
       {
-        "season": 2011,
-        "current": false,
-        "start": "2011-10-22",
-        "end": "2012-03-31"
-      },
-      {
-        "season": 2010,
-        "current": false,
-        "start": "2010-10-16",
-        "end": "2011-03-13"
-      },
-      {
         "season": 2022,
         "current": false,
         "start": "2022-10-11",
         "end": "2023-03-15"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-09-20",
+        "end": "2025-03-19"
       },
       {
         "season": 2021,
@@ -5342,16 +5294,64 @@
         "end": "2022-03-22"
       },
       {
+        "season": 2018,
+        "current": false,
+        "start": "2018-11-06",
+        "end": "2019-03-27"
+      },
+      {
         "season": 2017,
         "current": false,
         "start": "2017-11-21",
         "end": "2018-04-11"
       },
       {
-        "season": 2018,
+        "season": 2009,
         "current": false,
-        "start": "2018-11-06",
-        "end": "2019-03-27"
+        "start": "2009-12-01",
+        "end": "2010-03-28"
+      },
+      {
+        "season": 2025,
+        "current": true,
+        "start": "2025-11-11",
+        "end": "2026-01-08"
+      },
+      {
+        "season": 2015,
+        "current": false,
+        "start": "2015-10-24",
+        "end": "2016-04-03"
+      },
+      {
+        "season": 2014,
+        "current": false,
+        "start": "2014-11-04",
+        "end": "2015-04-12"
+      },
+      {
+        "season": 2013,
+        "current": false,
+        "start": "2013-10-19",
+        "end": "2014-03-29"
+      },
+      {
+        "season": 2010,
+        "current": false,
+        "start": "2010-10-16",
+        "end": "2011-03-13"
+      },
+      {
+        "season": 2011,
+        "current": false,
+        "start": "2011-10-22",
+        "end": "2012-03-31"
+      },
+      {
+        "season": 2012,
+        "current": false,
+        "start": "2012-10-20",
+        "end": "2013-03-24"
       }
     ]
   },
@@ -5368,16 +5368,28 @@
     },
     "seasons": [
       {
-        "season": 2025,
-        "current": true,
-        "start": "2025-10-28",
-        "end": "2026-01-15"
+        "season": 2009,
+        "current": false,
+        "start": "2009-12-01",
+        "end": "2010-03-21"
       },
       {
-        "season": 2010,
+        "season": 2023,
         "current": false,
-        "start": "2010-10-09",
-        "end": "2011-04-02"
+        "start": "2023-10-10",
+        "end": "2024-02-28"
+      },
+      {
+        "season": 2017,
+        "current": false,
+        "start": "2017-11-21",
+        "end": "2018-04-11"
+      },
+      {
+        "season": 2022,
+        "current": false,
+        "start": "2022-11-22",
+        "end": "2023-03-22"
       },
       {
         "season": 2021,
@@ -5386,16 +5398,16 @@
         "end": "2022-03-23"
       },
       {
-        "season": 2024,
+        "season": 2018,
         "current": false,
-        "start": "2024-09-10",
-        "end": "2025-03-11"
+        "start": "2018-11-06",
+        "end": "2019-03-27"
       },
       {
-        "season": 2023,
+        "season": 2010,
         "current": false,
-        "start": "2023-10-10",
-        "end": "2024-02-28"
+        "start": "2010-10-09",
+        "end": "2011-04-02"
       },
       {
         "season": 2011,
@@ -5410,10 +5422,22 @@
         "end": "2013-03-24"
       },
       {
+        "season": 2024,
+        "current": false,
+        "start": "2024-09-10",
+        "end": "2025-03-11"
+      },
+      {
         "season": 2013,
         "current": false,
         "start": "2013-11-19",
         "end": "2014-03-30"
+      },
+      {
+        "season": 2025,
+        "current": true,
+        "start": "2025-10-28",
+        "end": "2026-01-15"
       },
       {
         "season": 2014,
@@ -5422,34 +5446,10 @@
         "end": "2015-04-12"
       },
       {
-        "season": 2022,
-        "current": false,
-        "start": "2022-11-22",
-        "end": "2023-03-22"
-      },
-      {
         "season": 2015,
         "current": false,
         "start": "2015-11-10",
         "end": "2016-04-03"
-      },
-      {
-        "season": 2017,
-        "current": false,
-        "start": "2017-11-21",
-        "end": "2018-04-11"
-      },
-      {
-        "season": 2018,
-        "current": false,
-        "start": "2018-11-06",
-        "end": "2019-03-27"
-      },
-      {
-        "season": 2009,
-        "current": false,
-        "start": "2009-12-01",
-        "end": "2010-03-21"
       }
     ]
   },
@@ -5574,16 +5574,10 @@
     },
     "seasons": [
       {
-        "season": 2023,
+        "season": 2017,
         "current": false,
-        "start": "2022-08-20",
-        "end": "2023-09-03"
-      },
-      {
-        "season": 2021,
-        "current": false,
-        "start": "2021-05-06",
-        "end": "2021-09-04"
+        "start": "2016-05-20",
+        "end": "2017-10-01"
       },
       {
         "season": 2019,
@@ -5592,10 +5586,16 @@
         "end": "2019-08-29"
       },
       {
-        "season": 2017,
+        "season": 2021,
         "current": false,
-        "start": "2016-05-20",
-        "end": "2017-10-01"
+        "start": "2021-05-06",
+        "end": "2021-09-04"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2022-08-20",
+        "end": "2023-09-03"
       },
       {
         "season": 2024,
@@ -5617,6 +5617,12 @@
       "flag": null
     },
     "seasons": [
+      {
+        "season": 2012,
+        "current": false,
+        "start": "2012-05-24",
+        "end": "2012-07-01"
+      },
       {
         "season": 2013,
         "current": false,
@@ -5648,12 +5654,6 @@
         "end": "2014-07-26"
       },
       {
-        "season": 2012,
-        "current": false,
-        "start": "2012-05-24",
-        "end": "2012-07-01"
-      },
-      {
         "season": 2011,
         "current": false,
         "start": "2011-05-26",
@@ -5680,28 +5680,16 @@
         "end": "2017-07-09"
       },
       {
-        "season": 2016,
-        "current": false,
-        "start": "2016-06-03",
-        "end": "2016-07-03"
-      },
-      {
         "season": 2011,
         "current": false,
         "start": "2011-05-27",
         "end": "2011-07-16"
       },
       {
-        "season": 2015,
+        "season": 2012,
         "current": false,
-        "start": "2015-07-30",
-        "end": "2015-09-13"
-      },
-      {
-        "season": 2014,
-        "current": false,
-        "start": "2014-06-06",
-        "end": "2014-07-19"
+        "start": "2012-06-01",
+        "end": "2012-07-06"
       },
       {
         "season": 2013,
@@ -5710,10 +5698,22 @@
         "end": "2013-07-14"
       },
       {
-        "season": 2012,
+        "season": 2014,
         "current": false,
-        "start": "2012-06-01",
-        "end": "2012-07-06"
+        "start": "2014-06-06",
+        "end": "2014-07-19"
+      },
+      {
+        "season": 2015,
+        "current": false,
+        "start": "2015-07-30",
+        "end": "2015-09-13"
+      },
+      {
+        "season": 2016,
+        "current": false,
+        "start": "2016-06-03",
+        "end": "2016-07-03"
       }
     ]
   },
@@ -5730,12 +5730,6 @@
     },
     "seasons": [
       {
-        "season": 2025,
-        "current": true,
-        "start": "2025-10-20",
-        "end": "2026-03-24"
-      },
-      {
         "season": 2024,
         "current": false,
         "start": "2024-09-26",
@@ -5746,6 +5740,12 @@
         "current": false,
         "start": "2023-09-30",
         "end": "2024-04-16"
+      },
+      {
+        "season": 2025,
+        "current": true,
+        "start": "2025-10-20",
+        "end": "2026-03-24"
       },
       {
         "season": 2020,
@@ -5912,10 +5912,10 @@
         "end": "2014-04-06"
       },
       {
-        "season": 2025,
-        "current": true,
-        "start": "2025-09-26",
-        "end": "2026-03-07"
+        "season": 2023,
+        "current": false,
+        "start": "2023-09-30",
+        "end": "2024-04-14"
       },
       {
         "season": 2024,
@@ -5924,10 +5924,10 @@
         "end": "2025-04-26"
       },
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-09-30",
-        "end": "2024-04-14"
+        "season": 2025,
+        "current": true,
+        "start": "2025-09-26",
+        "end": "2026-03-07"
       }
     ]
   },
@@ -5944,6 +5944,18 @@
     },
     "seasons": [
       {
+        "season": 2022,
+        "current": false,
+        "start": "2022-12-06",
+        "end": "2023-04-02"
+      },
+      {
+        "season": 2025,
+        "current": true,
+        "start": "2025-11-04",
+        "end": "2026-02-24"
+      },
+      {
         "season": 2024,
         "current": false,
         "start": "2024-11-26",
@@ -5954,18 +5966,6 @@
         "current": false,
         "start": "2023-11-21",
         "end": "2024-03-31"
-      },
-      {
-        "season": 2022,
-        "current": false,
-        "start": "2022-12-06",
-        "end": "2023-04-02"
-      },
-      {
-        "season": 2025,
-        "current": true,
-        "start": "2025-11-04",
-        "end": "2025-12-16"
       },
       {
         "season": 2018,
@@ -6096,16 +6096,16 @@
         "end": "2025-03-29"
       },
       {
-        "season": 2024,
-        "current": false,
-        "start": "2024-01-23",
-        "end": "2024-03-30"
-      },
-      {
         "season": 2022,
         "current": false,
         "start": "2023-01-24",
         "end": "2023-04-01"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-01-23",
+        "end": "2024-03-30"
       }
     ]
   },
@@ -6122,16 +6122,16 @@
     },
     "seasons": [
       {
-        "season": 2024,
-        "current": false,
-        "start": "2024-09-27",
-        "end": "2025-05-17"
-      },
-      {
         "season": 2025,
         "current": true,
         "start": "2025-10-21",
         "end": "2026-03-21"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-09-27",
+        "end": "2025-05-17"
       },
       {
         "season": 2023,
@@ -6250,10 +6250,10 @@
         "end": "2016-05-07"
       },
       {
-        "season": 2023,
+        "season": 2024,
         "current": false,
-        "start": "2023-10-07",
-        "end": "2024-04-26"
+        "start": "2024-09-28",
+        "end": "2025-05-03"
       },
       {
         "season": 2025,
@@ -6268,10 +6268,10 @@
         "end": "2023-05-14"
       },
       {
-        "season": 2024,
+        "season": 2023,
         "current": false,
-        "start": "2024-09-28",
-        "end": "2025-05-03"
+        "start": "2023-10-07",
+        "end": "2024-04-26"
       }
     ]
   },
@@ -6294,6 +6294,12 @@
         "end": "2023-05-06"
       },
       {
+        "season": 2025,
+        "current": true,
+        "start": "2025-10-20",
+        "end": "2026-05-15"
+      },
+      {
         "season": 2023,
         "current": false,
         "start": "2023-10-21",
@@ -6304,12 +6310,6 @@
         "current": false,
         "start": "2024-10-12",
         "end": "2025-05-16"
-      },
-      {
-        "season": 2025,
-        "current": true,
-        "start": "2025-10-20",
-        "end": "2026-05-15"
       },
       {
         "season": 2014,
@@ -6422,10 +6422,10 @@
         "end": "2014-10-14"
       },
       {
-        "season": 2024,
+        "season": 2023,
         "current": false,
-        "start": "2024-09-21",
-        "end": "2024-09-21"
+        "start": "2023-10-13",
+        "end": "2023-10-13"
       },
       {
         "season": 2025,
@@ -6440,10 +6440,10 @@
         "end": "2022-09-24"
       },
       {
-        "season": 2023,
+        "season": 2024,
         "current": false,
-        "start": "2023-10-13",
-        "end": "2023-10-13"
+        "start": "2024-09-21",
+        "end": "2024-09-21"
       }
     ]
   },
@@ -6460,18 +6460,6 @@
     },
     "seasons": [
       {
-        "season": 2024,
-        "current": false,
-        "start": "2024-09-21",
-        "end": "2024-09-21"
-      },
-      {
-        "season": 2025,
-        "current": false,
-        "start": "2025-10-07",
-        "end": "2025-10-07"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-10-13",
@@ -6482,6 +6470,18 @@
         "current": false,
         "start": "2022-10-18",
         "end": "2022-10-18"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-09-21",
+        "end": "2024-09-21"
+      },
+      {
+        "season": 2025,
+        "current": false,
+        "start": "2025-10-07",
+        "end": "2025-10-07"
       },
       {
         "season": 2017,
@@ -6552,12 +6552,6 @@
         "end": "2022-04-30"
       },
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-10-27",
-        "end": "2024-04-28"
-      },
-      {
         "season": 2024,
         "current": false,
         "start": "2024-09-20",
@@ -6568,6 +6562,12 @@
         "current": true,
         "start": "2025-10-21",
         "end": "2026-03-21"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-10-27",
+        "end": "2024-04-28"
       }
     ]
   },
@@ -6798,16 +6798,16 @@
         "end": "2025-04-26"
       },
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-09-16",
-        "end": "2024-04-27"
-      },
-      {
         "season": 2025,
         "current": true,
         "start": "2025-09-20",
         "end": "2026-04-25"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-09-16",
+        "end": "2024-04-27"
       },
       {
         "season": 2022,
@@ -6974,16 +6974,16 @@
         "end": "2025-04-26"
       },
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-09-16",
-        "end": "2024-04-27"
-      },
-      {
         "season": 2025,
         "current": true,
         "start": "2025-09-13",
         "end": "2026-03-21"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-09-16",
+        "end": "2024-04-27"
       }
     ]
   },
@@ -7164,16 +7164,16 @@
         "end": "2016-02-28"
       },
       {
+        "season": 2022,
+        "current": false,
+        "start": "2022-11-05",
+        "end": "2023-02-26"
+      },
+      {
         "season": 2024,
         "current": false,
         "start": "2024-11-06",
         "end": "2025-03-02"
-      },
-      {
-        "season": 2025,
-        "current": true,
-        "start": "2025-11-08",
-        "end": "2025-12-17"
       },
       {
         "season": 2023,
@@ -7182,10 +7182,10 @@
         "end": "2024-03-03"
       },
       {
-        "season": 2022,
-        "current": false,
-        "start": "2022-11-05",
-        "end": "2023-02-26"
+        "season": 2025,
+        "current": true,
+        "start": "2025-11-08",
+        "end": "2026-02-28"
       }
     ]
   },
@@ -7202,10 +7202,10 @@
     },
     "seasons": [
       {
-        "season": 2024,
+        "season": 2023,
         "current": false,
-        "start": "2024-11-09",
-        "end": "2025-03-02"
+        "start": "2023-11-04",
+        "end": "2024-03-03"
       },
       {
         "season": 2025,
@@ -7214,16 +7214,16 @@
         "end": "2026-02-28"
       },
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-11-04",
-        "end": "2024-03-03"
-      },
-      {
         "season": 2022,
         "current": false,
         "start": "2022-11-11",
         "end": "2023-02-26"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-11-09",
+        "end": "2025-03-02"
       },
       {
         "season": 2010,
@@ -7336,16 +7336,16 @@
         "end": "2020-10-11"
       },
       {
-        "season": 2025,
-        "current": false,
-        "start": "2025-10-10",
-        "end": "2025-10-12"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-10-20",
         "end": "2023-10-22"
+      },
+      {
+        "season": 2025,
+        "current": false,
+        "start": "2025-10-10",
+        "end": "2025-10-12"
       },
       {
         "season": 2022,
@@ -7380,10 +7380,10 @@
         "end": "2024-09-22"
       },
       {
-        "season": 2022,
+        "season": 2025,
         "current": false,
-        "start": "2022-11-01",
-        "end": "2022-11-01"
+        "start": "2025-10-04",
+        "end": "2025-10-04"
       },
       {
         "season": 2023,
@@ -7392,10 +7392,10 @@
         "end": "2023-10-15"
       },
       {
-        "season": 2025,
+        "season": 2022,
         "current": false,
-        "start": "2025-10-04",
-        "end": "2025-10-04"
+        "start": "2022-11-01",
+        "end": "2022-11-01"
       },
       {
         "season": 2018,
@@ -7466,10 +7466,10 @@
         "end": "2021-04-14"
       },
       {
-        "season": 2024,
+        "season": 2023,
         "current": false,
-        "start": "2024-10-26",
-        "end": "2025-05-07"
+        "start": "2023-10-28",
+        "end": "2024-04-22"
       },
       {
         "season": 2025,
@@ -7484,10 +7484,10 @@
         "end": "2023-04-29"
       },
       {
-        "season": 2023,
+        "season": 2024,
         "current": false,
-        "start": "2023-10-28",
-        "end": "2024-04-22"
+        "start": "2024-10-26",
+        "end": "2025-05-07"
       }
     ]
   },
@@ -7504,18 +7504,6 @@
     },
     "seasons": [
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-10-21",
-        "end": "2024-04-27"
-      },
-      {
-        "season": 2022,
-        "current": false,
-        "start": "2022-10-22",
-        "end": "2023-05-06"
-      },
-      {
         "season": 2025,
         "current": true,
         "start": "2025-10-18",
@@ -7526,6 +7514,18 @@
         "current": false,
         "start": "2024-10-19",
         "end": "2025-04-27"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-10-21",
+        "end": "2024-04-27"
+      },
+      {
+        "season": 2022,
+        "current": false,
+        "start": "2022-10-22",
+        "end": "2023-05-06"
       },
       {
         "season": 2020,
@@ -7674,12 +7674,6 @@
         "end": "2012-03-10"
       },
       {
-        "season": 2025,
-        "current": false,
-        "start": "2025-02-18",
-        "end": "2025-03-29"
-      },
-      {
         "season": 2024,
         "current": false,
         "start": "2024-02-13",
@@ -7690,6 +7684,12 @@
         "current": false,
         "start": "2023-01-31",
         "end": "2023-04-01"
+      },
+      {
+        "season": 2025,
+        "current": false,
+        "start": "2025-02-18",
+        "end": "2025-03-29"
       }
     ]
   },
@@ -7706,6 +7706,18 @@
     },
     "seasons": [
       {
+        "season": 2023,
+        "current": false,
+        "start": "2023-10-20",
+        "end": "2024-04-07"
+      },
+      {
+        "season": 2025,
+        "current": false,
+        "start": "2025-10-19",
+        "end": "2025-12-05"
+      },
+      {
         "season": 2022,
         "current": false,
         "start": "2022-10-14",
@@ -7716,18 +7728,6 @@
         "current": false,
         "start": "2024-10-19",
         "end": "2024-12-11"
-      },
-      {
-        "season": 2025,
-        "current": false,
-        "start": "2025-10-19",
-        "end": "2025-12-05"
-      },
-      {
-        "season": 2023,
-        "current": false,
-        "start": "2023-10-20",
-        "end": "2024-04-07"
       },
       {
         "season": 2016,
@@ -7816,16 +7816,16 @@
         "end": "2019-02-16"
       },
       {
-        "season": 2024,
-        "current": false,
-        "start": "2024-10-27",
-        "end": "2025-03-08"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-12-13",
         "end": "2024-03-10"
+      },
+      {
+        "season": 2025,
+        "current": true,
+        "start": "2025-10-16",
+        "end": "2025-12-23"
       },
       {
         "season": 2022,
@@ -7834,10 +7834,10 @@
         "end": "2023-03-11"
       },
       {
-        "season": 2025,
-        "current": true,
-        "start": "2025-10-16",
-        "end": "2025-12-23"
+        "season": 2024,
+        "current": false,
+        "start": "2024-10-27",
+        "end": "2025-03-08"
       }
     ]
   },
@@ -7854,16 +7854,16 @@
     },
     "seasons": [
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-12-09",
-        "end": "2024-03-09"
-      },
-      {
         "season": 2022,
         "current": false,
         "start": "2022-11-29",
         "end": "2023-03-12"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-12-09",
+        "end": "2024-03-09"
       },
       {
         "season": 2024,
@@ -8028,10 +8028,10 @@
         "end": "2021-05-26"
       },
       {
-        "season": 2024,
+        "season": 2023,
         "current": false,
-        "start": "2024-09-20",
-        "end": "2025-04-23"
+        "start": "2023-09-16",
+        "end": "2024-04-30"
       },
       {
         "season": 2022,
@@ -8040,16 +8040,16 @@
         "end": "2023-05-09"
       },
       {
+        "season": 2024,
+        "current": false,
+        "start": "2024-09-20",
+        "end": "2025-04-23"
+      },
+      {
         "season": 2025,
         "current": true,
         "start": "2025-09-20",
         "end": "2026-03-08"
-      },
-      {
-        "season": 2023,
-        "current": false,
-        "start": "2023-09-16",
-        "end": "2024-04-30"
       }
     ]
   },
@@ -8066,28 +8066,28 @@
     },
     "seasons": [
       {
-        "season": 2024,
-        "current": false,
-        "start": "2024-09-20",
-        "end": "2025-04-22"
-      },
-      {
-        "season": 2025,
-        "current": true,
-        "start": "2025-09-20",
-        "end": "2026-03-08"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-09-16",
         "end": "2024-05-04"
       },
       {
+        "season": 2024,
+        "current": false,
+        "start": "2024-09-20",
+        "end": "2025-04-22"
+      },
+      {
         "season": 2022,
         "current": false,
         "start": "2022-09-30",
         "end": "2023-05-12"
+      },
+      {
+        "season": 2025,
+        "current": true,
+        "start": "2025-09-20",
+        "end": "2026-03-08"
       },
       {
         "season": 2021,
@@ -8164,10 +8164,10 @@
         "end": "2014-03-13"
       },
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-10-22",
-        "end": "2024-04-06"
+        "season": 2025,
+        "current": true,
+        "start": "2025-11-19",
+        "end": "2026-01-14"
       },
       {
         "season": 2022,
@@ -8176,10 +8176,10 @@
         "end": "2023-03-07"
       },
       {
-        "season": 2025,
-        "current": true,
-        "start": "2025-11-19",
-        "end": "2026-01-14"
+        "season": 2023,
+        "current": false,
+        "start": "2023-10-22",
+        "end": "2024-04-06"
       },
       {
         "season": 2024,
@@ -8208,12 +8208,6 @@
         "end": "2024-04-21"
       },
       {
-        "season": 2022,
-        "current": false,
-        "start": "2022-10-25",
-        "end": "2023-04-29"
-      },
-      {
         "season": 2024,
         "current": false,
         "start": "2024-10-22",
@@ -8224,6 +8218,12 @@
         "current": true,
         "start": "2025-10-21",
         "end": "2026-03-10"
+      },
+      {
+        "season": 2022,
+        "current": false,
+        "start": "2022-10-25",
+        "end": "2023-04-29"
       },
       {
         "season": 2021,
@@ -8354,6 +8354,12 @@
         "end": "2016-02-07"
       },
       {
+        "season": 2025,
+        "current": false,
+        "start": "2025-12-29",
+        "end": "2025-12-30"
+      },
+      {
         "season": 2022,
         "current": false,
         "start": "2022-12-28",
@@ -8386,10 +8392,10 @@
     },
     "seasons": [
       {
-        "season": 2024,
+        "season": 2025,
         "current": false,
-        "start": "2024-01-24",
-        "end": "2024-02-18"
+        "start": "2025-12-30",
+        "end": "2025-12-30"
       },
       {
         "season": 2023,
@@ -8398,10 +8404,10 @@
         "end": "2023-01-29"
       },
       {
-        "season": 2025,
+        "season": 2024,
         "current": false,
-        "start": "2025-12-30",
-        "end": "2025-12-30"
+        "start": "2024-01-24",
+        "end": "2024-02-18"
       },
       {
         "season": 2025,
@@ -8556,6 +8562,12 @@
         "end": "2023-01-29"
       },
       {
+        "season": 2025,
+        "current": true,
+        "start": "2025-12-17",
+        "end": "2026-01-14"
+      },
+      {
         "season": 2023,
         "current": false,
         "start": "2024-01-10",
@@ -8566,12 +8578,6 @@
         "current": false,
         "start": "2024-12-18",
         "end": "2025-02-09"
-      },
-      {
-        "season": 2025,
-        "current": false,
-        "start": "2025-12-17",
-        "end": "2026-01-07"
       }
     ]
   },
@@ -8686,16 +8692,16 @@
         "end": "2026-02-21"
       },
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-10-07",
-        "end": "2024-04-27"
-      },
-      {
         "season": 2024,
         "current": false,
         "start": "2024-10-05",
         "end": "2025-04-22"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-10-07",
+        "end": "2024-04-27"
       }
     ]
   },
@@ -8712,10 +8718,10 @@
     },
     "seasons": [
       {
-        "season": 2023,
+        "season": 2024,
         "current": false,
-        "start": "2023-10-14",
-        "end": "2024-04-25"
+        "start": "2024-10-06",
+        "end": "2025-04-24"
       },
       {
         "season": 2025,
@@ -8724,10 +8730,10 @@
         "end": "2026-03-29"
       },
       {
-        "season": 2024,
+        "season": 2023,
         "current": false,
-        "start": "2024-10-06",
-        "end": "2025-04-24"
+        "start": "2023-10-14",
+        "end": "2024-04-25"
       },
       {
         "season": 2015,
@@ -8888,6 +8894,12 @@
         "end": "2016-05-04"
       },
       {
+        "season": 2023,
+        "current": false,
+        "start": "2023-10-08",
+        "end": "2024-04-25"
+      },
+      {
         "season": 2025,
         "current": true,
         "start": "2025-10-06",
@@ -8898,12 +8910,6 @@
         "current": false,
         "start": "2024-10-05",
         "end": "2025-04-23"
-      },
-      {
-        "season": 2023,
-        "current": false,
-        "start": "2023-10-08",
-        "end": "2024-04-25"
       }
     ]
   },
@@ -8932,16 +8938,16 @@
         "end": "2026-02-28"
       },
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-10-31",
-        "end": "2023-11-01"
-      },
-      {
         "season": 2022,
         "current": false,
         "start": "2022-10-31",
         "end": "2022-11-01"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-10-31",
+        "end": "2023-11-01"
       },
       {
         "season": 2018,
@@ -9078,16 +9084,16 @@
         "end": "2022-11-26"
       },
       {
-        "season": 2025,
-        "current": false,
-        "start": "2025-10-18",
-        "end": "2025-10-18"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-10-28",
         "end": "2023-10-28"
+      },
+      {
+        "season": 2025,
+        "current": false,
+        "start": "2025-10-18",
+        "end": "2025-10-18"
       }
     ]
   },
@@ -9104,12 +9110,6 @@
     },
     "seasons": [
       {
-        "season": 2024,
-        "current": false,
-        "start": "2024-09-28",
-        "end": "2025-05-10"
-      },
-      {
         "season": 2025,
         "current": true,
         "start": "2025-10-20",
@@ -9120,6 +9120,12 @@
         "current": false,
         "start": "2023-10-22",
         "end": "2024-04-28"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-09-28",
+        "end": "2025-05-10"
       },
       {
         "season": 2022,
@@ -9154,16 +9160,16 @@
     },
     "seasons": [
       {
-        "season": 2024,
-        "current": false,
-        "start": "2024-10-11",
-        "end": "2025-05-05"
-      },
-      {
         "season": 2025,
         "current": true,
         "start": "2025-10-24",
         "end": "2026-04-19"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-10-11",
+        "end": "2025-05-05"
       }
     ]
   },
@@ -9180,16 +9186,16 @@
     },
     "seasons": [
       {
-        "season": 2024,
-        "current": false,
-        "start": "2024-10-12",
-        "end": "2025-05-03"
-      },
-      {
         "season": 2025,
         "current": true,
         "start": "2025-10-10",
         "end": "2026-04-05"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-10-12",
+        "end": "2025-05-03"
       }
     ]
   },
@@ -9276,10 +9282,10 @@
         "end": "2025-11-30"
       },
       {
-        "season": 2023,
+        "season": 2024,
         "current": false,
-        "start": "2023-11-10",
-        "end": "2024-03-31"
+        "start": "2024-11-20",
+        "end": "2025-04-03"
       },
       {
         "season": 2022,
@@ -9288,10 +9294,10 @@
         "end": "2023-04-06"
       },
       {
-        "season": 2024,
+        "season": 2023,
         "current": false,
-        "start": "2024-11-20",
-        "end": "2025-04-03"
+        "start": "2023-11-10",
+        "end": "2024-03-31"
       },
       {
         "season": 2020,
@@ -9332,10 +9338,10 @@
         "end": "2022-03-18"
       },
       {
-        "season": 2022,
+        "season": 2023,
         "current": false,
-        "start": "2022-11-16",
-        "end": "2023-03-25"
+        "start": "2023-11-21",
+        "end": "2024-03-20"
       },
       {
         "season": 2025,
@@ -9344,10 +9350,10 @@
         "end": "2025-11-23"
       },
       {
-        "season": 2023,
+        "season": 2022,
         "current": false,
-        "start": "2023-11-21",
-        "end": "2024-03-20"
+        "start": "2022-11-16",
+        "end": "2023-03-25"
       },
       {
         "season": 2024,
@@ -9370,6 +9376,12 @@
     },
     "seasons": [
       {
+        "season": 2022,
+        "current": false,
+        "start": "2022-10-08",
+        "end": "2023-04-19"
+      },
+      {
         "season": 2025,
         "current": true,
         "start": "2025-10-11",
@@ -9386,12 +9398,6 @@
         "current": false,
         "start": "2023-10-07",
         "end": "2024-03-23"
-      },
-      {
-        "season": 2022,
-        "current": false,
-        "start": "2022-10-08",
-        "end": "2023-04-19"
       },
       {
         "season": 2020,
@@ -9498,16 +9504,16 @@
         "end": "2025-12-20"
       },
       {
-        "season": 2022,
-        "current": false,
-        "start": "2022-10-16",
-        "end": "2023-04-01"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-10-18",
         "end": "2024-04-14"
+      },
+      {
+        "season": 2022,
+        "current": false,
+        "start": "2022-10-16",
+        "end": "2023-04-01"
       },
       {
         "season": 2024,
@@ -9531,15 +9537,15 @@
     "seasons": [
       {
         "season": 2025,
-        "current": false,
-        "start": "2025-02-08",
-        "end": "2025-06-09"
-      },
-      {
-        "season": 2025,
         "current": true,
         "start": "2025-11-28",
         "end": "2026-01-14"
+      },
+      {
+        "season": 2025,
+        "current": false,
+        "start": "2025-02-08",
+        "end": "2025-06-09"
       },
       {
         "season": 2024,
@@ -9696,16 +9702,16 @@
         "end": "2023-04-30"
       },
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-10-20",
-        "end": "2024-04-26"
-      },
-      {
         "season": 2025,
         "current": true,
         "start": "2025-10-24",
         "end": "2026-02-08"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-10-20",
+        "end": "2024-04-26"
       },
       {
         "season": 2024,
@@ -9734,16 +9740,16 @@
         "end": "2026-01-18"
       },
       {
-        "season": 2024,
-        "current": false,
-        "start": "2024-10-05",
-        "end": "2025-05-02"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-10-07",
         "end": "2024-05-04"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-10-05",
+        "end": "2025-05-02"
       },
       {
         "season": 2010,
@@ -9898,12 +9904,6 @@
         "end": "2022-04-30"
       },
       {
-        "season": 2025,
-        "current": true,
-        "start": "2025-10-03",
-        "end": "2026-03-22"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-09-29",
@@ -9914,6 +9914,12 @@
         "current": false,
         "start": "2024-09-27",
         "end": "2025-03-29"
+      },
+      {
+        "season": 2025,
+        "current": true,
+        "start": "2025-10-03",
+        "end": "2026-03-22"
       }
     ]
   },
@@ -9930,10 +9936,10 @@
     },
     "seasons": [
       {
-        "season": 2025,
-        "current": true,
-        "start": "2025-10-03",
-        "end": "2026-03-22"
+        "season": 2023,
+        "current": false,
+        "start": "2023-09-29",
+        "end": "2024-04-20"
       },
       {
         "season": 2024,
@@ -9942,10 +9948,10 @@
         "end": "2025-03-30"
       },
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-09-29",
-        "end": "2024-04-20"
+        "season": 2025,
+        "current": true,
+        "start": "2025-10-03",
+        "end": "2026-03-22"
       },
       {
         "season": 2013,
@@ -10072,28 +10078,28 @@
         "end": "2019-11-29"
       },
       {
-        "season": 2022,
-        "current": false,
-        "start": "2022-10-19",
-        "end": "2022-12-03"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-10-18",
         "end": "2023-12-02"
       },
       {
-        "season": 2024,
+        "season": 2022,
         "current": false,
-        "start": "2024-10-25",
-        "end": "2024-12-14"
+        "start": "2022-10-19",
+        "end": "2022-12-03"
       },
       {
         "season": 2025,
         "current": false,
         "start": "2025-10-24",
         "end": "2025-12-14"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-10-25",
+        "end": "2024-12-14"
       }
     ]
   },
@@ -10110,18 +10116,6 @@
     },
     "seasons": [
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-11-17",
-        "end": "2024-04-28"
-      },
-      {
-        "season": 2024,
-        "current": false,
-        "start": "2024-12-07",
-        "end": "2025-05-25"
-      },
-      {
         "season": 2025,
         "current": true,
         "start": "2025-10-25",
@@ -10132,6 +10126,18 @@
         "current": false,
         "start": "2023-01-17",
         "end": "2023-04-27"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-12-07",
+        "end": "2025-05-25"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-11-17",
+        "end": "2024-04-28"
       },
       {
         "season": 2021,
@@ -10190,16 +10196,16 @@
         "end": "2024-05-08"
       },
       {
-        "season": 2024,
-        "current": false,
-        "start": "2024-09-12",
-        "end": "2025-05-08"
-      },
-      {
         "season": 2025,
         "current": true,
         "start": "2025-09-11",
         "end": "2026-04-01"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-09-12",
+        "end": "2025-05-08"
       }
     ]
   },
@@ -10216,6 +10222,12 @@
     },
     "seasons": [
       {
+        "season": 2025,
+        "current": true,
+        "start": "2025-09-27",
+        "end": "2026-03-07"
+      },
+      {
         "season": 2024,
         "current": false,
         "start": "2024-09-28",
@@ -10226,12 +10238,6 @@
         "current": false,
         "start": "2023-09-29",
         "end": "2024-04-28"
-      },
-      {
-        "season": 2025,
-        "current": true,
-        "start": "2025-09-27",
-        "end": "2026-03-07"
       },
       {
         "season": 2021,
@@ -10344,6 +10350,12 @@
         "end": "2013-04-20"
       },
       {
+        "season": 2025,
+        "current": true,
+        "start": "2025-10-20",
+        "end": "2026-03-21"
+      },
+      {
         "season": 2023,
         "current": false,
         "start": "2023-10-20",
@@ -10354,12 +10366,6 @@
         "current": false,
         "start": "2024-09-13",
         "end": "2025-05-10"
-      },
-      {
-        "season": 2025,
-        "current": true,
-        "start": "2025-10-20",
-        "end": "2026-03-21"
       }
     ]
   },
@@ -10540,10 +10546,16 @@
         "end": "2019-03-10"
       },
       {
-        "season": 2023,
+        "season": 2022,
         "current": false,
-        "start": "2023-12-20",
-        "end": "2024-03-17"
+        "start": "2022-11-02",
+        "end": "2023-04-02"
+      },
+      {
+        "season": 2025,
+        "current": true,
+        "start": "2025-12-17",
+        "end": "2026-01-14"
       },
       {
         "season": 2024,
@@ -10552,16 +10564,10 @@
         "end": "2025-02-16"
       },
       {
-        "season": 2022,
+        "season": 2023,
         "current": false,
-        "start": "2022-11-02",
-        "end": "2023-04-02"
-      },
-      {
-        "season": 2025,
-        "current": false,
-        "start": "2025-12-17",
-        "end": "2026-01-14"
+        "start": "2023-12-20",
+        "end": "2024-03-17"
       }
     ]
   },
@@ -10578,28 +10584,28 @@
     },
     "seasons": [
       {
-        "season": 2025,
-        "current": false,
-        "start": "2025-11-05",
-        "end": "2025-11-05"
-      },
-      {
         "season": 2022,
         "current": false,
         "start": "2022-10-26",
         "end": "2022-10-26"
       },
       {
-        "season": 2023,
+        "season": 2025,
         "current": false,
-        "start": "2023-11-03",
-        "end": "2023-11-03"
+        "start": "2025-11-05",
+        "end": "2025-11-05"
       },
       {
         "season": 2024,
         "current": false,
         "start": "2024-09-25",
         "end": "2024-09-25"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-11-03",
+        "end": "2023-11-03"
       },
       {
         "season": 2014,
@@ -10688,10 +10694,10 @@
         "end": "2021-10-20"
       },
       {
-        "season": 2024,
+        "season": 2025,
         "current": false,
-        "start": "2024-09-21",
-        "end": "2024-09-21"
+        "start": "2025-11-05",
+        "end": "2025-11-05"
       },
       {
         "season": 2023,
@@ -10700,16 +10706,16 @@
         "end": "2023-10-25"
       },
       {
+        "season": 2024,
+        "current": false,
+        "start": "2024-09-21",
+        "end": "2024-09-21"
+      },
+      {
         "season": 2022,
         "current": false,
         "start": "2022-11-09",
         "end": "2022-11-09"
-      },
-      {
-        "season": 2025,
-        "current": false,
-        "start": "2025-11-05",
-        "end": "2025-11-05"
       }
     ]
   },
@@ -10986,12 +10992,6 @@
     },
     "seasons": [
       {
-        "season": 2025,
-        "current": false,
-        "start": "2025-10-11",
-        "end": "2025-10-11"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-10-05",
@@ -11002,6 +11002,12 @@
         "current": false,
         "start": "2024-09-29",
         "end": "2024-09-29"
+      },
+      {
+        "season": 2025,
+        "current": false,
+        "start": "2025-10-11",
+        "end": "2025-10-11"
       },
       {
         "season": 2021,
@@ -11132,16 +11138,16 @@
         "end": "2025-03-09"
       },
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-01-22",
-        "end": "2023-03-12"
-      },
-      {
         "season": 2024,
         "current": false,
         "start": "2024-01-21",
         "end": "2024-03-24"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-01-22",
+        "end": "2023-03-12"
       }
     ]
   },
@@ -11158,12 +11164,6 @@
     },
     "seasons": [
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-01-20",
-        "end": "2023-03-11"
-      },
-      {
         "season": 2025,
         "current": false,
         "start": "2025-01-10",
@@ -11174,6 +11174,12 @@
         "current": false,
         "start": "2024-01-19",
         "end": "2024-03-23"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-01-20",
+        "end": "2023-03-11"
       },
       {
         "season": 2020,
@@ -11314,16 +11320,16 @@
         "end": "2015-04-22"
       },
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-01-15",
-        "end": "2023-04-19"
-      },
-      {
         "season": 2025,
         "current": false,
         "start": "2024-11-20",
         "end": "2025-03-19"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-01-15",
+        "end": "2023-04-19"
       },
       {
         "season": 2025,
@@ -11352,12 +11358,6 @@
     },
     "seasons": [
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-10-14",
-        "end": "2024-05-01"
-      },
-      {
         "season": 2025,
         "current": true,
         "start": "2025-10-20",
@@ -11368,6 +11368,12 @@
         "current": false,
         "start": "2022-10-08",
         "end": "2023-05-07"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-10-14",
+        "end": "2024-05-01"
       },
       {
         "season": 2024,
@@ -11534,6 +11540,18 @@
         "end": "2022-04-27"
       },
       {
+        "season": 2024,
+        "current": false,
+        "start": "2024-10-04",
+        "end": "2025-04-16"
+      },
+      {
+        "season": 2022,
+        "current": false,
+        "start": "2022-10-29",
+        "end": "2023-05-03"
+      },
+      {
         "season": 2023,
         "current": false,
         "start": "2023-10-07",
@@ -11544,18 +11562,6 @@
         "current": true,
         "start": "2025-10-18",
         "end": "2026-03-07"
-      },
-      {
-        "season": 2022,
-        "current": false,
-        "start": "2022-10-29",
-        "end": "2023-05-03"
-      },
-      {
-        "season": 2024,
-        "current": false,
-        "start": "2024-10-04",
-        "end": "2025-04-16"
       }
     ]
   },
@@ -11658,16 +11664,16 @@
         "end": "2025-09-07"
       },
       {
-        "season": 2024,
-        "current": false,
-        "start": "2024-08-27",
-        "end": "2024-08-31"
-      },
-      {
         "season": 2022,
         "current": false,
         "start": "2022-09-13",
         "end": "2022-09-18"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-08-27",
+        "end": "2024-08-31"
       },
       {
         "season": 2023,
@@ -11696,28 +11702,28 @@
         "end": "2025-11-09"
       },
       {
-        "season": 2025,
-        "current": false,
-        "start": "2025-04-03",
-        "end": "2025-05-11"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-09-06",
         "end": "2023-12-24"
       },
       {
-        "season": 2022,
-        "current": false,
-        "start": "2022-09-02",
-        "end": "2022-12-25"
-      },
-      {
         "season": 2024,
         "current": false,
         "start": "2024-08-21",
         "end": "2024-12-28"
+      },
+      {
+        "season": 2025,
+        "current": false,
+        "start": "2025-04-03",
+        "end": "2025-05-11"
+      },
+      {
+        "season": 2022,
+        "current": false,
+        "start": "2022-09-02",
+        "end": "2022-12-25"
       },
       {
         "season": 2020,
@@ -11848,24 +11854,6 @@
         "end": "2012-12-23"
       },
       {
-        "season": 2025,
-        "current": false,
-        "start": "2025-03-16",
-        "end": "2025-05-04"
-      },
-      {
-        "season": 2023,
-        "current": false,
-        "start": "2023-09-01",
-        "end": "2023-12-23"
-      },
-      {
-        "season": 2026,
-        "current": true,
-        "start": "2025-09-12",
-        "end": "2025-12-30"
-      },
-      {
         "season": 2022,
         "current": false,
         "start": "2022-09-06",
@@ -11876,6 +11864,24 @@
         "current": false,
         "start": "2024-08-26",
         "end": "2024-12-29"
+      },
+      {
+        "season": 2026,
+        "current": true,
+        "start": "2025-09-12",
+        "end": "2025-12-30"
+      },
+      {
+        "season": 2025,
+        "current": false,
+        "start": "2025-03-16",
+        "end": "2025-05-04"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-09-01",
+        "end": "2023-12-23"
       }
     ]
   },
@@ -11892,12 +11898,6 @@
     },
     "seasons": [
       {
-        "season": 2025,
-        "current": true,
-        "start": "2025-10-18",
-        "end": "2026-03-14"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-10-11",
@@ -11908,6 +11908,12 @@
         "current": false,
         "start": "2024-09-04",
         "end": "2025-04-22"
+      },
+      {
+        "season": 2025,
+        "current": true,
+        "start": "2025-10-18",
+        "end": "2026-03-14"
       },
       {
         "season": 2018,
@@ -12026,16 +12032,16 @@
         "end": "2011-05-15"
       },
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-09-28",
-        "end": "2024-05-17"
-      },
-      {
         "season": 2024,
         "current": false,
         "start": "2024-09-14",
         "end": "2025-04-19"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-09-28",
+        "end": "2024-05-17"
       },
       {
         "season": 2025,
@@ -12108,16 +12114,16 @@
         "end": "2019-05-05"
       },
       {
-        "season": 2024,
-        "current": false,
-        "start": "2024-09-20",
-        "end": "2025-04-20"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-10-06",
         "end": "2024-05-02"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-09-20",
+        "end": "2025-04-20"
       },
       {
         "season": 2025,
@@ -12298,16 +12304,16 @@
         "end": "2011-04-17"
       },
       {
-        "season": 2022,
-        "current": false,
-        "start": "2022-10-14",
-        "end": "2023-04-24"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-10-06",
         "end": "2024-04-24"
+      },
+      {
+        "season": 2022,
+        "current": false,
+        "start": "2022-10-14",
+        "end": "2023-04-24"
       }
     ]
   },
@@ -12323,12 +12329,6 @@
       "flag": "https://media.api-sports.io/flags/rs.svg"
     },
     "seasons": [
-      {
-        "season": 2022,
-        "current": false,
-        "start": "2022-10-07",
-        "end": "2023-02-26"
-      },
       {
         "season": 2025,
         "current": true,
@@ -12346,6 +12346,12 @@
         "current": false,
         "start": "2023-09-30",
         "end": "2024-02-25"
+      },
+      {
+        "season": 2022,
+        "current": false,
+        "start": "2022-10-07",
+        "end": "2023-02-26"
       },
       {
         "season": 2018,
@@ -12482,6 +12488,12 @@
         "end": "2022-03-06"
       },
       {
+        "season": 2024,
+        "current": false,
+        "start": "2024-09-24",
+        "end": "2025-02-23"
+      },
+      {
         "season": 2022,
         "current": false,
         "start": "2022-10-08",
@@ -12498,12 +12510,6 @@
         "current": false,
         "start": "2023-09-28",
         "end": "2024-02-25"
-      },
-      {
-        "season": 2024,
-        "current": false,
-        "start": "2024-09-24",
-        "end": "2025-02-23"
       }
     ]
   },
@@ -12520,18 +12526,6 @@
     },
     "seasons": [
       {
-        "season": 2022,
-        "current": false,
-        "start": "2022-10-11",
-        "end": "2022-10-11"
-      },
-      {
-        "season": 2025,
-        "current": false,
-        "start": "2025-11-02",
-        "end": "2025-11-02"
-      },
-      {
         "season": 2024,
         "current": false,
         "start": "2024-09-28",
@@ -12542,6 +12536,18 @@
         "current": false,
         "start": "2023-10-12",
         "end": "2023-10-12"
+      },
+      {
+        "season": 2022,
+        "current": false,
+        "start": "2022-10-11",
+        "end": "2022-10-11"
+      },
+      {
+        "season": 2025,
+        "current": false,
+        "start": "2025-11-02",
+        "end": "2025-11-02"
       },
       {
         "season": 2021,
@@ -12684,10 +12690,10 @@
         "end": "2021-04-10"
       },
       {
-        "season": 2023,
+        "season": 2024,
         "current": false,
-        "start": "2023-09-23",
-        "end": "2024-04-29"
+        "start": "2024-10-04",
+        "end": "2025-04-24"
       },
       {
         "season": 2025,
@@ -12696,10 +12702,10 @@
         "end": "2026-03-21"
       },
       {
-        "season": 2024,
+        "season": 2023,
         "current": false,
-        "start": "2024-10-04",
-        "end": "2025-04-24"
+        "start": "2023-09-23",
+        "end": "2024-04-29"
       }
     ]
   },
@@ -12716,6 +12722,12 @@
     },
     "seasons": [
       {
+        "season": 2025,
+        "current": true,
+        "start": "2025-10-11",
+        "end": "2026-02-14"
+      },
+      {
         "season": 2023,
         "current": false,
         "start": "2023-09-23",
@@ -12726,12 +12738,6 @@
         "current": false,
         "start": "2024-09-27",
         "end": "2025-05-03"
-      },
-      {
-        "season": 2025,
-        "current": true,
-        "start": "2025-10-11",
-        "end": "2026-02-14"
       },
       {
         "season": 2020,
@@ -12892,6 +12898,12 @@
         "end": "2011-04-27"
       },
       {
+        "season": 2023,
+        "current": false,
+        "start": "2023-10-06",
+        "end": "2024-04-24"
+      },
+      {
         "season": 2024,
         "current": false,
         "start": "2024-10-04",
@@ -12902,12 +12914,6 @@
         "current": true,
         "start": "2025-10-21",
         "end": "2026-01-24"
-      },
-      {
-        "season": 2023,
-        "current": false,
-        "start": "2023-10-06",
-        "end": "2024-04-24"
       }
     ]
   },
@@ -12924,16 +12930,16 @@
     },
     "seasons": [
       {
-        "season": 2024,
-        "current": false,
-        "start": "2024-10-05",
-        "end": "2025-04-30"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-10-07",
         "end": "2024-04-26"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-10-05",
+        "end": "2025-04-30"
       },
       {
         "season": 2025,
@@ -13088,22 +13094,22 @@
         "end": "2021-04-30"
       },
       {
-        "season": 2025,
-        "current": false,
-        "start": "2024-10-24",
-        "end": "2025-01-12"
-      },
-      {
         "season": 2026,
         "current": true,
         "start": "2025-11-27",
-        "end": "2025-12-18"
+        "end": "2025-12-23"
       },
       {
         "season": 2024,
         "current": false,
         "start": "2024-02-06",
         "end": "2024-03-24"
+      },
+      {
+        "season": 2025,
+        "current": false,
+        "start": "2024-10-24",
+        "end": "2025-01-12"
       },
       {
         "season": 2022,
@@ -13132,12 +13138,6 @@
         "end": "2025-01-12"
       },
       {
-        "season": 2025,
-        "current": true,
-        "start": "2025-10-28",
-        "end": "2025-12-23"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2024-02-21",
@@ -13148,6 +13148,12 @@
         "current": false,
         "start": "2022-10-11",
         "end": "2023-03-11"
+      },
+      {
+        "season": 2025,
+        "current": true,
+        "start": "2025-10-28",
+        "end": "2025-12-23"
       },
       {
         "season": 2012,
@@ -13248,16 +13254,16 @@
         "end": "2021-08-21"
       },
       {
-        "season": 2024,
-        "current": false,
-        "start": "2024-09-21",
-        "end": "2024-09-28"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-08-06",
         "end": "2023-08-13"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-09-21",
+        "end": "2024-09-28"
       },
       {
         "season": 2025,
@@ -13286,16 +13292,16 @@
         "end": "2024-10-06"
       },
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-07-29",
-        "end": "2023-08-05"
-      },
-      {
         "season": 2025,
         "current": false,
         "start": "2025-09-21",
         "end": "2025-09-28"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-07-29",
+        "end": "2023-08-05"
       },
       {
         "season": 2018,
@@ -13414,16 +13420,16 @@
         "end": "2010-04-19"
       },
       {
-        "season": 2025,
-        "current": true,
-        "start": "2025-10-20",
-        "end": "2026-03-19"
-      },
-      {
         "season": 2024,
         "current": false,
         "start": "2024-10-19",
         "end": "2025-04-05"
+      },
+      {
+        "season": 2025,
+        "current": true,
+        "start": "2025-10-20",
+        "end": "2026-03-19"
       },
       {
         "season": 2022,
@@ -13452,16 +13458,16 @@
     },
     "seasons": [
       {
-        "season": 2024,
-        "current": false,
-        "start": "2024-10-19",
-        "end": "2025-04-08"
-      },
-      {
         "season": 2025,
         "current": true,
         "start": "2025-10-18",
         "end": "2026-03-18"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-10-19",
+        "end": "2025-04-08"
       },
       {
         "season": 2022,
@@ -13604,10 +13610,10 @@
         "end": "2014-02-16"
       },
       {
-        "season": 2023,
+        "season": 2024,
         "current": false,
-        "start": "2023-02-23",
-        "end": "2023-02-26"
+        "start": "2024-02-15",
+        "end": "2024-02-18"
       },
       {
         "season": 2025,
@@ -13616,10 +13622,10 @@
         "end": "2025-02-23"
       },
       {
-        "season": 2024,
+        "season": 2023,
         "current": false,
-        "start": "2024-02-15",
-        "end": "2024-02-18"
+        "start": "2023-02-23",
+        "end": "2023-02-26"
       }
     ]
   },
@@ -13642,6 +13648,12 @@
         "end": "2024-09-28"
       },
       {
+        "season": 2025,
+        "current": false,
+        "start": "2025-12-29",
+        "end": "2025-12-29"
+      },
+      {
         "season": 2023,
         "current": false,
         "start": "2023-10-01",
@@ -13652,12 +13664,6 @@
         "current": false,
         "start": "2022-09-24",
         "end": "2022-09-24"
-      },
-      {
-        "season": 2025,
-        "current": false,
-        "start": "2025-12-29",
-        "end": "2025-12-29"
       },
       {
         "season": 2018,
@@ -13796,16 +13802,16 @@
     },
     "seasons": [
       {
-        "season": 2024,
-        "current": false,
-        "start": "2024-10-05",
-        "end": "2025-05-02"
-      },
-      {
         "season": 2025,
         "current": true,
         "start": "2025-10-25",
         "end": "2026-03-28"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-10-05",
+        "end": "2025-05-02"
       },
       {
         "season": 2023,
@@ -13978,16 +13984,16 @@
         "end": "2026-03-14"
       },
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-09-30",
-        "end": "2024-04-28"
-      },
-      {
         "season": 2024,
         "current": false,
         "start": "2024-10-05",
         "end": "2025-05-04"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-09-30",
+        "end": "2024-04-28"
       }
     ]
   },
@@ -14010,16 +14016,16 @@
         "end": "2025-04-19"
       },
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-09-23",
-        "end": "2024-04-24"
-      },
-      {
         "season": 2025,
         "current": true,
         "start": "2025-10-04",
         "end": "2026-03-08"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-09-23",
+        "end": "2024-04-24"
       },
       {
         "season": 2009,
@@ -14186,16 +14192,16 @@
         "end": "2025-04-23"
       },
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-09-23",
-        "end": "2024-04-20"
-      },
-      {
         "season": 2025,
         "current": true,
         "start": "2025-10-11",
         "end": "2026-03-08"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-09-23",
+        "end": "2024-04-20"
       }
     ]
   },
@@ -14212,6 +14218,12 @@
     },
     "seasons": [
       {
+        "season": 2023,
+        "current": false,
+        "start": "2023-10-21",
+        "end": "2024-04-27"
+      },
+      {
         "season": 2025,
         "current": true,
         "start": "2025-10-11",
@@ -14222,12 +14234,6 @@
         "current": false,
         "start": "2024-09-28",
         "end": "2025-04-23"
-      },
-      {
-        "season": 2023,
-        "current": false,
-        "start": "2023-10-21",
-        "end": "2024-04-27"
       },
       {
         "season": 2022,
@@ -14382,16 +14388,16 @@
         "end": "2016-04-20"
       },
       {
-        "season": 2024,
-        "current": false,
-        "start": "2024-09-28",
-        "end": "2025-04-24"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-10-07",
         "end": "2024-04-24"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-09-28",
+        "end": "2025-04-24"
       },
       {
         "season": 2025,
@@ -14550,16 +14556,16 @@
     },
     "seasons": [
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-10-08",
-        "end": "2024-03-17"
-      },
-      {
         "season": 2025,
         "current": true,
         "start": "2025-10-04",
         "end": "2026-03-15"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-10-08",
+        "end": "2024-03-17"
       },
       {
         "season": 2024,
@@ -14627,7 +14633,7 @@
         "season": 2025,
         "current": true,
         "start": "2025-10-25",
-        "end": "2025-12-27"
+        "end": "2026-01-18"
       },
       {
         "season": 2023,
@@ -14659,7 +14665,7 @@
         "season": 2025,
         "current": true,
         "start": "2025-10-11",
-        "end": "2025-12-21"
+        "end": "2026-01-18"
       },
       {
         "season": 2023,
@@ -14748,12 +14754,6 @@
         "end": "2013-10-09"
       },
       {
-        "season": 2022,
-        "current": false,
-        "start": "2022-09-28",
-        "end": "2022-09-28"
-      },
-      {
         "season": 2024,
         "current": false,
         "start": "2024-10-01",
@@ -14764,6 +14764,12 @@
         "current": false,
         "start": "2025-10-21",
         "end": "2025-10-21"
+      },
+      {
+        "season": 2022,
+        "current": false,
+        "start": "2022-09-28",
+        "end": "2022-09-28"
       },
       {
         "season": 2023,
@@ -14786,28 +14792,28 @@
     },
     "seasons": [
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-10-11",
-        "end": "2023-10-11"
-      },
-      {
-        "season": 2025,
-        "current": false,
-        "start": "2025-10-08",
-        "end": "2025-10-08"
-      },
-      {
         "season": 2024,
         "current": false,
         "start": "2024-10-16",
         "end": "2024-10-16"
       },
       {
+        "season": 2023,
+        "current": false,
+        "start": "2023-10-11",
+        "end": "2023-10-11"
+      },
+      {
         "season": 2022,
         "current": false,
         "start": "2022-10-29",
         "end": "2022-10-29"
+      },
+      {
+        "season": 2025,
+        "current": false,
+        "start": "2025-10-08",
+        "end": "2025-10-08"
       },
       {
         "season": 2018,
@@ -14926,12 +14932,6 @@
         "end": "2023-04-18"
       },
       {
-        "season": 2025,
-        "current": false,
-        "start": "2025-10-20",
-        "end": "2025-10-22"
-      },
-      {
         "season": 2024,
         "current": false,
         "start": "2024-09-13",
@@ -14942,6 +14942,12 @@
         "current": false,
         "start": "2023-10-12",
         "end": "2024-03-27"
+      },
+      {
+        "season": 2025,
+        "current": false,
+        "start": "2025-10-20",
+        "end": "2025-10-22"
       }
     ]
   },
@@ -14958,10 +14964,10 @@
     },
     "seasons": [
       {
-        "season": 2025,
+        "season": 2023,
         "current": false,
-        "start": "2025-10-07",
-        "end": "2025-10-09"
+        "start": "2023-09-30",
+        "end": "2024-03-24"
       },
       {
         "season": 2024,
@@ -14970,16 +14976,16 @@
         "end": "2025-04-05"
       },
       {
+        "season": 2025,
+        "current": false,
+        "start": "2025-10-07",
+        "end": "2025-10-09"
+      },
+      {
         "season": 2022,
         "current": false,
         "start": "2022-10-21",
         "end": "2023-04-30"
-      },
-      {
-        "season": 2023,
-        "current": false,
-        "start": "2023-09-30",
-        "end": "2024-03-24"
       },
       {
         "season": 2020,
@@ -15104,18 +15110,6 @@
         "end": "2018-05-11"
       },
       {
-        "season": 2025,
-        "current": true,
-        "start": "2025-10-17",
-        "end": "2026-02-14"
-      },
-      {
-        "season": 2023,
-        "current": false,
-        "start": "2023-10-20",
-        "end": "2024-04-21"
-      },
-      {
         "season": 2022,
         "current": false,
         "start": "2022-09-22",
@@ -15126,6 +15120,18 @@
         "current": false,
         "start": "2024-09-27",
         "end": "2025-04-13"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-10-20",
+        "end": "2024-04-21"
+      },
+      {
+        "season": 2025,
+        "current": true,
+        "start": "2025-10-17",
+        "end": "2026-02-14"
       }
     ]
   },
@@ -15141,12 +15147,6 @@
       "flag": "https://media.api-sports.io/flags/ua.svg"
     },
     "seasons": [
-      {
-        "season": 2024,
-        "current": false,
-        "start": "2024-10-12",
-        "end": "2025-04-05"
-      },
       {
         "season": 2022,
         "current": false,
@@ -15164,6 +15164,12 @@
         "current": false,
         "start": "2023-10-27",
         "end": "2024-04-19"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-10-12",
+        "end": "2025-04-05"
       },
       {
         "season": 2018,
@@ -15282,6 +15288,12 @@
         "end": "2021-03-20"
       },
       {
+        "season": 2024,
+        "current": false,
+        "start": "2024-03-15",
+        "end": "2024-03-17"
+      },
+      {
         "season": 2023,
         "current": false,
         "start": "2022-12-20",
@@ -15292,12 +15304,6 @@
         "current": false,
         "start": "2025-01-24",
         "end": "2025-02-09"
-      },
-      {
-        "season": 2024,
-        "current": false,
-        "start": "2024-03-15",
-        "end": "2024-03-17"
       }
     ]
   },
@@ -15314,10 +15320,10 @@
     },
     "seasons": [
       {
-        "season": 2022,
+        "season": 2025,
         "current": false,
-        "start": "2022-12-26",
-        "end": "2022-12-28"
+        "start": "2025-02-15",
+        "end": "2025-02-16"
       },
       {
         "season": 2024,
@@ -15326,10 +15332,10 @@
         "end": "2024-03-13"
       },
       {
-        "season": 2025,
+        "season": 2022,
         "current": false,
-        "start": "2025-02-15",
-        "end": "2025-02-16"
+        "start": "2022-12-26",
+        "end": "2022-12-28"
       },
       {
         "season": 2012,
@@ -15458,10 +15464,10 @@
     },
     "seasons": [
       {
-        "season": 2026,
+        "season": 2024,
         "current": false,
-        "start": "2026-01-09",
-        "end": "2026-05-03"
+        "start": "2024-01-25",
+        "end": "2024-05-18"
       },
       {
         "season": 2025,
@@ -15470,10 +15476,10 @@
         "end": "2025-05-11"
       },
       {
-        "season": 2024,
+        "season": 2026,
         "current": false,
-        "start": "2024-01-25",
-        "end": "2024-05-18"
+        "start": "2026-01-09",
+        "end": "2026-05-03"
       }
     ]
   },
@@ -15640,18 +15646,6 @@
         "end": "2017-10-03"
       },
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-08-03",
-        "end": "2023-10-14"
-      },
-      {
-        "season": 2024,
-        "current": false,
-        "start": "2024-08-16",
-        "end": "2024-09-26"
-      },
-      {
         "season": 2025,
         "current": false,
         "start": "2025-06-12",
@@ -15662,6 +15656,18 @@
         "current": false,
         "start": "2022-09-15",
         "end": "2022-10-07"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-08-16",
+        "end": "2024-09-26"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-08-03",
+        "end": "2023-10-14"
       }
     ]
   },
@@ -15678,16 +15684,10 @@
     },
     "seasons": [
       {
-        "season": 2024,
+        "season": 2025,
         "current": false,
-        "start": "2024-08-29",
-        "end": "2024-09-28"
-      },
-      {
-        "season": 2022,
-        "current": false,
-        "start": "2022-09-10",
-        "end": "2022-10-23"
+        "start": "2025-02-14",
+        "end": "2025-10-04"
       },
       {
         "season": 2023,
@@ -15696,10 +15696,16 @@
         "end": "2023-10-01"
       },
       {
-        "season": 2025,
+        "season": 2022,
         "current": false,
-        "start": "2025-02-14",
-        "end": "2025-10-04"
+        "start": "2022-09-10",
+        "end": "2022-10-23"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-08-29",
+        "end": "2024-09-28"
       },
       {
         "season": 2017,
@@ -15806,6 +15812,18 @@
         "end": "2019-12-08"
       },
       {
+        "season": 2025,
+        "current": false,
+        "start": "2025-12-16",
+        "end": "2025-12-18"
+      },
+      {
+        "season": 2022,
+        "current": false,
+        "start": "2022-12-07",
+        "end": "2022-12-11"
+      },
+      {
         "season": 2023,
         "current": false,
         "start": "2023-12-06",
@@ -15816,18 +15834,6 @@
         "current": false,
         "start": "2024-12-10",
         "end": "2024-12-15"
-      },
-      {
-        "season": 2022,
-        "current": false,
-        "start": "2022-12-07",
-        "end": "2022-12-11"
-      },
-      {
-        "season": 2025,
-        "current": false,
-        "start": "2025-12-16",
-        "end": "2025-12-18"
       }
     ]
   },
@@ -15844,16 +15850,10 @@
     },
     "seasons": [
       {
-        "season": 2024,
+        "season": 2022,
         "current": false,
-        "start": "2024-12-17",
-        "end": "2024-12-22"
-      },
-      {
-        "season": 2025,
-        "current": false,
-        "start": "2025-12-09",
-        "end": "2025-12-14"
+        "start": "2022-12-14",
+        "end": "2022-12-18"
       },
       {
         "season": 2023,
@@ -15862,10 +15862,16 @@
         "end": "2023-12-17"
       },
       {
-        "season": 2022,
+        "season": 2025,
         "current": false,
-        "start": "2022-12-14",
-        "end": "2022-12-18"
+        "start": "2025-12-09",
+        "end": "2025-12-14"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-12-17",
+        "end": "2024-12-22"
       },
       {
         "season": 2017,
@@ -15978,16 +15984,16 @@
         "end": "2022-08-23"
       },
       {
-        "season": 2025,
-        "current": false,
-        "start": "2025-05-28",
-        "end": "2025-11-12"
-      },
-      {
         "season": 2024,
         "current": false,
         "start": "2024-05-12",
         "end": "2024-09-02"
+      },
+      {
+        "season": 2025,
+        "current": false,
+        "start": "2025-05-28",
+        "end": "2025-11-12"
       },
       {
         "season": 2023,
@@ -16010,16 +16016,16 @@
     },
     "seasons": [
       {
-        "season": 2025,
-        "current": false,
-        "start": "2025-05-21",
-        "end": "2025-08-19"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-05-20",
         "end": "2023-08-13"
+      },
+      {
+        "season": 2025,
+        "current": false,
+        "start": "2025-05-21",
+        "end": "2025-08-19"
       },
       {
         "season": 2024,
@@ -16190,16 +16196,16 @@
         "end": "2024-07-14"
       },
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-08-18",
-        "end": "2023-08-20"
-      },
-      {
         "season": 2025,
         "current": false,
         "start": "2025-08-29",
         "end": "2025-08-31"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-08-18",
+        "end": "2023-08-20"
       }
     ]
   },
@@ -16360,10 +16366,10 @@
         "end": "2022-07-24"
       },
       {
-        "season": 2023,
+        "season": 2025,
         "current": false,
-        "start": "2023-06-06",
-        "end": "2023-07-23"
+        "start": "2025-06-11",
+        "end": "2025-08-03"
       },
       {
         "season": 2024,
@@ -16372,10 +16378,10 @@
         "end": "2024-06-30"
       },
       {
-        "season": 2025,
+        "season": 2023,
         "current": false,
-        "start": "2025-06-11",
-        "end": "2025-08-03"
+        "start": "2023-06-06",
+        "end": "2023-07-23"
       }
     ]
   },
@@ -16392,16 +16398,16 @@
     },
     "seasons": [
       {
-        "season": 2024,
-        "current": false,
-        "start": "2024-05-14",
-        "end": "2024-06-23"
-      },
-      {
         "season": 2025,
         "current": false,
         "start": "2025-06-04",
         "end": "2025-07-27"
+      },
+      {
+        "season": 2024,
+        "current": false,
+        "start": "2024-05-14",
+        "end": "2024-06-23"
       },
       {
         "season": 2023,
@@ -16660,16 +16666,16 @@
         "end": "2024-07-21"
       },
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-08-15",
-        "end": "2023-08-21"
-      },
-      {
         "season": 2025,
         "current": false,
         "start": "2025-08-26",
         "end": "2025-09-01"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-08-15",
+        "end": "2023-08-21"
       }
     ]
   },
@@ -16730,10 +16736,10 @@
         "end": "2015-06-29"
       },
       {
-        "season": 2023,
+        "season": 2022,
         "current": false,
-        "start": "2023-06-05",
-        "end": "2023-06-10"
+        "start": "2022-10-03",
+        "end": "2022-10-08"
       },
       {
         "season": 2025,
@@ -16742,10 +16748,10 @@
         "end": "2025-08-10"
       },
       {
-        "season": 2022,
+        "season": 2023,
         "current": false,
-        "start": "2022-10-03",
-        "end": "2022-10-08"
+        "start": "2023-06-05",
+        "end": "2023-06-10"
       }
     ]
   },
@@ -16762,10 +16768,10 @@
     },
     "seasons": [
       {
-        "season": 2023,
+        "season": 2024,
         "current": false,
-        "start": "2023-07-11",
-        "end": "2023-07-16"
+        "start": "2024-09-16",
+        "end": "2024-09-21"
       },
       {
         "season": 2025,
@@ -16774,10 +16780,10 @@
         "end": "2025-08-04"
       },
       {
-        "season": 2024,
+        "season": 2023,
         "current": false,
-        "start": "2024-09-16",
-        "end": "2024-09-21"
+        "start": "2023-07-11",
+        "end": "2023-07-16"
       },
       {
         "season": 2018,
@@ -16836,16 +16842,16 @@
         "end": "2024-09-09"
       },
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-07-18",
-        "end": "2023-07-24"
-      },
-      {
         "season": 2025,
         "current": false,
         "start": "2025-07-27",
         "end": "2025-08-01"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-07-18",
+        "end": "2023-07-24"
       }
     ]
   },
@@ -16862,10 +16868,10 @@
     },
     "seasons": [
       {
-        "season": 2023,
+        "season": 2025,
         "current": false,
-        "start": "2023-08-06",
-        "end": "2023-08-13"
+        "start": "2025-08-03",
+        "end": "2025-08-10"
       },
       {
         "season": 2024,
@@ -16874,10 +16880,10 @@
         "end": "2024-08-26"
       },
       {
-        "season": 2025,
+        "season": 2023,
         "current": false,
-        "start": "2025-08-03",
-        "end": "2025-08-10"
+        "start": "2023-08-06",
+        "end": "2023-08-13"
       },
       {
         "season": 2010,
@@ -17010,16 +17016,16 @@
         "end": "2013-07-16"
       },
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-07-29",
-        "end": "2023-08-07"
-      },
-      {
         "season": 2025,
         "current": false,
         "start": "2025-07-17",
         "end": "2025-07-24"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-07-29",
+        "end": "2023-08-07"
       }
     ]
   },
@@ -17036,16 +17042,16 @@
     },
     "seasons": [
       {
-        "season": 2023,
-        "current": false,
-        "start": "2023-07-30",
-        "end": "2023-08-06"
-      },
-      {
         "season": 2025,
         "current": false,
         "start": "2025-07-16",
         "end": "2025-07-23"
+      },
+      {
+        "season": 2023,
+        "current": false,
+        "start": "2023-07-30",
+        "end": "2023-08-06"
       },
       {
         "season": 2013,
@@ -17204,16 +17210,16 @@
         "end": "2021-09-02"
       },
       {
-        "season": 2025,
-        "current": false,
-        "start": "2025-07-24",
-        "end": "2025-08-03"
-      },
-      {
         "season": 2023,
         "current": false,
         "start": "2023-08-02",
         "end": "2023-08-11"
+      },
+      {
+        "season": 2025,
+        "current": false,
+        "start": "2025-07-24",
+        "end": "2025-08-03"
       }
     ]
   },
