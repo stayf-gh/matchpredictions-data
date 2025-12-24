@@ -5130,6 +5130,44 @@
     "periods": null
   },
   {
+    "id": 466538,
+    "date": "2025-12-23T22:30:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 26,
+      "name": "NBB",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/26.png"
+    },
+    "country": {
+      "id": 8,
+      "name": "Brazil",
+      "code": "BR",
+      "flag": "https://media.api-sports.io/flags/br.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 1439,
+        "name": "Caxias do Sul",
+        "logo": "https://media.api-sports.io/basketball/teams/1439.png"
+      },
+      "away": {
+        "id": 331,
+        "name": "Cearense",
+        "logo": "https://media.api-sports.io/basketball/teams/331.png"
+      }
+    },
+    "scores": {
+      "home": 68,
+      "away": 52
+    },
+    "periods": null
+  },
+  {
     "id": 466539,
     "date": "2025-12-23T22:30:00+00:00",
     "status": {
