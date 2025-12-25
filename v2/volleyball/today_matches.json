@@ -1,72 +1,9 @@
 [
   {
-    "id": 187903,
-    "date": "2025-12-24T10:00:00+00:00",
-    "time": "10:00",
-    "timestamp": 1766570400,
-    "timezone": "UTC",
-    "week": null,
-    "status": {
-      "long": "Not Started",
-      "short": "NS"
-    },
-    "country": {
-      "id": 43,
-      "name": "South-Korea",
-      "code": "KR",
-      "flag": "https://media.api-sports.io/flags/kr.svg"
-    },
-    "league": {
-      "id": 152,
-      "name": "Volleyball League Women",
-      "type": "League",
-      "logo": "https://media.api-sports.io/volley/leagues/152.png",
-      "season": 2025
-    },
-    "teams": {
-      "home": {
-        "id": 1180,
-        "name": "Hungkuk W",
-        "logo": "https://media.api-sports.io/volley/teams/1180.png"
-      },
-      "away": {
-        "id": 1182,
-        "name": "IBK W",
-        "logo": "https://media.api-sports.io/volley/teams/1182.png"
-      }
-    },
-    "scores": {
-      "home": null,
-      "away": null
-    },
-    "periods": {
-      "first": {
-        "home": null,
-        "away": null
-      },
-      "second": {
-        "home": null,
-        "away": null
-      },
-      "third": {
-        "home": null,
-        "away": null
-      },
-      "fourth": {
-        "home": null,
-        "away": null
-      },
-      "fifth": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "id": 188029,
-    "date": "2025-12-24T10:00:00+00:00",
-    "time": "10:00",
-    "timestamp": 1766570400,
+    "id": 188030,
+    "date": "2025-12-25T05:00:00+00:00",
+    "time": "05:00",
+    "timestamp": 1766638800,
     "timezone": "UTC",
     "week": null,
     "status": {
@@ -88,14 +25,14 @@
     },
     "teams": {
       "home": {
-        "id": 1170,
-        "name": "Hyundai Skywalkers",
-        "logo": "https://media.api-sports.io/volley/teams/1170.png"
+        "id": 1172,
+        "name": "KB Stars",
+        "logo": "https://media.api-sports.io/volley/teams/1172.png"
       },
       "away": {
-        "id": 1176,
-        "name": "Woori",
-        "logo": "https://media.api-sports.io/volley/teams/1176.png"
+        "id": 1171,
+        "name": "KAL Jumbos",
+        "logo": "https://media.api-sports.io/volley/teams/1171.png"
       }
     },
     "scores": {
@@ -126,39 +63,39 @@
     }
   },
   {
-    "id": 199048,
-    "date": "2025-12-24T11:00:00+00:00",
-    "time": "11:00",
-    "timestamp": 1766574000,
+    "id": 187904,
+    "date": "2025-12-25T07:00:00+00:00",
+    "time": "07:00",
+    "timestamp": 1766646000,
     "timezone": "UTC",
-    "week": "13",
+    "week": null,
     "status": {
       "long": "Not Started",
       "short": "NS"
     },
     "country": {
-      "id": 49,
-      "name": "Turkey",
-      "code": "TR",
-      "flag": "https://media.api-sports.io/flags/tr.svg"
+      "id": 43,
+      "name": "South-Korea",
+      "code": "KR",
+      "flag": "https://media.api-sports.io/flags/kr.svg"
     },
     "league": {
-      "id": 172,
-      "name": "Efeler Ligi",
+      "id": 152,
+      "name": "Volleyball League Women",
       "type": "League",
-      "logo": "https://media.api-sports.io/volley/leagues/172.png",
+      "logo": "https://media.api-sports.io/volley/leagues/152.png",
       "season": 2025
     },
     "teams": {
       "home": {
-        "id": 1271,
-        "name": "Fenerbahce",
-        "logo": "https://media.api-sports.io/volley/teams/1271.png"
+        "id": 1181,
+        "name": "Hyundai E&C Hillstate W",
+        "logo": "https://media.api-sports.io/volley/teams/1181.png"
       },
       "away": {
-        "id": 3795,
-        "name": "Gebze",
-        "logo": "https://media.api-sports.io/volley/teams/3795.png"
+        "id": 3820,
+        "name": "Daejeon JKJ W",
+        "logo": "https://media.api-sports.io/volley/teams/3820.png"
       }
     },
     "scores": {
@@ -189,10 +126,10 @@
     }
   },
   {
-    "id": 199337,
-    "date": "2025-12-24T11:00:00+00:00",
+    "id": 199279,
+    "date": "2025-12-25T11:00:00+00:00",
     "time": "11:00",
-    "timestamp": 1766574000,
+    "timestamp": 1766660400,
     "timezone": "UTC",
     "week": null,
     "status": {
@@ -206,22 +143,22 @@
       "flag": "https://media.api-sports.io/flags/cn.svg"
     },
     "league": {
-      "id": 31,
-      "name": "CVL Women",
+      "id": 32,
+      "name": "CVL",
       "type": "League",
-      "logo": "https://media.api-sports.io/volley/leagues/31.png",
+      "logo": "https://media.api-sports.io/volley/leagues/32.png",
       "season": 2025
     },
     "teams": {
       "home": {
-        "id": 211,
-        "name": "Jiangsu ECE W",
-        "logo": "https://media.api-sports.io/volley/teams/211.png"
+        "id": 220,
+        "name": "Guangdong",
+        "logo": "https://media.api-sports.io/volley/teams/220.png"
       },
       "away": {
-        "id": 1544,
-        "name": "Tianjin W",
-        "logo": "https://media.api-sports.io/volley/teams/1544.png"
+        "id": 230,
+        "name": "Zhejiang",
+        "logo": "https://media.api-sports.io/volley/teams/230.png"
       }
     },
     "scores": {
@@ -252,73 +189,10 @@
     }
   },
   {
-    "id": 199042,
-    "date": "2025-12-24T12:00:00+00:00",
-    "time": "12:00",
-    "timestamp": 1766577600,
-    "timezone": "UTC",
-    "week": "13",
-    "status": {
-      "long": "Not Started",
-      "short": "NS"
-    },
-    "country": {
-      "id": 49,
-      "name": "Turkey",
-      "code": "TR",
-      "flag": "https://media.api-sports.io/flags/tr.svg"
-    },
-    "league": {
-      "id": 172,
-      "name": "Efeler Ligi",
-      "type": "League",
-      "logo": "https://media.api-sports.io/volley/leagues/172.png",
-      "season": 2025
-    },
-    "teams": {
-      "home": {
-        "id": 1304,
-        "name": "Akkus Bld",
-        "logo": "https://media.api-sports.io/volley/teams/1304.png"
-      },
-      "away": {
-        "id": 1287,
-        "name": "Ziraat Bankasi",
-        "logo": "https://media.api-sports.io/volley/teams/1287.png"
-      }
-    },
-    "scores": {
-      "home": null,
-      "away": null
-    },
-    "periods": {
-      "first": {
-        "home": null,
-        "away": null
-      },
-      "second": {
-        "home": null,
-        "away": null
-      },
-      "third": {
-        "home": null,
-        "away": null
-      },
-      "fourth": {
-        "home": null,
-        "away": null
-      },
-      "fifth": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "id": 199338,
-    "date": "2025-12-24T12:00:00+00:00",
-    "time": "12:00",
-    "timestamp": 1766577600,
+    "id": 199280,
+    "date": "2025-12-25T11:00:00+00:00",
+    "time": "11:00",
+    "timestamp": 1766660400,
     "timezone": "UTC",
     "week": null,
     "status": {
@@ -332,22 +206,22 @@
       "flag": "https://media.api-sports.io/flags/cn.svg"
     },
     "league": {
-      "id": 31,
-      "name": "CVL Women",
+      "id": 32,
+      "name": "CVL",
       "type": "League",
-      "logo": "https://media.api-sports.io/volley/leagues/31.png",
+      "logo": "https://media.api-sports.io/volley/leagues/32.png",
       "season": 2025
     },
     "teams": {
       "home": {
-        "id": 214,
-        "name": "Shanghai W",
-        "logo": "https://media.api-sports.io/volley/teams/214.png"
+        "id": 225,
+        "name": "Liaoning",
+        "logo": "https://media.api-sports.io/volley/teams/225.png"
       },
       "away": {
-        "id": 212,
-        "name": "Liaoning W",
-        "logo": "https://media.api-sports.io/volley/teams/212.png"
+        "id": 218,
+        "name": "Beijing",
+        "logo": "https://media.api-sports.io/volley/teams/218.png"
       }
     },
     "scores": {
@@ -378,451 +252,10 @@
     }
   },
   {
-    "id": 190471,
-    "date": "2025-12-24T12:30:00+00:00",
-    "time": "12:30",
-    "timestamp": 1766579400,
-    "timezone": "UTC",
-    "week": "8",
-    "status": {
-      "long": "Not Started",
-      "short": "NS"
-    },
-    "country": {
-      "id": 23,
-      "name": "Iran",
-      "code": "IR",
-      "flag": "https://media.api-sports.io/flags/ir.svg"
-    },
-    "league": {
-      "id": 86,
-      "name": "Super League",
-      "type": "League",
-      "logo": "https://media.api-sports.io/volley/leagues/86.png",
-      "season": 2025
-    },
-    "teams": {
-      "home": {
-        "id": 673,
-        "name": "Sepahan",
-        "logo": "https://media.api-sports.io/volley/teams/673.png"
-      },
-      "away": {
-        "id": 4116,
-        "name": "Esteghlal Gonbad",
-        "logo": "https://media.api-sports.io/volley/teams/4116.png"
-      }
-    },
-    "scores": {
-      "home": null,
-      "away": null
-    },
-    "periods": {
-      "first": {
-        "home": null,
-        "away": null
-      },
-      "second": {
-        "home": null,
-        "away": null
-      },
-      "third": {
-        "home": null,
-        "away": null
-      },
-      "fourth": {
-        "home": null,
-        "away": null
-      },
-      "fifth": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "id": 190472,
-    "date": "2025-12-24T12:30:00+00:00",
-    "time": "12:30",
-    "timestamp": 1766579400,
-    "timezone": "UTC",
-    "week": "8",
-    "status": {
-      "long": "Not Started",
-      "short": "NS"
-    },
-    "country": {
-      "id": 23,
-      "name": "Iran",
-      "code": "IR",
-      "flag": "https://media.api-sports.io/flags/ir.svg"
-    },
-    "league": {
-      "id": 86,
-      "name": "Super League",
-      "type": "League",
-      "logo": "https://media.api-sports.io/volley/leagues/86.png",
-      "season": 2025
-    },
-    "teams": {
-      "home": {
-        "id": 3812,
-        "name": "Chadormalu",
-        "logo": "https://media.api-sports.io/volley/teams/3812.png"
-      },
-      "away": {
-        "id": 677,
-        "name": "Shahrdari Urmia",
-        "logo": "https://media.api-sports.io/volley/teams/677.png"
-      }
-    },
-    "scores": {
-      "home": null,
-      "away": null
-    },
-    "periods": {
-      "first": {
-        "home": null,
-        "away": null
-      },
-      "second": {
-        "home": null,
-        "away": null
-      },
-      "third": {
-        "home": null,
-        "away": null
-      },
-      "fourth": {
-        "home": null,
-        "away": null
-      },
-      "fifth": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "id": 190473,
-    "date": "2025-12-24T12:30:00+00:00",
-    "time": "12:30",
-    "timestamp": 1766579400,
-    "timezone": "UTC",
-    "week": "8",
-    "status": {
-      "long": "Not Started",
-      "short": "NS"
-    },
-    "country": {
-      "id": 23,
-      "name": "Iran",
-      "code": "IR",
-      "flag": "https://media.api-sports.io/flags/ir.svg"
-    },
-    "league": {
-      "id": 86,
-      "name": "Super League",
-      "type": "League",
-      "logo": "https://media.api-sports.io/volley/leagues/86.png",
-      "season": 2025
-    },
-    "teams": {
-      "home": {
-        "id": 2144,
-        "name": "Rafsanjan",
-        "logo": "https://media.api-sports.io/volley/teams/2144.png"
-      },
-      "away": {
-        "id": 674,
-        "name": "Shahdab Yazd",
-        "logo": "https://media.api-sports.io/volley/teams/674.png"
-      }
-    },
-    "scores": {
-      "home": null,
-      "away": null
-    },
-    "periods": {
-      "first": {
-        "home": null,
-        "away": null
-      },
-      "second": {
-        "home": null,
-        "away": null
-      },
-      "third": {
-        "home": null,
-        "away": null
-      },
-      "fourth": {
-        "home": null,
-        "away": null
-      },
-      "fifth": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "id": 190474,
-    "date": "2025-12-24T12:30:00+00:00",
-    "time": "12:30",
-    "timestamp": 1766579400,
-    "timezone": "UTC",
-    "week": "8",
-    "status": {
-      "long": "Not Started",
-      "short": "NS"
-    },
-    "country": {
-      "id": 23,
-      "name": "Iran",
-      "code": "IR",
-      "flag": "https://media.api-sports.io/flags/ir.svg"
-    },
-    "league": {
-      "id": 86,
-      "name": "Super League",
-      "type": "League",
-      "logo": "https://media.api-sports.io/volley/leagues/86.png",
-      "season": 2025
-    },
-    "teams": {
-      "home": {
-        "id": 3813,
-        "name": "Tabiat Eslamshahr",
-        "logo": "https://media.api-sports.io/volley/teams/3813.png"
-      },
-      "away": {
-        "id": 672,
-        "name": "Saipa Tehran",
-        "logo": "https://media.api-sports.io/volley/teams/672.png"
-      }
-    },
-    "scores": {
-      "home": null,
-      "away": null
-    },
-    "periods": {
-      "first": {
-        "home": null,
-        "away": null
-      },
-      "second": {
-        "home": null,
-        "away": null
-      },
-      "third": {
-        "home": null,
-        "away": null
-      },
-      "fourth": {
-        "home": null,
-        "away": null
-      },
-      "fifth": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "id": 190475,
-    "date": "2025-12-24T12:30:00+00:00",
-    "time": "12:30",
-    "timestamp": 1766579400,
-    "timezone": "UTC",
-    "week": "8",
-    "status": {
-      "long": "Not Started",
-      "short": "NS"
-    },
-    "country": {
-      "id": 23,
-      "name": "Iran",
-      "code": "IR",
-      "flag": "https://media.api-sports.io/flags/ir.svg"
-    },
-    "league": {
-      "id": 86,
-      "name": "Super League",
-      "type": "League",
-      "logo": "https://media.api-sports.io/volley/leagues/86.png",
-      "season": 2025
-    },
-    "teams": {
-      "home": {
-        "id": 4117,
-        "name": "Razin Polymer",
-        "logo": "https://media.api-sports.io/volley/teams/4117.png"
-      },
-      "away": {
-        "id": 3964,
-        "name": "Sanatgaran Omid",
-        "logo": "https://media.api-sports.io/volley/teams/3964.png"
-      }
-    },
-    "scores": {
-      "home": null,
-      "away": null
-    },
-    "periods": {
-      "first": {
-        "home": null,
-        "away": null
-      },
-      "second": {
-        "home": null,
-        "away": null
-      },
-      "third": {
-        "home": null,
-        "away": null
-      },
-      "fourth": {
-        "home": null,
-        "away": null
-      },
-      "fifth": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "id": 190476,
-    "date": "2025-12-24T12:30:00+00:00",
-    "time": "12:30",
-    "timestamp": 1766579400,
-    "timezone": "UTC",
-    "week": "8",
-    "status": {
-      "long": "Not Started",
-      "short": "NS"
-    },
-    "country": {
-      "id": 23,
-      "name": "Iran",
-      "code": "IR",
-      "flag": "https://media.api-sports.io/flags/ir.svg"
-    },
-    "league": {
-      "id": 86,
-      "name": "Super League",
-      "type": "League",
-      "logo": "https://media.api-sports.io/volley/leagues/86.png",
-      "season": 2025
-    },
-    "teams": {
-      "home": {
-        "id": 670,
-        "name": "Paykan",
-        "logo": "https://media.api-sports.io/volley/teams/670.png"
-      },
-      "away": {
-        "id": 678,
-        "name": "Sirjan",
-        "logo": "https://media.api-sports.io/volley/teams/678.png"
-      }
-    },
-    "scores": {
-      "home": null,
-      "away": null
-    },
-    "periods": {
-      "first": {
-        "home": null,
-        "away": null
-      },
-      "second": {
-        "home": null,
-        "away": null
-      },
-      "third": {
-        "home": null,
-        "away": null
-      },
-      "fourth": {
-        "home": null,
-        "away": null
-      },
-      "fifth": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "id": 190477,
-    "date": "2025-12-24T12:30:00+00:00",
-    "time": "12:30",
-    "timestamp": 1766579400,
-    "timezone": "UTC",
-    "week": "8",
-    "status": {
-      "long": "Not Started",
-      "short": "NS"
-    },
-    "country": {
-      "id": 23,
-      "name": "Iran",
-      "code": "IR",
-      "flag": "https://media.api-sports.io/flags/ir.svg"
-    },
-    "league": {
-      "id": 86,
-      "name": "Super League",
-      "type": "League",
-      "logo": "https://media.api-sports.io/volley/leagues/86.png",
-      "season": 2025
-    },
-    "teams": {
-      "home": {
-        "id": 3963,
-        "name": "Mehregan Noor",
-        "logo": "https://media.api-sports.io/volley/teams/3963.png"
-      },
-      "away": {
-        "id": 2143,
-        "name": "Gorgan",
-        "logo": "https://media.api-sports.io/volley/teams/2143.png"
-      }
-    },
-    "scores": {
-      "home": null,
-      "away": null
-    },
-    "periods": {
-      "first": {
-        "home": null,
-        "away": null
-      },
-      "second": {
-        "home": null,
-        "away": null
-      },
-      "third": {
-        "home": null,
-        "away": null
-      },
-      "fourth": {
-        "home": null,
-        "away": null
-      },
-      "fifth": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "id": 198914,
-    "date": "2025-12-24T15:00:00+00:00",
-    "time": "15:00",
-    "timestamp": 1766588400,
+    "id": 199281,
+    "date": "2025-12-25T12:00:00+00:00",
+    "time": "12:00",
+    "timestamp": 1766664000,
     "timezone": "UTC",
     "week": null,
     "status": {
@@ -830,28 +263,28 @@
       "short": "NS"
     },
     "country": {
-      "id": 37,
-      "name": "Qatar",
-      "code": "QA",
-      "flag": "https://media.api-sports.io/flags/qa.svg"
+      "id": 10,
+      "name": "China",
+      "code": "CN",
+      "flag": "https://media.api-sports.io/flags/cn.svg"
     },
     "league": {
-      "id": 128,
-      "name": "Volleyball League",
+      "id": 32,
+      "name": "CVL",
       "type": "League",
-      "logo": "https://media.api-sports.io/volley/leagues/128.png",
+      "logo": "https://media.api-sports.io/volley/leagues/32.png",
       "season": 2025
     },
     "teams": {
       "home": {
-        "id": 1004,
-        "name": "Al Shamal",
-        "logo": "https://media.api-sports.io/volley/teams/1004.png"
+        "id": 221,
+        "name": "Hebei",
+        "logo": "https://media.api-sports.io/volley/teams/221.png"
       },
       "away": {
-        "id": 1005,
-        "name": "Al-Ahli",
-        "logo": "https://media.api-sports.io/volley/teams/1005.png"
+        "id": 229,
+        "name": "Tianjin",
+        "logo": "https://media.api-sports.io/volley/teams/229.png"
       }
     },
     "scores": {
@@ -882,39 +315,39 @@
     }
   },
   {
-    "id": 186184,
-    "date": "2025-12-24T16:00:00+00:00",
-    "time": "16:00",
-    "timestamp": 1766592000,
+    "id": 199282,
+    "date": "2025-12-25T12:00:00+00:00",
+    "time": "12:00",
+    "timestamp": 1766664000,
     "timezone": "UTC",
-    "week": "15",
+    "week": null,
     "status": {
       "long": "Not Started",
       "short": "NS"
     },
     "country": {
-      "id": 39,
-      "name": "Russia",
-      "code": "RU",
-      "flag": "https://media.api-sports.io/flags/ru.svg"
+      "id": 10,
+      "name": "China",
+      "code": "CN",
+      "flag": "https://media.api-sports.io/flags/cn.svg"
     },
     "league": {
-      "id": 133,
-      "name": "Superleague Women",
+      "id": 32,
+      "name": "CVL",
       "type": "League",
-      "logo": "https://media.api-sports.io/volley/leagues/133.png",
+      "logo": "https://media.api-sports.io/volley/leagues/32.png",
       "season": 2025
     },
     "teams": {
       "home": {
-        "id": 3917,
-        "name": "St. Petersburg W",
-        "logo": "https://media.api-sports.io/volley/teams/3917.png"
+        "id": 4244,
+        "name": "Qingdao",
+        "logo": "https://media.api-sports.io/volley/teams/4244.png"
       },
       "away": {
-        "id": 1048,
-        "name": "Dynamo Kazan W",
-        "logo": "https://media.api-sports.io/volley/teams/1048.png"
+        "id": 227,
+        "name": "Shanghai",
+        "logo": "https://media.api-sports.io/volley/teams/227.png"
       }
     },
     "scores": {
@@ -945,10 +378,10 @@
     }
   },
   {
-    "id": 199222,
-    "date": "2025-12-24T17:00:00+00:00",
+    "id": 199221,
+    "date": "2025-12-25T17:00:00+00:00",
     "time": "17:00",
-    "timestamp": 1766595600,
+    "timestamp": 1766682000,
     "timezone": "UTC",
     "week": "Semi-finals",
     "status": {
@@ -970,14 +403,14 @@
     },
     "teams": {
       "home": {
-        "id": 1113,
-        "name": "Ub W",
-        "logo": "https://media.api-sports.io/volley/teams/1113.png"
+        "id": 1112,
+        "name": "Tent W",
+        "logo": "https://media.api-sports.io/volley/teams/1112.png"
       },
       "away": {
-        "id": 1114,
-        "name": "Zeleznicar W",
-        "logo": "https://media.api-sports.io/volley/teams/1114.png"
+        "id": 1105,
+        "name": "Crvena zvezda W",
+        "logo": "https://media.api-sports.io/volley/teams/1105.png"
       }
     },
     "scores": {
