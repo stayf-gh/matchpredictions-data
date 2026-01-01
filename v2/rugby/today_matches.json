@@ -1,1 +1,179 @@
-[]
+[
+  {
+    "id": 49608,
+    "date": "2026-01-01T15:00:00+00:00",
+    "time": "15:00",
+    "timestamp": 1767279600,
+    "timezone": "UTC",
+    "week": "9",
+    "status": {
+      "long": "Not Started",
+      "short": "NS"
+    },
+    "country": {
+      "id": 26,
+      "name": "World",
+      "code": null,
+      "flag": null
+    },
+    "league": {
+      "id": 76,
+      "name": "United Rugby Championship",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/rugby/leagues/76.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 396,
+        "name": "Dragons",
+        "logo": "https://media.api-sports.io/rugby/teams/396.png"
+      },
+      "away": {
+        "id": 397,
+        "name": "Scarlets",
+        "logo": "https://media.api-sports.io/rugby/teams/397.png"
+      }
+    },
+    "scores": {
+      "home": null,
+      "away": null
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 50593,
+    "date": "2026-01-01T15:00:00+00:00",
+    "time": "15:00",
+    "timestamp": 1767279600,
+    "timezone": "UTC",
+    "week": "13",
+    "status": {
+      "long": "Not Started",
+      "short": "NS"
+    },
+    "country": {
+      "id": 6,
+      "name": "England",
+      "code": "GB",
+      "flag": "https://media.api-sports.io/flags/gb.svg"
+    },
+    "league": {
+      "id": 12,
+      "name": "Greene King IPA Championship",
+      "type": "League",
+      "logo": "https://media.api-sports.io/rugby/leagues/12.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 75,
+        "name": "Coventry R.F.C",
+        "logo": "https://media.api-sports.io/rugby/teams/75.png"
+      },
+      "away": {
+        "id": 74,
+        "name": "Cornish Pirates",
+        "logo": "https://media.api-sports.io/rugby/teams/74.png"
+      }
+    },
+    "scores": {
+      "home": null,
+      "away": null
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 49609,
+    "date": "2026-01-01T17:30:00+00:00",
+    "time": "17:30",
+    "timestamp": 1767288600,
+    "timezone": "UTC",
+    "week": "9",
+    "status": {
+      "long": "Not Started",
+      "short": "NS"
+    },
+    "country": {
+      "id": 26,
+      "name": "World",
+      "code": null,
+      "flag": null
+    },
+    "league": {
+      "id": 76,
+      "name": "United Rugby Championship",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/rugby/leagues/76.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 394,
+        "name": "Ospreys",
+        "logo": "https://media.api-sports.io/rugby/teams/394.png"
+      },
+      "away": {
+        "id": 611,
+        "name": "Cardiff Rugby",
+        "logo": "https://media.api-sports.io/rugby/teams/611.png"
+      }
+    },
+    "scores": {
+      "home": null,
+      "away": null
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  }
+]
