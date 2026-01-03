@@ -6878,6 +6878,44 @@
     "periods": null
   },
   {
+    "id": 470694,
+    "date": "2026-01-03T16:15:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 45,
+      "name": "Basket League",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/45.png"
+    },
+    "country": {
+      "id": 18,
+      "name": "Greece",
+      "code": "GR",
+      "flag": "https://media.api-sports.io/flags/gr.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 617,
+        "name": "Promitheas",
+        "logo": "https://media.api-sports.io/basketball/teams/617.png"
+      },
+      "away": {
+        "id": 605,
+        "name": "AEK Athens",
+        "logo": "https://media.api-sports.io/basketball/teams/605.png"
+      }
+    },
+    "scores": {
+      "home": 86,
+      "away": 94
+    },
+    "periods": null
+  },
+  {
     "id": 453595,
     "date": "2026-01-03T16:30:00+00:00",
     "status": {
@@ -6954,6 +6992,44 @@
     "periods": null
   },
   {
+    "id": 455910,
+    "date": "2026-01-03T16:30:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 72,
+      "name": "Energa Basket Liga",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/72.png"
+    },
+    "country": {
+      "id": 34,
+      "name": "Poland",
+      "code": "PL",
+      "flag": "https://media.api-sports.io/flags/pl.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 904,
+        "name": "Anwil Wloclawek",
+        "logo": "https://media.api-sports.io/basketball/teams/904.png"
+      },
+      "away": {
+        "id": 2272,
+        "name": "Dziki Warszawa",
+        "logo": "https://media.api-sports.io/basketball/teams/2272.png"
+      }
+    },
+    "scores": {
+      "home": 105,
+      "away": 96
+    },
+    "periods": null
+  },
+  {
     "id": 459178,
     "date": "2026-01-03T16:30:00+00:00",
     "status": {
@@ -6988,6 +7064,44 @@
     "scores": {
       "home": 41,
       "away": 88
+    },
+    "periods": null
+  },
+  {
+    "id": 459179,
+    "date": "2026-01-03T16:30:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 100,
+      "name": "SB League",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/100.png"
+    },
+    "country": {
+      "id": 47,
+      "name": "Switzerland",
+      "code": "CH",
+      "flag": "https://media.api-sports.io/flags/ch.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 1235,
+        "name": "Regio Basel",
+        "logo": "https://media.api-sports.io/basketball/teams/1235.png"
+      },
+      "away": {
+        "id": 1234,
+        "name": "Neuchatel",
+        "logo": "https://media.api-sports.io/basketball/teams/1234.png"
+      }
+    },
+    "scores": {
+      "home": 89,
+      "away": 95
     },
     "periods": null
   },
@@ -7178,6 +7292,766 @@
     "scores": {
       "home": 92,
       "away": 54
+    },
+    "periods": null
+  },
+  {
+    "id": 451513,
+    "date": "2026-01-03T17:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 87,
+      "name": "Extraliga",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/87.png"
+    },
+    "country": {
+      "id": 42,
+      "name": "Slovakia",
+      "code": "SK",
+      "flag": "https://media.api-sports.io/flags/sk.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 6484,
+        "name": "Nitra Blue Wings",
+        "logo": "https://media.api-sports.io/basketball/teams/6484.png"
+      },
+      "away": {
+        "id": 7385,
+        "name": "Kosice Wolves",
+        "logo": "https://media.api-sports.io/basketball/teams/7385.png"
+      }
+    },
+    "scores": {
+      "home": 83,
+      "away": 66
+    },
+    "periods": null
+  },
+  {
+    "id": 451514,
+    "date": "2026-01-03T17:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 87,
+      "name": "Extraliga",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/87.png"
+    },
+    "country": {
+      "id": 42,
+      "name": "Slovakia",
+      "code": "SK",
+      "flag": "https://media.api-sports.io/flags/sk.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 1071,
+        "name": "BKM Lucenec",
+        "logo": "https://media.api-sports.io/basketball/teams/1071.png"
+      },
+      "away": {
+        "id": 1070,
+        "name": "Iskra Svit",
+        "logo": "https://media.api-sports.io/basketball/teams/1070.png"
+      }
+    },
+    "scores": {
+      "home": 79,
+      "away": 97
+    },
+    "periods": null
+  },
+  {
+    "id": 453597,
+    "date": "2026-01-03T17:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 32,
+      "name": "NBL",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/32.png"
+    },
+    "country": {
+      "id": 12,
+      "name": "Czech Republic",
+      "code": "CZ",
+      "flag": "https://media.api-sports.io/flags/cz.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 447,
+        "name": "Olomoucko",
+        "logo": "https://media.api-sports.io/basketball/teams/447.png"
+      },
+      "away": {
+        "id": 442,
+        "name": "Decin",
+        "logo": "https://media.api-sports.io/basketball/teams/442.png"
+      }
+    },
+    "scores": {
+      "home": 91,
+      "away": 84
+    },
+    "periods": null
+  },
+  {
+    "id": 453598,
+    "date": "2026-01-03T17:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 32,
+      "name": "NBL",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/32.png"
+    },
+    "country": {
+      "id": 12,
+      "name": "Czech Republic",
+      "code": "CZ",
+      "flag": "https://media.api-sports.io/flags/cz.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 443,
+        "name": "Hradec Kralove",
+        "logo": "https://media.api-sports.io/basketball/teams/443.png"
+      },
+      "away": {
+        "id": 449,
+        "name": "Pardubice",
+        "logo": "https://media.api-sports.io/basketball/teams/449.png"
+      }
+    },
+    "scores": {
+      "home": 65,
+      "away": 86
+    },
+    "periods": null
+  },
+  {
+    "id": 455766,
+    "date": "2026-01-03T17:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 88,
+      "name": "Extraliga W",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/88.png"
+    },
+    "country": {
+      "id": 42,
+      "name": "Slovakia",
+      "code": "SK",
+      "flag": "https://media.api-sports.io/flags/sk.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 1082,
+        "name": "Samorin W",
+        "logo": "https://media.api-sports.io/basketball/teams/1082.png"
+      },
+      "away": {
+        "id": 1080,
+        "name": "Piestanske Cajky W",
+        "logo": "https://media.api-sports.io/basketball/teams/1080.png"
+      }
+    },
+    "scores": {
+      "home": 32,
+      "away": 97
+    },
+    "periods": null
+  },
+  {
+    "id": 455768,
+    "date": "2026-01-03T17:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 88,
+      "name": "Extraliga W",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/88.png"
+    },
+    "country": {
+      "id": 42,
+      "name": "Slovakia",
+      "code": "SK",
+      "flag": "https://media.api-sports.io/flags/sk.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 5563,
+        "name": "CBK Kosice W",
+        "logo": "https://media.api-sports.io/basketball/teams/5563.png"
+      },
+      "away": {
+        "id": 4895,
+        "name": "UMB Banska Bystrica W",
+        "logo": "https://media.api-sports.io/basketball/teams/4895.png"
+      }
+    },
+    "scores": {
+      "home": 69,
+      "away": 73
+    },
+    "periods": null
+  },
+  {
+    "id": 460744,
+    "date": "2026-01-03T17:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 46,
+      "name": "NB I A",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/46.png"
+    },
+    "country": {
+      "id": 19,
+      "name": "Hungary",
+      "code": "HU",
+      "flag": "https://media.api-sports.io/flags/hu.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 621,
+        "name": "DEAC",
+        "logo": "https://media.api-sports.io/basketball/teams/621.png"
+      },
+      "away": {
+        "id": 619,
+        "name": "Alba Fehervar",
+        "logo": "https://media.api-sports.io/basketball/teams/619.png"
+      }
+    },
+    "scores": {
+      "home": 88,
+      "away": 75
+    },
+    "periods": null
+  },
+  {
+    "id": 460747,
+    "date": "2026-01-03T17:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 46,
+      "name": "NB I A",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/46.png"
+    },
+    "country": {
+      "id": 19,
+      "name": "Hungary",
+      "code": "HU",
+      "flag": "https://media.api-sports.io/flags/hu.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 630,
+        "name": "Szolnoki Olaj",
+        "logo": "https://media.api-sports.io/basketball/teams/630.png"
+      },
+      "away": {
+        "id": 626,
+        "name": "OSE Lions",
+        "logo": "https://media.api-sports.io/basketball/teams/626.png"
+      }
+    },
+    "scores": {
+      "home": 99,
+      "away": 62
+    },
+    "periods": null
+  },
+  {
+    "id": 460748,
+    "date": "2026-01-03T17:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 46,
+      "name": "NB I A",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/46.png"
+    },
+    "country": {
+      "id": 19,
+      "name": "Hungary",
+      "code": "HU",
+      "flag": "https://media.api-sports.io/flags/hu.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 631,
+        "name": "Szombathely",
+        "logo": "https://media.api-sports.io/basketball/teams/631.png"
+      },
+      "away": {
+        "id": 623,
+        "name": "Kecskemeti TE",
+        "logo": "https://media.api-sports.io/basketball/teams/623.png"
+      }
+    },
+    "scores": {
+      "home": 87,
+      "away": 63
+    },
+    "periods": null
+  },
+  {
+    "id": 460749,
+    "date": "2026-01-03T17:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 46,
+      "name": "NB I A",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/46.png"
+    },
+    "country": {
+      "id": 19,
+      "name": "Hungary",
+      "code": "HU",
+      "flag": "https://media.api-sports.io/flags/hu.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 632,
+        "name": "Zalakeramia",
+        "logo": "https://media.api-sports.io/basketball/teams/632.png"
+      },
+      "away": {
+        "id": 6099,
+        "name": "NKA Pecs",
+        "logo": "https://media.api-sports.io/basketball/teams/6099.png"
+      }
+    },
+    "scores": {
+      "home": 98,
+      "away": 95
+    },
+    "periods": null
+  },
+  {
+    "id": 460906,
+    "date": "2026-01-03T17:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 47,
+      "name": "NB I A W",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/47.png"
+    },
+    "country": {
+      "id": 19,
+      "name": "Hungary",
+      "code": "HU",
+      "flag": "https://media.api-sports.io/flags/hu.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 2323,
+        "name": "Szekszard W",
+        "logo": "https://media.api-sports.io/basketball/teams/2323.png"
+      },
+      "away": {
+        "id": 641,
+        "name": "Cegledi W",
+        "logo": "https://media.api-sports.io/basketball/teams/641.png"
+      }
+    },
+    "scores": {
+      "home": 108,
+      "away": 39
+    },
+    "periods": null
+  },
+  {
+    "id": 460909,
+    "date": "2026-01-03T17:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 47,
+      "name": "NB I A W",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/47.png"
+    },
+    "country": {
+      "id": 19,
+      "name": "Hungary",
+      "code": "HU",
+      "flag": "https://media.api-sports.io/flags/hu.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 6556,
+        "name": "David Kornel KA W",
+        "logo": "https://media.api-sports.io/basketball/teams/6556.png"
+      },
+      "away": {
+        "id": 2469,
+        "name": "Sopron W",
+        "logo": "https://media.api-sports.io/basketball/teams/2469.png"
+      }
+    },
+    "scores": {
+      "home": 69,
+      "away": 97
+    },
+    "periods": null
+  },
+  {
+    "id": 460910,
+    "date": "2026-01-03T17:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 47,
+      "name": "NB I A W",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/47.png"
+    },
+    "country": {
+      "id": 19,
+      "name": "Hungary",
+      "code": "HU",
+      "flag": "https://media.api-sports.io/flags/hu.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 6533,
+        "name": "NKA Pecs W",
+        "logo": "https://media.api-sports.io/basketball/teams/6533.png"
+      },
+      "away": {
+        "id": 3096,
+        "name": "Szigetszentmiklos W",
+        "logo": "https://media.api-sports.io/basketball/teams/3096.png"
+      }
+    },
+    "scores": {
+      "home": 109,
+      "away": 48
+    },
+    "periods": null
+  },
+  {
+    "id": 461645,
+    "date": "2026-01-03T17:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 71,
+      "name": "1 Liga",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/71.png"
+    },
+    "country": {
+      "id": 34,
+      "name": "Poland",
+      "code": "PL",
+      "flag": "https://media.api-sports.io/flags/pl.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 892,
+        "name": "Kotwica Kolobrzeg",
+        "logo": "https://media.api-sports.io/basketball/teams/892.png"
+      },
+      "away": {
+        "id": 1631,
+        "name": "Inowroclaw",
+        "logo": "https://media.api-sports.io/basketball/teams/1631.png"
+      }
+    },
+    "scores": {
+      "home": 77,
+      "away": 68
+    },
+    "periods": null
+  },
+  {
+    "id": 463366,
+    "date": "2026-01-03T17:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 30,
+      "name": "Premijer liga",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/30.png"
+    },
+    "country": {
+      "id": 10,
+      "name": "Croatia",
+      "code": "HR",
+      "flag": "https://media.api-sports.io/flags/hr.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 412,
+        "name": "GKK Sibenka",
+        "logo": "https://media.api-sports.io/basketball/teams/412.png"
+      },
+      "away": {
+        "id": 410,
+        "name": "Cibona",
+        "logo": "https://media.api-sports.io/basketball/teams/410.png"
+      }
+    },
+    "scores": {
+      "home": 65,
+      "away": 79
+    },
+    "periods": null
+  },
+  {
+    "id": 464064,
+    "date": "2026-01-03T17:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 117,
+      "name": "ACB",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/117.png"
+    },
+    "country": {
+      "id": 45,
+      "name": "Spain",
+      "code": "ES",
+      "flag": "https://media.api-sports.io/flags/es.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 2334,
+        "name": "Joventut Badalona",
+        "logo": "https://media.api-sports.io/basketball/teams/2334.png"
+      },
+      "away": {
+        "id": 2339,
+        "name": "Tenerife",
+        "logo": "https://media.api-sports.io/basketball/teams/2339.png"
+      }
+    },
+    "scores": {
+      "home": 78,
+      "away": 67
+    },
+    "periods": null
+  },
+  {
+    "id": 466638,
+    "date": "2026-01-03T17:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 123,
+      "name": "Prvenstvo BiH",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/123.png"
+    },
+    "country": {
+      "id": 57,
+      "name": "Bosnia-and-Herzegovina",
+      "code": "BA",
+      "flag": "https://media.api-sports.io/flags/ba.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 7504,
+        "name": "Student m:tel",
+        "logo": "https://media.api-sports.io/basketball/teams/7504.png"
+      },
+      "away": {
+        "id": 6535,
+        "name": "Radnicki Gorazde",
+        "logo": "https://media.api-sports.io/basketball/teams/6535.png"
+      }
+    },
+    "scores": {
+      "home": 88,
+      "away": 85
+    },
+    "periods": null
+  },
+  {
+    "id": 466641,
+    "date": "2026-01-03T17:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 123,
+      "name": "Prvenstvo BiH",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/123.png"
+    },
+    "country": {
+      "id": 57,
+      "name": "Bosnia-and-Herzegovina",
+      "code": "BA",
+      "flag": "https://media.api-sports.io/flags/ba.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 2552,
+        "name": "Siroki Brijeg",
+        "logo": "https://media.api-sports.io/basketball/teams/2552.png"
+      },
+      "away": {
+        "id": 2554,
+        "name": "Zrinjski Mostar",
+        "logo": "https://media.api-sports.io/basketball/teams/2554.png"
+      }
+    },
+    "scores": {
+      "home": 123,
+      "away": 80
+    },
+    "periods": null
+  },
+  {
+    "id": 486957,
+    "date": "2026-01-03T17:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 77,
+      "name": "QBL",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/77.png"
+    },
+    "country": {
+      "id": 37,
+      "name": "Qatar",
+      "code": "QA",
+      "flag": "https://media.api-sports.io/flags/qa.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 959,
+        "name": "Al Ahli",
+        "logo": "https://media.api-sports.io/basketball/teams/959.png"
+      },
+      "away": {
+        "id": 962,
+        "name": "Al Khor",
+        "logo": "https://media.api-sports.io/basketball/teams/962.png"
+      }
+    },
+    "scores": {
+      "home": 99,
+      "away": 75
+    },
+    "periods": null
+  },
+  {
+    "id": 476615,
+    "date": "2026-01-03T19:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 116,
+      "name": "NCAA",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/116.png"
+    },
+    "country": {
+      "id": 5,
+      "name": "USA",
+      "code": "US",
+      "flag": "https://media.api-sports.io/flags/us.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 1979,
+        "name": "Maine Black Bears",
+        "logo": "https://media.api-sports.io/basketball/teams/1979.png"
+      },
+      "away": {
+        "id": 1843,
+        "name": "Bryant University",
+        "logo": "https://media.api-sports.io/basketball/teams/1843.png"
+      }
+    },
+    "scores": {
+      "home": null,
+      "away": null
     },
     "periods": null
   },
