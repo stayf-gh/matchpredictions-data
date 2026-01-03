@@ -1,14 +1,14 @@
 [
   {
-    "id": 49608,
-    "date": "2026-01-01T15:00:00+00:00",
-    "time": "15:00",
-    "timestamp": 1767279600,
+    "id": 49611,
+    "date": "2026-01-03T13:30:00+00:00",
+    "time": "13:30",
+    "timestamp": 1767447000,
     "timezone": "UTC",
     "week": "9",
     "status": {
-      "long": "Not Started",
-      "short": "NS"
+      "long": "Finished",
+      "short": "FT"
     },
     "country": {
       "id": 26,
@@ -25,19 +25,19 @@
     },
     "teams": {
       "home": {
-        "id": 396,
-        "name": "Dragons",
-        "logo": "https://media.api-sports.io/rugby/teams/396.png"
+        "id": 302,
+        "name": "Sharks",
+        "logo": "https://media.api-sports.io/rugby/teams/302.png"
       },
       "away": {
-        "id": 397,
-        "name": "Scarlets",
-        "logo": "https://media.api-sports.io/rugby/teams/397.png"
+        "id": 297,
+        "name": "Lions",
+        "logo": "https://media.api-sports.io/rugby/teams/297.png"
       }
     },
     "scores": {
-      "home": null,
-      "away": null
+      "home": 22,
+      "away": 23
     },
     "periods": {
       "first": {
@@ -59,15 +59,74 @@
     }
   },
   {
-    "id": 50593,
-    "date": "2026-01-01T15:00:00+00:00",
-    "time": "15:00",
-    "timestamp": 1767279600,
+    "id": 49954,
+    "date": "2026-01-03T13:30:00+00:00",
+    "time": "13:30",
+    "timestamp": 1767447000,
+    "timezone": "UTC",
+    "week": "14",
+    "status": {
+      "long": "Finished",
+      "short": "FT"
+    },
+    "country": {
+      "id": 7,
+      "name": "France",
+      "code": "FR",
+      "flag": "https://media.api-sports.io/flags/fr.svg"
+    },
+    "league": {
+      "id": 16,
+      "name": "Top 14",
+      "type": "League",
+      "logo": "https://media.api-sports.io/rugby/leagues/16.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 120,
+        "name": "USA Perpignan",
+        "logo": "https://media.api-sports.io/rugby/teams/120.png"
+      },
+      "away": {
+        "id": 107,
+        "name": "Stade Toulousain",
+        "logo": "https://media.api-sports.io/rugby/teams/107.png"
+      }
+    },
+    "scores": {
+      "home": 30,
+      "away": 27
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 50594,
+    "date": "2026-01-03T13:30:00+00:00",
+    "time": "13:30",
+    "timestamp": 1767447000,
     "timezone": "UTC",
     "week": "13",
     "status": {
-      "long": "Not Started",
-      "short": "NS"
+      "long": "Finished",
+      "short": "FT"
     },
     "country": {
       "id": 6,
@@ -84,14 +143,250 @@
     },
     "teams": {
       "home": {
-        "id": 75,
-        "name": "Coventry R.F.C",
-        "logo": "https://media.api-sports.io/rugby/teams/75.png"
+        "id": 72,
+        "name": "Ampthill",
+        "logo": "https://media.api-sports.io/rugby/teams/72.png"
       },
       "away": {
-        "id": 74,
-        "name": "Cornish Pirates",
-        "logo": "https://media.api-sports.io/rugby/teams/74.png"
+        "id": 82,
+        "name": "Nottingham",
+        "logo": "https://media.api-sports.io/rugby/teams/82.png"
+      }
+    },
+    "scores": {
+      "home": 36,
+      "away": 27
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 50595,
+    "date": "2026-01-03T14:30:00+00:00",
+    "time": "14:30",
+    "timestamp": 1767450600,
+    "timezone": "UTC",
+    "week": "13",
+    "status": {
+      "long": "Finished",
+      "short": "FT"
+    },
+    "country": {
+      "id": 6,
+      "name": "England",
+      "code": "GB",
+      "flag": "https://media.api-sports.io/flags/gb.svg"
+    },
+    "league": {
+      "id": 12,
+      "name": "Greene King IPA Championship",
+      "type": "League",
+      "logo": "https://media.api-sports.io/rugby/leagues/12.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 76,
+        "name": "Doncaster",
+        "logo": "https://media.api-sports.io/rugby/teams/76.png"
+      },
+      "away": {
+        "id": 737,
+        "name": "Caldy",
+        "logo": "https://media.api-sports.io/rugby/teams/737.png"
+      }
+    },
+    "scores": {
+      "home": 27,
+      "away": 28
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 50596,
+    "date": "2026-01-03T14:30:00+00:00",
+    "time": "14:30",
+    "timestamp": 1767450600,
+    "timezone": "UTC",
+    "week": "13",
+    "status": {
+      "long": "Finished",
+      "short": "FT"
+    },
+    "country": {
+      "id": 6,
+      "name": "England",
+      "code": "GB",
+      "flag": "https://media.api-sports.io/flags/gb.svg"
+    },
+    "league": {
+      "id": 12,
+      "name": "Greene King IPA Championship",
+      "type": "League",
+      "logo": "https://media.api-sports.io/rugby/leagues/12.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 78,
+        "name": "Hartpury University",
+        "logo": "https://media.api-sports.io/rugby/teams/78.png"
+      },
+      "away": {
+        "id": 70,
+        "name": "Cambridge",
+        "logo": "https://media.api-sports.io/rugby/teams/70.png"
+      }
+    },
+    "scores": {
+      "home": 42,
+      "away": 22
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 51655,
+    "date": "2026-01-03T14:30:00+00:00",
+    "time": "14:30",
+    "timestamp": 1767450600,
+    "timezone": "UTC",
+    "week": "14",
+    "status": {
+      "long": "Finished",
+      "short": "FT"
+    },
+    "country": {
+      "id": 23,
+      "name": "Wales",
+      "code": "GB",
+      "flag": "https://media.api-sports.io/flags/gb.svg"
+    },
+    "league": {
+      "id": 48,
+      "name": "Premiership",
+      "type": "League",
+      "logo": "https://media.api-sports.io/rugby/leagues/48.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 360,
+        "name": "Merthyr",
+        "logo": "https://media.api-sports.io/rugby/teams/360.png"
+      },
+      "away": {
+        "id": 361,
+        "name": "Neath",
+        "logo": "https://media.api-sports.io/rugby/teams/361.png"
+      }
+    },
+    "scores": {
+      "home": 28,
+      "away": 40
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 51656,
+    "date": "2026-01-03T14:30:00+00:00",
+    "time": "14:30",
+    "timestamp": 1767450600,
+    "timezone": "UTC",
+    "week": "14",
+    "status": {
+      "long": "Postponed",
+      "short": "POST"
+    },
+    "country": {
+      "id": 23,
+      "name": "Wales",
+      "code": "GB",
+      "flag": "https://media.api-sports.io/flags/gb.svg"
+    },
+    "league": {
+      "id": 48,
+      "name": "Premiership",
+      "type": "League",
+      "logo": "https://media.api-sports.io/rugby/leagues/48.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 363,
+        "name": "Pontypridd",
+        "logo": "https://media.api-sports.io/rugby/teams/363.png"
+      },
+      "away": {
+        "id": 877,
+        "name": "Brecon",
+        "logo": "https://media.api-sports.io/rugby/teams/877.png"
       }
     },
     "scores": {
@@ -118,10 +413,1013 @@
     }
   },
   {
-    "id": 49609,
-    "date": "2026-01-01T17:30:00+00:00",
+    "id": 51657,
+    "date": "2026-01-03T14:30:00+00:00",
+    "time": "14:30",
+    "timestamp": 1767450600,
+    "timezone": "UTC",
+    "week": "14",
+    "status": {
+      "long": "Finished",
+      "short": "FT"
+    },
+    "country": {
+      "id": 23,
+      "name": "Wales",
+      "code": "GB",
+      "flag": "https://media.api-sports.io/flags/gb.svg"
+    },
+    "league": {
+      "id": 48,
+      "name": "Premiership",
+      "type": "League",
+      "logo": "https://media.api-sports.io/rugby/leagues/48.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 351,
+        "name": "Bargoed",
+        "logo": "https://media.api-sports.io/rugby/teams/351.png"
+      },
+      "away": {
+        "id": 879,
+        "name": "Narberth RFC",
+        "logo": "https://media.api-sports.io/rugby/teams/879.png"
+      }
+    },
+    "scores": {
+      "home": 33,
+      "away": 29
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 51658,
+    "date": "2026-01-03T14:30:00+00:00",
+    "time": "14:30",
+    "timestamp": 1767450600,
+    "timezone": "UTC",
+    "week": "14",
+    "status": {
+      "long": "Postponed",
+      "short": "POST"
+    },
+    "country": {
+      "id": 23,
+      "name": "Wales",
+      "code": "GB",
+      "flag": "https://media.api-sports.io/flags/gb.svg"
+    },
+    "league": {
+      "id": 48,
+      "name": "Premiership",
+      "type": "League",
+      "logo": "https://media.api-sports.io/rugby/leagues/48.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 926,
+        "name": "Llanelli Wanderers",
+        "logo": "https://media.api-sports.io/rugby/teams/926.png"
+      },
+      "away": {
+        "id": 886,
+        "name": "Cardiff Met University",
+        "logo": "https://media.api-sports.io/rugby/teams/886.png"
+      }
+    },
+    "scores": {
+      "home": null,
+      "away": null
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 51659,
+    "date": "2026-01-03T14:30:00+00:00",
+    "time": "14:30",
+    "timestamp": 1767450600,
+    "timezone": "UTC",
+    "week": "14",
+    "status": {
+      "long": "Postponed",
+      "short": "POST"
+    },
+    "country": {
+      "id": 23,
+      "name": "Wales",
+      "code": "GB",
+      "flag": "https://media.api-sports.io/flags/gb.svg"
+    },
+    "league": {
+      "id": 48,
+      "name": "Premiership",
+      "type": "League",
+      "logo": "https://media.api-sports.io/rugby/leagues/48.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 356,
+        "name": "Cross Keys",
+        "logo": "https://media.api-sports.io/rugby/teams/356.png"
+      },
+      "away": {
+        "id": 882,
+        "name": "Ystrad Rhondda",
+        "logo": "https://media.api-sports.io/rugby/teams/882.png"
+      }
+    },
+    "scores": {
+      "home": null,
+      "away": null
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 51660,
+    "date": "2026-01-03T14:30:00+00:00",
+    "time": "14:30",
+    "timestamp": 1767450600,
+    "timezone": "UTC",
+    "week": "14",
+    "status": {
+      "long": "Postponed",
+      "short": "POST"
+    },
+    "country": {
+      "id": 23,
+      "name": "Wales",
+      "code": "GB",
+      "flag": "https://media.api-sports.io/flags/gb.svg"
+    },
+    "league": {
+      "id": 48,
+      "name": "Premiership",
+      "type": "League",
+      "logo": "https://media.api-sports.io/rugby/leagues/48.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 925,
+        "name": "Beddau",
+        "logo": "https://media.api-sports.io/rugby/teams/925.png"
+      },
+      "away": {
+        "id": 878,
+        "name": "Llangennech",
+        "logo": "https://media.api-sports.io/rugby/teams/878.png"
+      }
+    },
+    "scores": {
+      "home": null,
+      "away": null
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 50597,
+    "date": "2026-01-03T15:00:00+00:00",
+    "time": "15:00",
+    "timestamp": 1767452400,
+    "timezone": "UTC",
+    "week": "13",
+    "status": {
+      "long": "Postponed",
+      "short": "POST"
+    },
+    "country": {
+      "id": 6,
+      "name": "England",
+      "code": "GB",
+      "flag": "https://media.api-sports.io/flags/gb.svg"
+    },
+    "league": {
+      "id": 12,
+      "name": "Greene King IPA Championship",
+      "type": "League",
+      "logo": "https://media.api-sports.io/rugby/leagues/12.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 884,
+        "name": "Chinnor",
+        "logo": "https://media.api-sports.io/rugby/teams/884.png"
+      },
+      "away": {
+        "id": 73,
+        "name": "Bedford Blues",
+        "logo": "https://media.api-sports.io/rugby/teams/73.png"
+      }
+    },
+    "scores": {
+      "home": null,
+      "away": null
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 50598,
+    "date": "2026-01-03T15:00:00+00:00",
+    "time": "15:00",
+    "timestamp": 1767452400,
+    "timezone": "UTC",
+    "week": "13",
+    "status": {
+      "long": "Finished",
+      "short": "FT"
+    },
+    "country": {
+      "id": 6,
+      "name": "England",
+      "code": "GB",
+      "flag": "https://media.api-sports.io/flags/gb.svg"
+    },
+    "league": {
+      "id": 12,
+      "name": "Greene King IPA Championship",
+      "type": "League",
+      "logo": "https://media.api-sports.io/rugby/leagues/12.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 883,
+        "name": "Ealing Trailfinders",
+        "logo": "https://media.api-sports.io/rugby/teams/883.png"
+      },
+      "away": {
+        "id": 69,
+        "name": "Worcester Warriors",
+        "logo": "https://media.api-sports.io/rugby/teams/69.png"
+      }
+    },
+    "scores": {
+      "home": 34,
+      "away": 33
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 50599,
+    "date": "2026-01-03T15:00:00+00:00",
+    "time": "15:00",
+    "timestamp": 1767452400,
+    "timezone": "UTC",
+    "week": "13",
+    "status": {
+      "long": "Finished",
+      "short": "FT"
+    },
+    "country": {
+      "id": 6,
+      "name": "England",
+      "code": "GB",
+      "flag": "https://media.api-sports.io/flags/gb.svg"
+    },
+    "league": {
+      "id": 12,
+      "name": "Greene King IPA Championship",
+      "type": "League",
+      "logo": "https://media.api-sports.io/rugby/leagues/12.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 402,
+        "name": "Richmond",
+        "logo": "https://media.api-sports.io/rugby/teams/402.png"
+      },
+      "away": {
+        "id": 80,
+        "name": "London Scottish",
+        "logo": "https://media.api-sports.io/rugby/teams/80.png"
+      }
+    },
+    "scores": {
+      "home": 26,
+      "away": 27
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 52521,
+    "date": "2026-01-03T15:00:00+00:00",
+    "time": "15:00",
+    "timestamp": 1767452400,
+    "timezone": "UTC",
+    "week": "5",
+    "status": {
+      "long": "Finished",
+      "short": "FT"
+    },
+    "country": {
+      "id": 16,
+      "name": "Portugal",
+      "code": "PT",
+      "flag": "https://media.api-sports.io/flags/pt.svg"
+    },
+    "league": {
+      "id": 31,
+      "name": "CN Honra",
+      "type": "League",
+      "logo": "https://media.api-sports.io/rugby/leagues/31.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 251,
+        "name": "Belenenses",
+        "logo": "https://media.api-sports.io/rugby/teams/251.png"
+      },
+      "away": {
+        "id": 931,
+        "name": "Santarem",
+        "logo": "https://media.api-sports.io/rugby/teams/931.png"
+      }
+    },
+    "scores": {
+      "home": 62,
+      "away": 12
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 50086,
+    "date": "2026-01-03T15:05:00+00:00",
+    "time": "15:05",
+    "timestamp": 1767452700,
+    "timezone": "UTC",
+    "week": "9",
+    "status": {
+      "long": "Finished",
+      "short": "FT"
+    },
+    "country": {
+      "id": 6,
+      "name": "England",
+      "code": "GB",
+      "flag": "https://media.api-sports.io/flags/gb.svg"
+    },
+    "league": {
+      "id": 13,
+      "name": "Premiership Rugby",
+      "type": "League",
+      "logo": "https://media.api-sports.io/rugby/leagues/13.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 58,
+        "name": "Bath",
+        "logo": "https://media.api-sports.io/rugby/teams/58.png"
+      },
+      "away": {
+        "id": 60,
+        "name": "Exeter Chiefs",
+        "logo": "https://media.api-sports.io/rugby/teams/60.png"
+      }
+    },
+    "scores": {
+      "home": 33,
+      "away": 26
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 49953,
+    "date": "2026-01-03T15:35:00+00:00",
+    "time": "15:35",
+    "timestamp": 1767454500,
+    "timezone": "UTC",
+    "week": "14",
+    "status": {
+      "long": "Finished",
+      "short": "FT"
+    },
+    "country": {
+      "id": 7,
+      "name": "France",
+      "code": "FR",
+      "flag": "https://media.api-sports.io/flags/fr.svg"
+    },
+    "league": {
+      "id": 16,
+      "name": "Top 14",
+      "type": "League",
+      "logo": "https://media.api-sports.io/rugby/leagues/16.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 106,
+        "name": "Stade Francais Paris",
+        "logo": "https://media.api-sports.io/rugby/teams/106.png"
+      },
+      "away": {
+        "id": 98,
+        "name": "Castres Olympique",
+        "logo": "https://media.api-sports.io/rugby/teams/98.png"
+      }
+    },
+    "scores": {
+      "home": 33,
+      "away": 15
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 49957,
+    "date": "2026-01-03T15:35:00+00:00",
+    "time": "15:35",
+    "timestamp": 1767454500,
+    "timezone": "UTC",
+    "week": "14",
+    "status": {
+      "long": "Finished",
+      "short": "FT"
+    },
+    "country": {
+      "id": 7,
+      "name": "France",
+      "code": "FR",
+      "flag": "https://media.api-sports.io/flags/fr.svg"
+    },
+    "league": {
+      "id": 16,
+      "name": "Top 14",
+      "type": "League",
+      "logo": "https://media.api-sports.io/rugby/leagues/16.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 102,
+        "name": "Montpellier",
+        "logo": "https://media.api-sports.io/rugby/teams/102.png"
+      },
+      "away": {
+        "id": 95,
+        "name": "Aviron Bayonnais",
+        "logo": "https://media.api-sports.io/rugby/teams/95.png"
+      }
+    },
+    "scores": {
+      "home": 62,
+      "away": 22
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 49958,
+    "date": "2026-01-03T15:35:00+00:00",
+    "time": "15:35",
+    "timestamp": 1767454500,
+    "timezone": "UTC",
+    "week": "14",
+    "status": {
+      "long": "Finished",
+      "short": "FT"
+    },
+    "country": {
+      "id": 7,
+      "name": "France",
+      "code": "FR",
+      "flag": "https://media.api-sports.io/flags/fr.svg"
+    },
+    "league": {
+      "id": 16,
+      "name": "Top 14",
+      "type": "League",
+      "logo": "https://media.api-sports.io/rugby/leagues/16.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 116,
+        "name": "Montauban",
+        "logo": "https://media.api-sports.io/rugby/teams/116.png"
+      },
+      "away": {
+        "id": 99,
+        "name": "Clermont",
+        "logo": "https://media.api-sports.io/rugby/teams/99.png"
+      }
+    },
+    "scores": {
+      "home": 19,
+      "away": 34
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 49959,
+    "date": "2026-01-03T15:35:00+00:00",
+    "time": "15:35",
+    "timestamp": 1767454500,
+    "timezone": "UTC",
+    "week": "14",
+    "status": {
+      "long": "Finished",
+      "short": "FT"
+    },
+    "country": {
+      "id": 7,
+      "name": "France",
+      "code": "FR",
+      "flag": "https://media.api-sports.io/flags/fr.svg"
+    },
+    "league": {
+      "id": 16,
+      "name": "Top 14",
+      "type": "League",
+      "logo": "https://media.api-sports.io/rugby/leagues/16.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 101,
+        "name": "Lyon",
+        "logo": "https://media.api-sports.io/rugby/teams/101.png"
+      },
+      "away": {
+        "id": 105,
+        "name": "Section Paloise",
+        "logo": "https://media.api-sports.io/rugby/teams/105.png"
+      }
+    },
+    "scores": {
+      "home": 22,
+      "away": 17
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 49612,
+    "date": "2026-01-03T16:00:00+00:00",
+    "time": "16:00",
+    "timestamp": 1767456000,
+    "timezone": "UTC",
+    "week": "9",
+    "status": {
+      "long": "Finished",
+      "short": "FT"
+    },
+    "country": {
+      "id": 26,
+      "name": "World",
+      "code": null,
+      "flag": null
+    },
+    "league": {
+      "id": 76,
+      "name": "United Rugby Championship",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/rugby/leagues/76.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 621,
+        "name": "Stormers",
+        "logo": "https://media.api-sports.io/rugby/teams/621.png"
+      },
+      "away": {
+        "id": 294,
+        "name": "Bulls",
+        "logo": "https://media.api-sports.io/rugby/teams/294.png"
+      }
+    },
+    "scores": {
+      "home": 13,
+      "away": 8
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 49613,
+    "date": "2026-01-03T17:30:00+00:00",
     "time": "17:30",
-    "timestamp": 1767288600,
+    "timestamp": 1767461400,
+    "timezone": "UTC",
+    "week": "9",
+    "status": {
+      "long": "Second Half",
+      "short": "2H"
+    },
+    "country": {
+      "id": 26,
+      "name": "World",
+      "code": null,
+      "flag": null
+    },
+    "league": {
+      "id": 76,
+      "name": "United Rugby Championship",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/rugby/leagues/76.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 392,
+        "name": "Benetton",
+        "logo": "https://media.api-sports.io/rugby/teams/392.png"
+      },
+      "away": {
+        "id": 279,
+        "name": "Edinburgh",
+        "logo": "https://media.api-sports.io/rugby/teams/279.png"
+      }
+    },
+    "scores": {
+      "home": 0,
+      "away": 15
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 49614,
+    "date": "2026-01-03T17:30:00+00:00",
+    "time": "17:30",
+    "timestamp": 1767461400,
+    "timezone": "UTC",
+    "week": "9",
+    "status": {
+      "long": "Second Half",
+      "short": "2H"
+    },
+    "country": {
+      "id": 26,
+      "name": "World",
+      "code": null,
+      "flag": null
+    },
+    "league": {
+      "id": 76,
+      "name": "United Rugby Championship",
+      "type": "Cup",
+      "logo": "https://media.api-sports.io/rugby/leagues/76.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 407,
+        "name": "Leinster",
+        "logo": "https://media.api-sports.io/rugby/teams/407.png"
+      },
+      "away": {
+        "id": 398,
+        "name": "Connacht",
+        "logo": "https://media.api-sports.io/rugby/teams/398.png"
+      }
+    },
+    "scores": {
+      "home": 26,
+      "away": 17
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 50087,
+    "date": "2026-01-03T17:30:00+00:00",
+    "time": "17:30",
+    "timestamp": 1767461400,
+    "timezone": "UTC",
+    "week": "9",
+    "status": {
+      "long": "Half Time",
+      "short": "HT"
+    },
+    "country": {
+      "id": 6,
+      "name": "England",
+      "code": "GB",
+      "flag": "https://media.api-sports.io/flags/gb.svg"
+    },
+    "league": {
+      "id": 13,
+      "name": "Premiership Rugby",
+      "type": "League",
+      "logo": "https://media.api-sports.io/rugby/leagues/13.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 65,
+        "name": "Northampton Saints",
+        "logo": "https://media.api-sports.io/rugby/teams/65.png"
+      },
+      "away": {
+        "id": 62,
+        "name": "Harlequins",
+        "logo": "https://media.api-sports.io/rugby/teams/62.png"
+      }
+    },
+    "scores": {
+      "home": 33,
+      "away": 14
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 49615,
+    "date": "2026-01-03T19:45:00+00:00",
+    "time": "19:45",
+    "timestamp": 1767469500,
     "timezone": "UTC",
     "week": "9",
     "status": {
@@ -143,14 +1441,73 @@
     },
     "teams": {
       "home": {
-        "id": 394,
-        "name": "Ospreys",
-        "logo": "https://media.api-sports.io/rugby/teams/394.png"
+        "id": 406,
+        "name": "Glasgow Warriors",
+        "logo": "https://media.api-sports.io/rugby/teams/406.png"
       },
       "away": {
-        "id": 611,
-        "name": "Cardiff Rugby",
-        "logo": "https://media.api-sports.io/rugby/teams/611.png"
+        "id": 395,
+        "name": "Zebre",
+        "logo": "https://media.api-sports.io/rugby/teams/395.png"
+      }
+    },
+    "scores": {
+      "home": null,
+      "away": null
+    },
+    "periods": {
+      "first": {
+        "home": null,
+        "away": null
+      },
+      "second": {
+        "home": null,
+        "away": null
+      },
+      "overtime": {
+        "home": null,
+        "away": null
+      },
+      "second_overtime": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 49956,
+    "date": "2026-01-03T20:00:00+00:00",
+    "time": "20:00",
+    "timestamp": 1767470400,
+    "timezone": "UTC",
+    "week": "14",
+    "status": {
+      "long": "Not Started",
+      "short": "NS"
+    },
+    "country": {
+      "id": 7,
+      "name": "France",
+      "code": "FR",
+      "flag": "https://media.api-sports.io/flags/fr.svg"
+    },
+    "league": {
+      "id": 16,
+      "name": "Top 14",
+      "type": "League",
+      "logo": "https://media.api-sports.io/rugby/leagues/16.png",
+      "season": 2025
+    },
+    "teams": {
+      "home": {
+        "id": 96,
+        "name": "Bordeaux Begles",
+        "logo": "https://media.api-sports.io/rugby/teams/96.png"
+      },
+      "away": {
+        "id": 104,
+        "name": "Racing 92",
+        "logo": "https://media.api-sports.io/rugby/teams/104.png"
       }
     },
     "scores": {
