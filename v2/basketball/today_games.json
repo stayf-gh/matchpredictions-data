@@ -7334,10 +7334,10 @@
   {
     "id": 470694,
     "date": "2026-01-03T16:15:00+00:00",
-    "time": "10",
+    "time": "",
     "status": {
-      "short": "Q4",
-      "long": "Quarter 4"
+      "short": "FT",
+      "long": "Game Finished"
     },
     "league": {
       "id": 45,
@@ -7451,10 +7451,10 @@
   {
     "id": 455910,
     "date": "2026-01-03T16:30:00+00:00",
-    "time": "7",
+    "time": "",
     "status": {
-      "short": "Q4",
-      "long": "Quarter 4"
+      "short": "FT",
+      "long": "Game Finished"
     },
     "league": {
       "id": 72,
@@ -7482,8 +7482,8 @@
       }
     },
     "scores": {
-      "home": 92,
-      "away": 84
+      "home": 105,
+      "away": 96
     },
     "periods": null
   },
@@ -7529,10 +7529,10 @@
   {
     "id": 459179,
     "date": "2026-01-03T16:30:00+00:00",
-    "time": "10",
+    "time": "",
     "status": {
-      "short": "Q4",
-      "long": "Quarter 4"
+      "short": "FT",
+      "long": "Game Finished"
     },
     "league": {
       "id": 100,
@@ -7763,10 +7763,10 @@
   {
     "id": 451513,
     "date": "2026-01-03T17:00:00+00:00",
-    "time": "3",
+    "time": "",
     "status": {
-      "short": "Q4",
-      "long": "Quarter 4"
+      "short": "FT",
+      "long": "Game Finished"
     },
     "league": {
       "id": 87,
@@ -7794,18 +7794,18 @@
       }
     },
     "scores": {
-      "home": 65,
-      "away": 48
+      "home": 83,
+      "away": 66
     },
     "periods": null
   },
   {
     "id": 451514,
     "date": "2026-01-03T17:00:00+00:00",
-    "time": "2",
+    "time": "",
     "status": {
-      "short": "Q4",
-      "long": "Quarter 4"
+      "short": "FT",
+      "long": "Game Finished"
     },
     "league": {
       "id": 87,
@@ -7833,18 +7833,18 @@
       }
     },
     "scores": {
-      "home": 63,
-      "away": 71
+      "home": 79,
+      "away": 97
     },
     "periods": null
   },
   {
     "id": 451515,
     "date": "2026-01-03T17:00:00+00:00",
-    "time": "0",
+    "time": "9",
     "status": {
-      "short": "BT",
-      "long": "Break Time"
+      "short": "Q4",
+      "long": "Quarter 4"
     },
     "league": {
       "id": 87,
@@ -7872,8 +7872,8 @@
       }
     },
     "scores": {
-      "home": 53,
-      "away": 59
+      "home": 61,
+      "away": 75
     },
     "periods": null
   },
@@ -7882,8 +7882,8 @@
     "date": "2026-01-03T17:00:00+00:00",
     "time": "9",
     "status": {
-      "short": "Q3",
-      "long": "Quarter 3"
+      "short": "Q4",
+      "long": "Quarter 4"
     },
     "league": {
       "id": 87,
@@ -7911,8 +7911,8 @@
       }
     },
     "scores": {
-      "home": 60,
-      "away": 51
+      "home": 81,
+      "away": 76
     },
     "periods": null
   },
@@ -7997,10 +7997,10 @@
   {
     "id": 453597,
     "date": "2026-01-03T17:00:00+00:00",
-    "time": "4",
+    "time": "",
     "status": {
-      "short": "Q4",
-      "long": "Quarter 4"
+      "short": "FT",
+      "long": "Game Finished"
     },
     "league": {
       "id": 32,
@@ -8028,18 +8028,18 @@
       }
     },
     "scores": {
-      "home": 77,
-      "away": 70
+      "home": 91,
+      "away": 84
     },
     "periods": null
   },
   {
     "id": 453598,
     "date": "2026-01-03T17:00:00+00:00",
-    "time": "2",
+    "time": "",
     "status": {
-      "short": "Q4",
-      "long": "Quarter 4"
+      "short": "FT",
+      "long": "Game Finished"
     },
     "league": {
       "id": 32,
@@ -8067,18 +8067,18 @@
       }
     },
     "scores": {
-      "home": 54,
-      "away": 68
+      "home": 65,
+      "away": 86
     },
     "periods": null
   },
   {
     "id": 455766,
     "date": "2026-01-03T17:00:00+00:00",
-    "time": "8",
+    "time": "",
     "status": {
-      "short": "Q4",
-      "long": "Quarter 4"
+      "short": "FT",
+      "long": "Game Finished"
     },
     "league": {
       "id": 88,
@@ -8106,18 +8106,18 @@
       }
     },
     "scores": {
-      "home": 26,
-      "away": 86
+      "home": 32,
+      "away": 97
     },
     "periods": null
   },
   {
     "id": 455768,
     "date": "2026-01-03T17:00:00+00:00",
-    "time": "6",
+    "time": "",
     "status": {
-      "short": "Q4",
-      "long": "Quarter 4"
+      "short": "FT",
+      "long": "Game Finished"
     },
     "league": {
       "id": 88,
@@ -8145,15 +8145,15 @@
       }
     },
     "scores": {
-      "home": 60,
-      "away": 64
+      "home": 69,
+      "away": 73
     },
     "periods": null
   },
   {
     "id": 460450,
     "date": "2026-01-03T17:00:00+00:00",
-    "time": "1",
+    "time": "10",
     "status": {
       "short": "Q4",
       "long": "Quarter 4"
@@ -8184,18 +8184,18 @@
       }
     },
     "scores": {
-      "home": 61,
-      "away": 61
+      "home": 70,
+      "away": 80
     },
     "periods": null
   },
   {
     "id": 460459,
     "date": "2026-01-03T17:00:00+00:00",
-    "time": "10",
+    "time": "9",
     "status": {
-      "short": "Q3",
-      "long": "Quarter 3"
+      "short": "Q4",
+      "long": "Quarter 4"
     },
     "league": {
       "id": 96,
@@ -8223,8 +8223,8 @@
       }
     },
     "scores": {
-      "home": 66,
-      "away": 64
+      "home": 84,
+      "away": 74
     },
     "periods": null
   },
@@ -8233,8 +8233,8 @@
     "date": "2026-01-03T17:00:00+00:00",
     "time": "10",
     "status": {
-      "short": "Q3",
-      "long": "Quarter 3"
+      "short": "FT",
+      "long": "Game Finished"
     },
     "league": {
       "id": 46,
@@ -8262,8 +8262,8 @@
       }
     },
     "scores": {
-      "home": 76,
-      "away": 50
+      "home": 88,
+      "away": 75
     },
     "periods": null
   },
@@ -8272,8 +8272,8 @@
     "date": "2026-01-03T17:00:00+00:00",
     "time": "9",
     "status": {
-      "short": "Q3",
-      "long": "Quarter 3"
+      "short": "Q4",
+      "long": "Quarter 4"
     },
     "league": {
       "id": 46,
@@ -8301,18 +8301,18 @@
       }
     },
     "scores": {
-      "home": 69,
-      "away": 51
+      "home": 101,
+      "away": 67
     },
     "periods": null
   },
   {
     "id": 460747,
     "date": "2026-01-03T17:00:00+00:00",
-    "time": "7",
+    "time": "",
     "status": {
-      "short": "Q4",
-      "long": "Quarter 4"
+      "short": "FT",
+      "long": "Game Finished"
     },
     "league": {
       "id": 46,
@@ -8340,18 +8340,18 @@
       }
     },
     "scores": {
-      "home": 94,
-      "away": 58
+      "home": 99,
+      "away": 62
     },
     "periods": null
   },
   {
     "id": 460748,
     "date": "2026-01-03T17:00:00+00:00",
-    "time": "3",
+    "time": "",
     "status": {
-      "short": "Q4",
-      "long": "Quarter 4"
+      "short": "FT",
+      "long": "Game Finished"
     },
     "league": {
       "id": 46,
@@ -8379,18 +8379,18 @@
       }
     },
     "scores": {
-      "home": 75,
-      "away": 42
+      "home": 87,
+      "away": 63
     },
     "periods": null
   },
   {
     "id": 460749,
     "date": "2026-01-03T17:00:00+00:00",
-    "time": "1",
+    "time": "",
     "status": {
-      "short": "Q4",
-      "long": "Quarter 4"
+      "short": "FT",
+      "long": "Game Finished"
     },
     "league": {
       "id": 46,
@@ -8418,18 +8418,18 @@
       }
     },
     "scores": {
-      "home": 73,
-      "away": 70
+      "home": 98,
+      "away": 95
     },
     "periods": null
   },
   {
     "id": 460750,
     "date": "2026-01-03T17:00:00+00:00",
-    "time": "10",
+    "time": "9",
     "status": {
-      "short": "Q3",
-      "long": "Quarter 3"
+      "short": "Q4",
+      "long": "Quarter 4"
     },
     "league": {
       "id": 46,
@@ -8457,18 +8457,18 @@
       }
     },
     "scores": {
-      "home": 66,
-      "away": 62
+      "home": 85,
+      "away": 83
     },
     "periods": null
   },
   {
     "id": 460906,
     "date": "2026-01-03T17:00:00+00:00",
-    "time": "6",
+    "time": "",
     "status": {
-      "short": "Q4",
-      "long": "Quarter 4"
+      "short": "FT",
+      "long": "Game Finished"
     },
     "league": {
       "id": 47,
@@ -8496,18 +8496,18 @@
       }
     },
     "scores": {
-      "home": 97,
-      "away": 37
+      "home": 108,
+      "away": 39
     },
     "periods": null
   },
   {
     "id": 460909,
     "date": "2026-01-03T17:00:00+00:00",
-    "time": "3",
+    "time": "",
     "status": {
-      "short": "Q4",
-      "long": "Quarter 4"
+      "short": "FT",
+      "long": "Game Finished"
     },
     "league": {
       "id": 47,
@@ -8535,18 +8535,18 @@
       }
     },
     "scores": {
-      "home": 62,
-      "away": 87
+      "home": 69,
+      "away": 97
     },
     "periods": null
   },
   {
     "id": 460910,
     "date": "2026-01-03T17:00:00+00:00",
-    "time": "0",
+    "time": "",
     "status": {
-      "short": "BT",
-      "long": "Break Time"
+      "short": "FT",
+      "long": "Game Finished"
     },
     "league": {
       "id": 47,
@@ -8574,18 +8574,18 @@
       }
     },
     "scores": {
-      "home": 85,
-      "away": 37
+      "home": 109,
+      "away": 48
     },
     "periods": null
   },
   {
     "id": 461645,
     "date": "2026-01-03T17:00:00+00:00",
-    "time": "1",
+    "time": "10",
     "status": {
-      "short": "Q4",
-      "long": "Quarter 4"
+      "short": "FT",
+      "long": "Game Finished"
     },
     "league": {
       "id": 71,
@@ -8613,8 +8613,8 @@
       }
     },
     "scores": {
-      "home": 61,
-      "away": 45
+      "home": 77,
+      "away": 68
     },
     "periods": null
   },
@@ -8894,10 +8894,10 @@
   {
     "id": 463111,
     "date": "2026-01-03T17:00:00+00:00",
-    "time": "2",
+    "time": "3",
     "status": {
-      "short": "Q3",
-      "long": "Quarter 3"
+      "short": "Q4",
+      "long": "Quarter 4"
     },
     "league": {
       "id": 60,
@@ -8925,15 +8925,15 @@
       }
     },
     "scores": {
-      "home": 40,
-      "away": 44
+      "home": 61,
+      "away": 67
     },
     "periods": null
   },
   {
     "id": 463363,
     "date": "2026-01-03T17:00:00+00:00",
-    "time": "2",
+    "time": "10",
     "status": {
       "short": "Q4",
       "long": "Quarter 4"
@@ -8964,18 +8964,18 @@
       }
     },
     "scores": {
-      "home": 62,
-      "away": 56
+      "home": 85,
+      "away": 82
     },
     "periods": null
   },
   {
     "id": 463366,
     "date": "2026-01-03T17:00:00+00:00",
-    "time": "2",
+    "time": "",
     "status": {
-      "short": "Q4",
-      "long": "Quarter 4"
+      "short": "FT",
+      "long": "Game Finished"
     },
     "league": {
       "id": 30,
@@ -9003,18 +9003,18 @@
       }
     },
     "scores": {
-      "home": 45,
-      "away": 70
+      "home": 65,
+      "away": 79
     },
     "periods": null
   },
   {
     "id": 464064,
     "date": "2026-01-03T17:00:00+00:00",
-    "time": "2",
+    "time": "",
     "status": {
-      "short": "Q4",
-      "long": "Quarter 4"
+      "short": "FT",
+      "long": "Game Finished"
     },
     "league": {
       "id": 117,
@@ -9042,18 +9042,18 @@
       }
     },
     "scores": {
-      "home": 61,
-      "away": 57
+      "home": 78,
+      "away": 67
     },
     "periods": null
   },
   {
     "id": 466638,
     "date": "2026-01-03T17:00:00+00:00",
-    "time": "1",
+    "time": "",
     "status": {
-      "short": "Q4",
-      "long": "Quarter 4"
+      "short": "FT",
+      "long": "Game Finished"
     },
     "league": {
       "id": 123,
@@ -9081,8 +9081,8 @@
       }
     },
     "scores": {
-      "home": 74,
-      "away": 69
+      "home": 88,
+      "away": 85
     },
     "periods": null
   },
@@ -9128,10 +9128,10 @@
   {
     "id": 466641,
     "date": "2026-01-03T17:00:00+00:00",
-    "time": "9",
+    "time": "",
     "status": {
-      "short": "Q4",
-      "long": "Quarter 4"
+      "short": "FT",
+      "long": "Game Finished"
     },
     "league": {
       "id": 123,
@@ -9159,8 +9159,8 @@
       }
     },
     "scores": {
-      "home": 121,
-      "away": 74
+      "home": 123,
+      "away": 80
     },
     "periods": null
   },
@@ -9169,8 +9169,8 @@
     "date": "2026-01-03T17:00:00+00:00",
     "time": "6",
     "status": {
-      "short": "Q3",
-      "long": "Quarter 3"
+      "short": "Q4",
+      "long": "Quarter 4"
     },
     "league": {
       "id": 64,
@@ -9198,15 +9198,15 @@
       }
     },
     "scores": {
-      "home": 51,
-      "away": 59
+      "home": 70,
+      "away": 75
     },
     "periods": null
   },
   {
     "id": 472053,
     "date": "2026-01-03T17:00:00+00:00",
-    "time": "1",
+    "time": "10",
     "status": {
       "short": "Q4",
       "long": "Quarter 4"
@@ -9237,8 +9237,8 @@
       }
     },
     "scores": {
-      "home": 80,
-      "away": 76
+      "home": 96,
+      "away": 99
     },
     "periods": null
   },
@@ -9276,15 +9276,15 @@
       }
     },
     "scores": {
-      "home": 55,
-      "away": 45
+      "home": 76,
+      "away": 63
     },
     "periods": null
   },
   {
     "id": 476590,
     "date": "2026-01-03T17:00:00+00:00",
-    "time": "0",
+    "time": "9",
     "status": {
       "short": "Q2",
       "long": "Quarter 2"
@@ -9315,15 +9315,15 @@
       }
     },
     "scores": {
-      "home": 64,
-      "away": 56
+      "home": 81,
+      "away": 72
     },
     "periods": null
   },
   {
     "id": 476591,
     "date": "2026-01-03T17:00:00+00:00",
-    "time": "-5",
+    "time": "5",
     "status": {
       "short": "Q2",
       "long": "Quarter 2"
@@ -9354,8 +9354,8 @@
       }
     },
     "scores": {
-      "home": 48,
-      "away": 50
+      "home": 61,
+      "away": 74
     },
     "periods": null
   },
@@ -9393,15 +9393,15 @@
       }
     },
     "scores": {
-      "home": 39,
-      "away": 41
+      "home": 58,
+      "away": 62
     },
     "periods": null
   },
   {
     "id": 476593,
     "date": "2026-01-03T17:00:00+00:00",
-    "time": "-5",
+    "time": "1",
     "status": {
       "short": "Q2",
       "long": "Quarter 2"
@@ -9432,8 +9432,8 @@
       }
     },
     "scores": {
-      "home": 42,
-      "away": 39
+      "home": 57,
+      "away": 50
     },
     "periods": null
   },
@@ -9471,8 +9471,8 @@
       }
     },
     "scores": {
-      "home": 50,
-      "away": 42
+      "home": 66,
+      "away": 53
     },
     "periods": null
   },
@@ -9510,8 +9510,8 @@
       }
     },
     "scores": {
-      "home": 50,
-      "away": 46
+      "home": 65,
+      "away": 67
     },
     "periods": null
   },
@@ -9549,8 +9549,8 @@
       }
     },
     "scores": {
-      "home": 51,
-      "away": 63
+      "home": 63,
+      "away": 75
     },
     "periods": null
   },
@@ -9635,10 +9635,10 @@
   {
     "id": 486957,
     "date": "2026-01-03T17:00:00+00:00",
-    "time": "6",
+    "time": "",
     "status": {
-      "short": "Q4",
-      "long": "Quarter 4"
+      "short": "FT",
+      "long": "Game Finished"
     },
     "league": {
       "id": 77,
@@ -9666,18 +9666,18 @@
       }
     },
     "scores": {
-      "home": 87,
-      "away": 66
+      "home": 99,
+      "away": 75
     },
     "periods": null
   },
   {
     "id": 488808,
     "date": "2026-01-03T17:00:00+00:00",
-    "time": "10",
+    "time": "9",
     "status": {
-      "short": "BT",
-      "long": "Break Time"
+      "short": "Q4",
+      "long": "Quarter 4"
     },
     "league": {
       "id": 122,
@@ -9705,18 +9705,18 @@
       }
     },
     "scores": {
-      "home": 47,
-      "away": 37
+      "home": 58,
+      "away": 53
     },
     "periods": null
   },
   {
     "id": 465550,
     "date": "2026-01-03T17:05:00+00:00",
-    "time": "6",
+    "time": "7",
     "status": {
-      "short": "Q3",
-      "long": "Quarter 3"
+      "short": "Q4",
+      "long": "Quarter 4"
     },
     "league": {
       "id": 51,
@@ -9744,18 +9744,18 @@
       }
     },
     "scores": {
-      "home": 51,
-      "away": 52
+      "home": 71,
+      "away": 84
     },
     "periods": null
   },
   {
     "id": 460451,
     "date": "2026-01-03T17:10:00+00:00",
-    "time": "7",
+    "time": "9",
     "status": {
-      "short": "Q3",
-      "long": "Quarter 3"
+      "short": "Q4",
+      "long": "Quarter 4"
     },
     "league": {
       "id": 96,
@@ -9783,18 +9783,18 @@
       }
     },
     "scores": {
-      "home": 42,
-      "away": 58
+      "home": 57,
+      "away": 77
     },
     "periods": null
   },
   {
     "id": 458238,
     "date": "2026-01-03T17:15:00+00:00",
-    "time": "2",
+    "time": "7",
     "status": {
-      "short": "Q3",
-      "long": "Quarter 3"
+      "short": "Q4",
+      "long": "Quarter 4"
     },
     "league": {
       "id": 52,
@@ -9822,18 +9822,18 @@
       }
     },
     "scores": {
-      "home": 42,
-      "away": 42
+      "home": 71,
+      "away": 73
     },
     "periods": null
   },
   {
     "id": 462131,
     "date": "2026-01-03T17:15:00+00:00",
-    "time": "4",
+    "time": "5",
     "status": {
-      "short": "Q3",
-      "long": "Quarter 3"
+      "short": "Q4",
+      "long": "Quarter 4"
     },
     "league": {
       "id": 37,
@@ -9861,18 +9861,18 @@
       }
     },
     "scores": {
-      "home": 53,
-      "away": 41
+      "home": 87,
+      "away": 69
     },
     "periods": null
   },
   {
     "id": 452125,
     "date": "2026-01-03T17:30:00+00:00",
-    "time": "0",
+    "time": "10",
     "status": {
-      "short": "HT",
-      "long": "Halftime"
+      "short": "Q3",
+      "long": "Quarter 3"
     },
     "league": {
       "id": 42,
@@ -9900,18 +9900,18 @@
       }
     },
     "scores": {
-      "home": 36,
-      "away": 38
+      "home": 54,
+      "away": 49
     },
     "periods": null
   },
   {
     "id": 452126,
     "date": "2026-01-03T17:30:00+00:00",
-    "time": "0",
+    "time": "10",
     "status": {
-      "short": "HT",
-      "long": "Halftime"
+      "short": "Q3",
+      "long": "Quarter 3"
     },
     "league": {
       "id": 42,
@@ -9939,18 +9939,18 @@
       }
     },
     "scores": {
-      "home": 50,
-      "away": 53
+      "home": 72,
+      "away": 70
     },
     "periods": null
   },
   {
     "id": 453596,
     "date": "2026-01-03T17:30:00+00:00",
-    "time": "10",
+    "time": "2",
     "status": {
-      "short": "HT",
-      "long": "Halftime"
+      "short": "Q4",
+      "long": "Quarter 4"
     },
     "league": {
       "id": 32,
@@ -9978,18 +9978,18 @@
       }
     },
     "scores": {
-      "home": 39,
-      "away": 50
+      "home": 58,
+      "away": 84
     },
     "periods": null
   },
   {
     "id": 461329,
     "date": "2026-01-03T17:30:00+00:00",
-    "time": "0",
+    "time": "9",
     "status": {
-      "short": "HT",
-      "long": "Halftime"
+      "short": "Q3",
+      "long": "Quarter 3"
     },
     "league": {
       "id": 40,
@@ -10017,8 +10017,8 @@
       }
     },
     "scores": {
-      "home": 38,
-      "away": 24
+      "home": 59,
+      "away": 49
     },
     "periods": null
   },
@@ -10064,10 +10064,10 @@
   {
     "id": 452127,
     "date": "2026-01-03T18:00:00+00:00",
-    "time": "2",
+    "time": "0",
     "status": {
-      "short": "Q2",
-      "long": "Quarter 2"
+      "short": "HT",
+      "long": "Halftime"
     },
     "league": {
       "id": 42,
@@ -10095,18 +10095,18 @@
       }
     },
     "scores": {
-      "home": 28,
-      "away": 18
+      "home": 46,
+      "away": 35
     },
     "periods": null
   },
   {
     "id": 452128,
     "date": "2026-01-03T18:00:00+00:00",
-    "time": "2",
+    "time": "0",
     "status": {
-      "short": "Q2",
-      "long": "Quarter 2"
+      "short": "HT",
+      "long": "Halftime"
     },
     "league": {
       "id": 42,
@@ -10134,18 +10134,18 @@
       }
     },
     "scores": {
-      "home": 22,
-      "away": 30
+      "home": 48,
+      "away": 49
     },
     "periods": null
   },
   {
     "id": 452129,
     "date": "2026-01-03T18:00:00+00:00",
-    "time": "2",
+    "time": "0",
     "status": {
-      "short": "Q2",
-      "long": "Quarter 2"
+      "short": "HT",
+      "long": "Halftime"
     },
     "league": {
       "id": 42,
@@ -10173,8 +10173,8 @@
       }
     },
     "scores": {
-      "home": 23,
-      "away": 40
+      "home": 42,
+      "away": 56
     },
     "periods": null
   },
@@ -10298,10 +10298,10 @@
   {
     "id": 458431,
     "date": "2026-01-03T18:00:00+00:00",
-    "time": "2",
+    "time": "0",
     "status": {
-      "short": "Q2",
-      "long": "Quarter 2"
+      "short": "HT",
+      "long": "Halftime"
     },
     "league": {
       "id": 74,
@@ -10329,18 +10329,18 @@
       }
     },
     "scores": {
-      "home": 28,
-      "away": 23
+      "home": 55,
+      "away": 38
     },
     "periods": null
   },
   {
     "id": 460268,
     "date": "2026-01-03T18:00:00+00:00",
-    "time": "4",
+    "time": "0",
     "status": {
-      "short": "Q2",
-      "long": "Quarter 2"
+      "short": "HT",
+      "long": "Halftime"
     },
     "league": {
       "id": 261,
@@ -10368,18 +10368,18 @@
       }
     },
     "scores": {
-      "home": 33,
-      "away": 16
+      "home": 51,
+      "away": 31
     },
     "periods": null
   },
   {
     "id": 460270,
     "date": "2026-01-03T18:00:00+00:00",
-    "time": "2",
+    "time": "0",
     "status": {
-      "short": "Q2",
-      "long": "Quarter 2"
+      "short": "HT",
+      "long": "Halftime"
     },
     "league": {
       "id": 261,
@@ -10407,18 +10407,18 @@
       }
     },
     "scores": {
-      "home": 32,
-      "away": 13
+      "home": 46,
+      "away": 29
     },
     "periods": null
   },
   {
     "id": 460273,
     "date": "2026-01-03T18:00:00+00:00",
-    "time": "3",
+    "time": "0",
     "status": {
-      "short": "Q2",
-      "long": "Quarter 2"
+      "short": "HT",
+      "long": "Halftime"
     },
     "league": {
       "id": 261,
@@ -10446,18 +10446,18 @@
       }
     },
     "scores": {
-      "home": 18,
-      "away": 25
+      "home": 37,
+      "away": 45
     },
     "periods": null
   },
   {
     "id": 460452,
     "date": "2026-01-03T18:00:00+00:00",
-    "time": "3",
+    "time": "0",
     "status": {
-      "short": "Q2",
-      "long": "Quarter 2"
+      "short": "HT",
+      "long": "Halftime"
     },
     "league": {
       "id": 96,
@@ -10485,18 +10485,18 @@
       }
     },
     "scores": {
-      "home": 36,
-      "away": 18
+      "home": 48,
+      "away": 34
     },
     "periods": null
   },
   {
     "id": 460453,
     "date": "2026-01-03T18:00:00+00:00",
-    "time": "2",
+    "time": "0",
     "status": {
-      "short": "Q2",
-      "long": "Quarter 2"
+      "short": "HT",
+      "long": "Halftime"
     },
     "league": {
       "id": 96,
@@ -10524,18 +10524,18 @@
       }
     },
     "scores": {
-      "home": 26,
-      "away": 29
+      "home": 40,
+      "away": 39
     },
     "periods": null
   },
   {
     "id": 460455,
     "date": "2026-01-03T18:00:00+00:00",
-    "time": "1",
+    "time": "0",
     "status": {
-      "short": "Q2",
-      "long": "Quarter 2"
+      "short": "HT",
+      "long": "Halftime"
     },
     "league": {
       "id": 96,
@@ -10563,18 +10563,18 @@
       }
     },
     "scores": {
-      "home": 26,
-      "away": 21
+      "home": 46,
+      "away": 36
     },
     "periods": null
   },
   {
     "id": 460907,
     "date": "2026-01-03T18:00:00+00:00",
-    "time": "4",
+    "time": "0",
     "status": {
-      "short": "Q2",
-      "long": "Quarter 2"
+      "short": "HT",
+      "long": "Halftime"
     },
     "league": {
       "id": 47,
@@ -10602,18 +10602,18 @@
       }
     },
     "scores": {
-      "home": 28,
-      "away": 14
+      "home": 41,
+      "away": 24
     },
     "periods": null
   },
   {
     "id": 462619,
     "date": "2026-01-03T18:00:00+00:00",
-    "time": "4",
+    "time": "0",
     "status": {
-      "short": "Q2",
-      "long": "Quarter 2"
+      "short": "HT",
+      "long": "Halftime"
     },
     "league": {
       "id": 198,
@@ -10641,18 +10641,18 @@
       }
     },
     "scores": {
-      "home": 21,
-      "away": 24
+      "home": 39,
+      "away": 35
     },
     "periods": null
   },
   {
     "id": 462622,
     "date": "2026-01-03T18:00:00+00:00",
-    "time": "3",
+    "time": "0",
     "status": {
-      "short": "Q2",
-      "long": "Quarter 2"
+      "short": "HT",
+      "long": "Halftime"
     },
     "league": {
       "id": 198,
@@ -10680,18 +10680,18 @@
       }
     },
     "scores": {
-      "home": 34,
-      "away": 15
+      "home": 55,
+      "away": 32
     },
     "periods": null
   },
   {
     "id": 463368,
     "date": "2026-01-03T18:00:00+00:00",
-    "time": "5",
+    "time": "0",
     "status": {
-      "short": "Q2",
-      "long": "Quarter 2"
+      "short": "HT",
+      "long": "Halftime"
     },
     "league": {
       "id": 30,
@@ -10719,8 +10719,8 @@
       }
     },
     "scores": {
-      "home": 26,
-      "away": 34
+      "home": 46,
+      "away": 49
     },
     "periods": null
   },
@@ -10729,8 +10729,8 @@
     "date": "2026-01-03T18:00:00+00:00",
     "time": "0",
     "status": {
-      "short": "BT",
-      "long": "Break Time"
+      "short": "HT",
+      "long": "Halftime"
     },
     "league": {
       "id": 117,
@@ -10758,8 +10758,8 @@
       }
     },
     "scores": {
-      "home": 19,
-      "away": 33
+      "home": 41,
+      "away": 55
     },
     "periods": null
   },
@@ -10807,8 +10807,8 @@
     "date": "2026-01-03T18:00:00+00:00",
     "time": "",
     "status": {
-      "short": "Q1",
-      "long": "Quarter 1"
+      "short": "Q2",
+      "long": "Quarter 2"
     },
     "league": {
       "id": 116,
@@ -10836,8 +10836,8 @@
       }
     },
     "scores": {
-      "home": 15,
-      "away": 22
+      "home": 31,
+      "away": 39
     },
     "periods": null
   },
@@ -10846,8 +10846,8 @@
     "date": "2026-01-03T18:00:00+00:00",
     "time": "",
     "status": {
-      "short": "Q1",
-      "long": "Quarter 1"
+      "short": "Q2",
+      "long": "Quarter 2"
     },
     "league": {
       "id": 116,
@@ -10875,8 +10875,8 @@
       }
     },
     "scores": {
-      "home": 16,
-      "away": 12
+      "home": 39,
+      "away": 23
     },
     "periods": null
   },
@@ -10885,8 +10885,8 @@
     "date": "2026-01-03T18:00:00+00:00",
     "time": "",
     "status": {
-      "short": "Q1",
-      "long": "Quarter 1"
+      "short": "Q2",
+      "long": "Quarter 2"
     },
     "league": {
       "id": 116,
@@ -10914,8 +10914,8 @@
       }
     },
     "scores": {
-      "home": 21,
-      "away": 13
+      "home": 46,
+      "away": 38
     },
     "periods": null
   },
@@ -10953,8 +10953,8 @@
       }
     },
     "scores": {
-      "home": 17,
-      "away": 7
+      "home": 37,
+      "away": 21
     },
     "periods": null
   },
@@ -10963,8 +10963,8 @@
     "date": "2026-01-03T18:00:00+00:00",
     "time": "",
     "status": {
-      "short": "Q1",
-      "long": "Quarter 1"
+      "short": "Q2",
+      "long": "Quarter 2"
     },
     "league": {
       "id": 116,
@@ -10992,8 +10992,8 @@
       }
     },
     "scores": {
-      "home": 21,
-      "away": 23
+      "home": 47,
+      "away": 42
     },
     "periods": null
   },
@@ -11002,8 +11002,8 @@
     "date": "2026-01-03T18:00:00+00:00",
     "time": "",
     "status": {
-      "short": "Q1",
-      "long": "Quarter 1"
+      "short": "Q2",
+      "long": "Quarter 2"
     },
     "league": {
       "id": 116,
@@ -11031,8 +11031,8 @@
       }
     },
     "scores": {
-      "home": 10,
-      "away": 23
+      "home": 32,
+      "away": 38
     },
     "periods": null
   },
@@ -11041,8 +11041,8 @@
     "date": "2026-01-03T18:00:00+00:00",
     "time": "",
     "status": {
-      "short": "Q1",
-      "long": "Quarter 1"
+      "short": "Q2",
+      "long": "Quarter 2"
     },
     "league": {
       "id": 116,
@@ -11070,8 +11070,8 @@
       }
     },
     "scores": {
-      "home": 20,
-      "away": 19
+      "home": 34,
+      "away": 35
     },
     "periods": null
   },
@@ -11080,8 +11080,8 @@
     "date": "2026-01-03T18:00:00+00:00",
     "time": "",
     "status": {
-      "short": "Q1",
-      "long": "Quarter 1"
+      "short": "Q2",
+      "long": "Quarter 2"
     },
     "league": {
       "id": 116,
@@ -11109,8 +11109,8 @@
       }
     },
     "scores": {
-      "home": 17,
-      "away": 19
+      "home": 34,
+      "away": 25
     },
     "periods": null
   },
@@ -11119,8 +11119,8 @@
     "date": "2026-01-03T18:00:00+00:00",
     "time": "",
     "status": {
-      "short": "Q1",
-      "long": "Quarter 1"
+      "short": "Q2",
+      "long": "Quarter 2"
     },
     "league": {
       "id": 116,
@@ -11148,8 +11148,8 @@
       }
     },
     "scores": {
-      "home": 20,
-      "away": 28
+      "home": 35,
+      "away": 42
     },
     "periods": null
   },
@@ -11158,8 +11158,8 @@
     "date": "2026-01-03T18:00:00+00:00",
     "time": "",
     "status": {
-      "short": "Q1",
-      "long": "Quarter 1"
+      "short": "Q2",
+      "long": "Quarter 2"
     },
     "league": {
       "id": 116,
@@ -11187,8 +11187,8 @@
       }
     },
     "scores": {
-      "home": 17,
-      "away": 19
+      "home": 27,
+      "away": 33
     },
     "periods": null
   },
@@ -11429,10 +11429,10 @@
   {
     "id": 481729,
     "date": "2026-01-03T18:00:00+00:00",
-    "time": "1",
+    "time": "0",
     "status": {
-      "short": "Q2",
-      "long": "Quarter 2"
+      "short": "HT",
+      "long": "Halftime"
     },
     "league": {
       "id": 423,
@@ -11460,8 +11460,8 @@
       }
     },
     "scores": {
-      "home": 14,
-      "away": 21
+      "home": 28,
+      "away": 38
     },
     "periods": null
   },
@@ -11741,10 +11741,10 @@
   {
     "id": 486619,
     "date": "2026-01-03T18:00:00+00:00",
-    "time": "1",
+    "time": "0",
     "status": {
-      "short": "Q2",
-      "long": "Quarter 2"
+      "short": "HT",
+      "long": "Halftime"
     },
     "league": {
       "id": 121,
@@ -11772,18 +11772,18 @@
       }
     },
     "scores": {
-      "home": 26,
-      "away": 20
+      "home": 40,
+      "away": 51
     },
     "periods": null
   },
   {
     "id": 486683,
     "date": "2026-01-03T18:00:00+00:00",
-    "time": "2",
+    "time": "",
     "status": {
-      "short": "Q2",
-      "long": "Quarter 2"
+      "short": "HT",
+      "long": "Half Time"
     },
     "league": {
       "id": 163,
@@ -11811,8 +11811,8 @@
       }
     },
     "scores": {
-      "home": 27,
-      "away": 26
+      "home": 54,
+      "away": 46
     },
     "periods": null
   },
@@ -11928,15 +11928,15 @@
       }
     },
     "scores": {
-      "home": null,
-      "away": null
+      "home": 20,
+      "away": 25
     },
     "periods": null
   },
   {
     "id": 465601,
     "date": "2026-01-03T18:55:00+00:00",
-    "time": "",
+    "time": "0",
     "status": {
       "short": "NS",
       "long": "Not Started"
@@ -11975,7 +11975,7 @@
   {
     "id": 455913,
     "date": "2026-01-03T19:00:00+00:00",
-    "time": "",
+    "time": "0",
     "status": {
       "short": "NS",
       "long": "Not Started"
@@ -12014,7 +12014,7 @@
   {
     "id": 458702,
     "date": "2026-01-03T19:00:00+00:00",
-    "time": "",
+    "time": "0",
     "status": {
       "short": "NS",
       "long": "Not Started"
@@ -12053,7 +12053,7 @@
   {
     "id": 459394,
     "date": "2026-01-03T19:00:00+00:00",
-    "time": "",
+    "time": "0",
     "status": {
       "short": "NS",
       "long": "Not Started"
@@ -12092,7 +12092,7 @@
   {
     "id": 460457,
     "date": "2026-01-03T19:00:00+00:00",
-    "time": "",
+    "time": "0",
     "status": {
       "short": "NS",
       "long": "Not Started"
@@ -12170,7 +12170,7 @@
   {
     "id": 461331,
     "date": "2026-01-03T19:00:00+00:00",
-    "time": "",
+    "time": "0",
     "status": {
       "short": "NS",
       "long": "Not Started"
@@ -12209,7 +12209,7 @@
   {
     "id": 464061,
     "date": "2026-01-03T19:00:00+00:00",
-    "time": "",
+    "time": "0",
     "status": {
       "short": "NS",
       "long": "Not Started"
@@ -12250,8 +12250,8 @@
     "date": "2026-01-03T19:00:00+00:00",
     "time": "",
     "status": {
-      "short": "NS",
-      "long": "Not Started"
+      "short": "Q1",
+      "long": "Quarter 1"
     },
     "league": {
       "id": 116,
@@ -12289,8 +12289,8 @@
     "date": "2026-01-03T19:00:00+00:00",
     "time": "",
     "status": {
-      "short": "NS",
-      "long": "Not Started"
+      "short": "Q1",
+      "long": "Quarter 1"
     },
     "league": {
       "id": 116,
@@ -12328,8 +12328,8 @@
     "date": "2026-01-03T19:00:00+00:00",
     "time": "",
     "status": {
-      "short": "NS",
-      "long": "Not Started"
+      "short": "Q1",
+      "long": "Quarter 1"
     },
     "league": {
       "id": 116,
@@ -12367,8 +12367,8 @@
     "date": "2026-01-03T19:00:00+00:00",
     "time": "",
     "status": {
-      "short": "NS",
-      "long": "Not Started"
+      "short": "Q1",
+      "long": "Quarter 1"
     },
     "league": {
       "id": 116,
@@ -12406,8 +12406,8 @@
     "date": "2026-01-03T19:00:00+00:00",
     "time": "",
     "status": {
-      "short": "NS",
-      "long": "Not Started"
+      "short": "Q1",
+      "long": "Quarter 1"
     },
     "league": {
       "id": 116,
@@ -12445,8 +12445,8 @@
     "date": "2026-01-03T19:00:00+00:00",
     "time": "",
     "status": {
-      "short": "NS",
-      "long": "Not Started"
+      "short": "Q1",
+      "long": "Quarter 1"
     },
     "league": {
       "id": 116,
@@ -12484,8 +12484,8 @@
     "date": "2026-01-03T19:00:00+00:00",
     "time": "",
     "status": {
-      "short": "NS",
-      "long": "Not Started"
+      "short": "Q1",
+      "long": "Quarter 1"
     },
     "league": {
       "id": 116,
@@ -12523,8 +12523,8 @@
     "date": "2026-01-03T19:00:00+00:00",
     "time": "",
     "status": {
-      "short": "NS",
-      "long": "Not Started"
+      "short": "Q1",
+      "long": "Quarter 1"
     },
     "league": {
       "id": 116,
@@ -12562,8 +12562,8 @@
     "date": "2026-01-03T19:00:00+00:00",
     "time": "",
     "status": {
-      "short": "NS",
-      "long": "Not Started"
+      "short": "Q1",
+      "long": "Quarter 1"
     },
     "league": {
       "id": 116,
@@ -12601,8 +12601,8 @@
     "date": "2026-01-03T19:00:00+00:00",
     "time": "",
     "status": {
-      "short": "NS",
-      "long": "Not Started"
+      "short": "FT",
+      "long": "Game Finished"
     },
     "league": {
       "id": 116,
@@ -12640,8 +12640,8 @@
     "date": "2026-01-03T19:00:00+00:00",
     "time": "",
     "status": {
-      "short": "NS",
-      "long": "Not Started"
+      "short": "Q1",
+      "long": "Quarter 1"
     },
     "league": {
       "id": 116,
@@ -12679,8 +12679,8 @@
     "date": "2026-01-03T19:00:00+00:00",
     "time": "",
     "status": {
-      "short": "NS",
-      "long": "Not Started"
+      "short": "Q1",
+      "long": "Quarter 1"
     },
     "league": {
       "id": 116,
@@ -12718,8 +12718,8 @@
     "date": "2026-01-03T19:00:00+00:00",
     "time": "",
     "status": {
-      "short": "NS",
-      "long": "Not Started"
+      "short": "Q1",
+      "long": "Quarter 1"
     },
     "league": {
       "id": 116,
@@ -12757,8 +12757,8 @@
     "date": "2026-01-03T19:00:00+00:00",
     "time": "",
     "status": {
-      "short": "NS",
-      "long": "Not Started"
+      "short": "Q1",
+      "long": "Quarter 1"
     },
     "league": {
       "id": 116,
@@ -12796,8 +12796,8 @@
     "date": "2026-01-03T19:00:00+00:00",
     "time": "",
     "status": {
-      "short": "NS",
-      "long": "Not Started"
+      "short": "Q1",
+      "long": "Quarter 1"
     },
     "league": {
       "id": 116,
@@ -12835,8 +12835,8 @@
     "date": "2026-01-03T19:00:00+00:00",
     "time": "",
     "status": {
-      "short": "NS",
-      "long": "Not Started"
+      "short": "Q1",
+      "long": "Quarter 1"
     },
     "league": {
       "id": 116,
@@ -12874,8 +12874,8 @@
     "date": "2026-01-03T19:00:00+00:00",
     "time": "",
     "status": {
-      "short": "NS",
-      "long": "Not Started"
+      "short": "Q1",
+      "long": "Quarter 1"
     },
     "league": {
       "id": 116,
@@ -12913,8 +12913,8 @@
     "date": "2026-01-03T19:00:00+00:00",
     "time": "",
     "status": {
-      "short": "NS",
-      "long": "Not Started"
+      "short": "Q1",
+      "long": "Quarter 1"
     },
     "league": {
       "id": 116,
@@ -12952,8 +12952,8 @@
     "date": "2026-01-03T19:00:00+00:00",
     "time": "",
     "status": {
-      "short": "NS",
-      "long": "Not Started"
+      "short": "Q1",
+      "long": "Quarter 1"
     },
     "league": {
       "id": 116,
@@ -12991,8 +12991,8 @@
     "date": "2026-01-03T19:00:00+00:00",
     "time": "",
     "status": {
-      "short": "NS",
-      "long": "Not Started"
+      "short": "Q1",
+      "long": "Quarter 1"
     },
     "league": {
       "id": 116,
@@ -13030,8 +13030,8 @@
     "date": "2026-01-03T19:00:00+00:00",
     "time": "",
     "status": {
-      "short": "NS",
-      "long": "Not Started"
+      "short": "Q1",
+      "long": "Quarter 1"
     },
     "league": {
       "id": 116,
@@ -13069,8 +13069,8 @@
     "date": "2026-01-03T19:00:00+00:00",
     "time": "",
     "status": {
-      "short": "NS",
-      "long": "Not Started"
+      "short": "Q1",
+      "long": "Quarter 1"
     },
     "league": {
       "id": 116,
