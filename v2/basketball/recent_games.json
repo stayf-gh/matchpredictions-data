@@ -3800,6 +3800,44 @@
     "periods": null
   },
   {
+    "id": 471154,
+    "date": "2026-01-11T13:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 398,
+      "name": "Superliga Women",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/398.png"
+    },
+    "country": {
+      "id": 26,
+      "name": "Kosovo",
+      "code": "XK",
+      "flag": "https://media.api-sports.io/flags/xk.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 6121,
+        "name": "Peja W",
+        "logo": "https://media.api-sports.io/basketball/teams/6121.png"
+      },
+      "away": {
+        "id": 6010,
+        "name": "Bashkimi W",
+        "logo": "https://media.api-sports.io/basketball/teams/6010.png"
+      }
+    },
+    "scores": {
+      "home": 64,
+      "away": 58
+    },
+    "periods": null
+  },
+  {
     "id": 471691,
     "date": "2026-01-11T13:00:00+00:00",
     "status": {
@@ -3948,6 +3986,196 @@
     "scores": {
       "home": 65,
       "away": 73
+    },
+    "periods": null
+  },
+  {
+    "id": 486220,
+    "date": "2026-01-11T13:30:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 364,
+      "name": "SLB Women",
+      "type": "cup",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/364.png"
+    },
+    "country": {
+      "id": 55,
+      "name": "Europe",
+      "code": " ",
+      "flag": "https://media.api-sports.io/flags/ .svg"
+    },
+    "teams": {
+      "home": {
+        "id": 2320,
+        "name": "LCC W",
+        "logo": "https://media.api-sports.io/basketball/teams/2320.png"
+      },
+      "away": {
+        "id": 4837,
+        "name": "TTT Riga W",
+        "logo": "https://media.api-sports.io/basketball/teams/4837.png"
+      }
+    },
+    "scores": {
+      "home": 59,
+      "away": 89
+    },
+    "periods": null
+  },
+  {
+    "id": 459651,
+    "date": "2026-01-11T14:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 53,
+      "name": "Serie A1 W",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/53.png"
+    },
+    "country": {
+      "id": 23,
+      "name": "Italy",
+      "code": "IT",
+      "flag": "https://media.api-sports.io/flags/it.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 2271,
+        "name": "Sassari W",
+        "logo": "https://media.api-sports.io/basketball/teams/2271.png"
+      },
+      "away": {
+        "id": 3773,
+        "name": "Brixia W",
+        "logo": "https://media.api-sports.io/basketball/teams/3773.png"
+      }
+    },
+    "scores": {
+      "home": 87,
+      "away": 60
+    },
+    "periods": null
+  },
+  {
+    "id": 465457,
+    "date": "2026-01-11T14:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 115,
+      "name": "Division A",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/115.png"
+    },
+    "country": {
+      "id": 54,
+      "name": "Cyprus",
+      "code": "CY",
+      "flag": "https://media.api-sports.io/flags/cy.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 1394,
+        "name": "ETHA Engomi",
+        "logo": "https://media.api-sports.io/basketball/teams/1394.png"
+      },
+      "away": {
+        "id": 1389,
+        "name": "AEK Larnaca",
+        "logo": "https://media.api-sports.io/basketball/teams/1389.png"
+      }
+    },
+    "scores": {
+      "home": 79,
+      "away": 102
+    },
+    "periods": null
+  },
+  {
+    "id": 486891,
+    "date": "2026-01-11T14:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 106,
+      "name": "FBU Superleague",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/106.png"
+    },
+    "country": {
+      "id": 49,
+      "name": "Ukraine",
+      "code": "UA",
+      "flag": "https://media.api-sports.io/flags/ua.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 1309,
+        "name": "BC Dnipro",
+        "logo": "https://media.api-sports.io/basketball/teams/1309.png"
+      },
+      "away": {
+        "id": 2870,
+        "name": "Goverla",
+        "logo": "https://media.api-sports.io/basketball/teams/2870.png"
+      }
+    },
+    "scores": {
+      "home": 89,
+      "away": 66
+    },
+    "periods": null
+  },
+  {
+    "id": 488143,
+    "date": "2026-01-11T14:00:00+00:00",
+    "status": {
+      "short": "FT",
+      "long": "Game Finished"
+    },
+    "league": {
+      "id": 388,
+      "name": "Superliga",
+      "type": "League",
+      "season": "2025-2026",
+      "logo": "https://media.api-sports.io/basketball/leagues/388.png"
+    },
+    "country": {
+      "id": 76,
+      "name": "Albania",
+      "code": "AL",
+      "flag": "https://media.api-sports.io/flags/al.svg"
+    },
+    "teams": {
+      "home": {
+        "id": 5992,
+        "name": "Partizani Tirana",
+        "logo": "https://media.api-sports.io/basketball/teams/5992.png"
+      },
+      "away": {
+        "id": 6256,
+        "name": "Fieri",
+        "logo": "https://media.api-sports.io/basketball/teams/6256.png"
+      }
+    },
+    "scores": {
+      "home": 50,
+      "away": 79
     },
     "periods": null
   },
